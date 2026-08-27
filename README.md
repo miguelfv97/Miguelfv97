@@ -24,6 +24,13 @@ node scripts/biwenger-analysis.js
 
 Este script usa la API no oficial de Biwenger (`biwenger.as.com/api/v2`),
 que no esta documentada publicamente por Biwenger y puede cambiar sin aviso.
-No ha sido probado todavia contra una cuenta real: la primera ejecucion en un
-entorno con las variables configuradas puede requerir ajustes en el nombre de
-los campos de las respuestas (usar `BIWENGER_DEBUG=1` para inspeccionarlas).
+Ya ha sido probado contra una cuenta real (login, clasificacion y mercado);
+si Biwenger cambia el formato de sus respuestas en el futuro, usar
+`BIWENGER_DEBUG=1` para inspeccionarlas y ajustar el parseo.
+
+Los headers `X-League` y `X-User` que exige la API usan el id de liga y el id
+de **manager dentro de esa liga** (el campo `user.id` de cada liga en
+`/account`), no el id global de la cuenta.
+
+El mercado solo esta disponible en ligas con `marketMode: "normal"`; las
+ligas de tipo `fantasy` no tienen mercado y el script lo indica sin fallar.

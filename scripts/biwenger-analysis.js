@@ -4,6 +4,14 @@
 // Opcional: BIWENGER_LEAGUE_ID para elegir liga si la cuenta tiene varias.
 // Opcional: BIWENGER_DEBUG=1 para volcar las respuestas JSON crudas.
 
+import { ProxyAgent, setGlobalDispatcher } from "undici";
+
+// Node's built-in fetch no respeta HTTPS_PROXY salvo con NODE_USE_ENV_PROXY=1
+// al arrancar el proceso; como no siempre podemos controlar como se invoca el
+// script (p.ej. desde una Routine), forzamos el dispatcher explicitamente.
+const PROXY_URL = process.env.HTTPS_PROXY || process.env.https_proxy;
+if (PROXY_URL) setGlobalDispatcher(new ProxyAgent(PROXY_URL));
+
 const API = "https://biwenger.as.com/api/v2";
 
 const EMAIL = process.env.BIWENGER_EMAIL;
@@ -82,6 +90,22 @@ async function getMarket(token, leagueId, userId) {
   }
 }
 
+// Biwenger no incluye el nombre del jugador en /market ni /league, solo su id;
+// hay que resolverlo aparte contra el listado de jugadores de la competicion.
+async function getPlayersMap(token, leagueSummary) {
+  const competition = leagueSummary.competition;
+  const slug = typeof competition === "string" ? competition : competition?.slug;
+  if (!slug) return {};
+  try {
+    const data = await apiFetch(`/competitions/${slug}/data?lang=es&score=${leagueSummary.scoreID}`, { token });
+    debugDump("players", data);
+    return data.data?.players ?? {};
+  } catch (err) {
+    console.error(`(no se pudieron resolver los nombres de jugadores: ${err.message})`);
+    return {};
+  }
+}
+
 function pickLeague(account) {
   const leagues = account.leagues ?? [];
   if (leagues.length === 0) throw new Error("La cuenta no tiene ligas.");
@@ -93,49 +117,50 @@ function pickLeague(account) {
   return leagues[0];
 }
 
-function formatStandings(league, accountUserId) {
+function formatStandings(league, leagueUserId) {
   const standings = league.standings ?? [];
   const sorted = [...standings].sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
   const lines = sorted.map((entry, i) => {
-    const name = entry.name ?? entry.user?.name ?? "?";
+    const name = entry.name ?? "?";
     const points = entry.points ?? 0;
-    const teamValue = entry.teamValue ?? entry.value ?? null;
-    const isMe = String(entry.id ?? entry.user?.id) === String(accountUserId);
+    const isMe = String(entry.id) === String(leagueUserId);
     const marker = isMe ? " <- tu" : "";
-    const valueStr = teamValue ? `, valor equipo: ${teamValue.toLocaleString("es-ES")}` : "";
-    return `${i + 1}. ${name} - ${points} pts${valueStr}${marker}`;
+    return `${i + 1}. ${name} - ${points} pts${marker}`;
   });
   return lines.join("\n");
 }
 
-function formatMarket(market) {
+function formatMarket(market, playersMap) {
   if (!market) return "Sin datos de mercado disponibles.";
   const sales = market.sales ?? [];
   if (sales.length === 0) return "No hay jugadores en el mercado ahora mismo.";
   const lines = sales.slice(0, 10).map((sale) => {
-    const player = sale.player?.name ?? sale.name ?? "?";
-    const price = sale.price ?? sale.value ?? "?";
-    const seller = sale.user?.name ?? sale.from?.name ?? "mercado";
-    return `- ${player}: ${price} (vendedor: ${seller})`;
+    const player = playersMap[sale.player?.id]?.name ?? `jugador #${sale.player?.id ?? "?"}`;
+    const price = sale.price ?? "?";
+    const priceStr = typeof price === "number" ? price.toLocaleString("es-ES") : price;
+    const seller = sale.user?.name ?? "mercado (agente libre)";
+    return `- ${player}: ${priceStr} (${seller})`;
   });
   return lines.join("\n");
 }
 
 async function main() {
   const token = await login();
-  const account = await getAccount(token);
-  const leagueSummary = pickLeague(account);
-  const league = await getLeague(token, leagueSummary.id, account.id);
-  const market = await getMarket(token, leagueSummary.id, account.id);
+  const accountData = await getAccount(token);
+  const leagueSummary = pickLeague(accountData);
+  const leagueUserId = leagueSummary.user.id;
+  const league = await getLeague(token, leagueSummary.id, leagueUserId);
+  const market = await getMarket(token, leagueSummary.id, leagueUserId);
+  const playersMap = await getPlayersMap(token, leagueSummary);
 
   console.log(`\n=== Analisis diario - ${leagueSummary.name} ===`);
   console.log(`Fecha: ${new Date().toLocaleString("es-ES")}\n`);
 
   console.log("Clasificacion:");
-  console.log(formatStandings(league, account.id));
+  console.log(formatStandings(league, leagueUserId));
 
   console.log("\nMercado (top 10):");
-  console.log(formatMarket(market));
+  console.log(formatMarket(market, playersMap));
 }
 
 main().catch((err) => {
