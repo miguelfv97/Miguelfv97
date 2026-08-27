@@ -18,6 +18,10 @@ const EMAIL = process.env.BIWENGER_EMAIL;
 const PASSWORD = process.env.BIWENGER_PASSWORD;
 const LEAGUE_ID = process.env.BIWENGER_LEAGUE_ID;
 const DEBUG = process.env.BIWENGER_DEBUG === "1";
+const WATCHED_PLAYERS = (process.env.BIWENGER_WATCHED_PLAYERS || "Mbappé,Bellingham")
+  .split(",")
+  .map((s) => s.trim())
+  .filter(Boolean);
 
 if (!EMAIL || !PASSWORD) {
   console.error(
@@ -114,7 +118,34 @@ function pickLeague(account) {
     if (!found) throw new Error(`No se encontro la liga con id ${LEAGUE_ID}.`);
     return found;
   }
-  return leagues[0];
+  // Por defecto, la liga con mercado activo (marketMode "normal") es la
+  // relevante; las ligas "fantasy" no tienen mercado ni interesan aqui.
+  return leagues.find((l) => l.marketMode !== "fantasy") ?? leagues[0];
+}
+
+function normalize(str) {
+  return str
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase();
+}
+
+function formatPrice(price) {
+  return typeof price === "number" ? price.toLocaleString("es-ES") : String(price ?? "?");
+}
+
+function formatBalance(market) {
+  const balance = market?.status?.balance;
+  if (typeof balance !== "number") return null;
+  const warning = balance < 0 ? " -- SALDO NEGATIVO: no puntuas la jornada entera si sigue asi." : "";
+  return `Saldo actual: ${formatPrice(balance)} €${warning}`;
+}
+
+function findWatchedInMarket(sales, playersMap) {
+  const normalizedWatch = WATCHED_PLAYERS.map(normalize);
+  return sales
+    .map((sale) => ({ sale, name: playersMap[sale.player?.id]?.name }))
+    .filter(({ name }) => name && normalizedWatch.some((w) => normalize(name).includes(w)));
 }
 
 function formatStandings(league, leagueUserId) {
@@ -136,10 +167,8 @@ function formatMarket(market, playersMap) {
   if (sales.length === 0) return "No hay jugadores en el mercado ahora mismo.";
   const lines = sales.slice(0, 10).map((sale) => {
     const player = playersMap[sale.player?.id]?.name ?? `jugador #${sale.player?.id ?? "?"}`;
-    const price = sale.price ?? "?";
-    const priceStr = typeof price === "number" ? price.toLocaleString("es-ES") : price;
     const seller = sale.user?.name ?? "mercado (agente libre)";
-    return `- ${player}: ${priceStr} (${seller})`;
+    return `- ${player}: ${formatPrice(sale.price)} (${seller})`;
   });
   return lines.join("\n");
 }
@@ -161,6 +190,19 @@ async function main() {
 
   console.log("\nMercado (top 10):");
   console.log(formatMarket(market, playersMap));
+
+  if (market) {
+    const balanceLine = formatBalance(market);
+    if (balanceLine) console.log(`\n${balanceLine}`);
+
+    const watched = findWatchedInMarket(market.sales ?? [], playersMap);
+    console.log(`\nVigilancia (${WATCHED_PLAYERS.join(", ")}):`);
+    console.log(
+      watched.length
+        ? watched.map(({ name, sale }) => `- ¡${name} disponible! Precio: ${formatPrice(sale.price)}`).join("\n")
+        : "Ninguno de los jugadores vigilados esta en el mercado ahora mismo."
+    );
+  }
 }
 
 main().catch((err) => {

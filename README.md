@@ -10,7 +10,12 @@ En el entorno de Claude Code on the web, define estas variables de entorno:
 - `BIWENGER_EMAIL`: email de la cuenta de Biwenger.
 - `BIWENGER_PASSWORD`: contraseña de la cuenta de Biwenger.
 - `BIWENGER_LEAGUE_ID` (opcional): id de la liga a analizar, si la cuenta
-  pertenece a varias. Si no se indica, se usa la primera liga de la cuenta.
+  pertenece a varias. Si no se indica, se usa la primera liga con mercado
+  activo (`marketMode` distinto de `fantasy`); si ninguna lo tiene, la primera
+  de la cuenta.
+- `BIWENGER_WATCHED_PLAYERS` (opcional): lista separada por comas de jugadores
+  a vigilar en el mercado de agentes libres (por defecto `Mbappé,Bellingham`).
+  El script avisa si alguno aparece disponible ese dia.
 - `BIWENGER_DEBUG=1` (opcional): vuelca las respuestas JSON crudas de la API
   para depurar.
 
@@ -34,3 +39,10 @@ de **manager dentro de esa liga** (el campo `user.id` de cada liga en
 
 El mercado solo esta disponible en ligas con `marketMode: "normal"`; las
 ligas de tipo `fantasy` no tienen mercado y el script lo indica sin fallar.
+
+El script tambien muestra el saldo actual de la cuenta (avisando si esta en
+negativo, lo que en muchas ligas hace que no puntues la jornada) y una seccion
+de vigilancia para los jugadores en `BIWENGER_WATCHED_PLAYERS`.
+
+Este script es de solo lectura: consulta clasificacion, mercado y saldo, pero
+nunca puja, ficha, vende ni cambia la alineacion.
