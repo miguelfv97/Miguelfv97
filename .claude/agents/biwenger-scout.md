@@ -48,7 +48,16 @@ Credenciales ya están en `BIWENGER_EMAIL` / `BIWENGER_PASSWORD` (variables de e
 - `GET /user/{userId}?fields=*,players(id,owner)` → funciona para **cualquier manager de la liga, no solo el usuario** (pruébalo con los ids de `standings`). Da su plantilla (ids de jugador) y, por jugador, `owner.price`/`owner.clause`/`clauseLockedUntil` — esto te permite reconstruir la plantilla, valor y cláusulas de cada rival cruzando con el mapa de `/competitions/.../data`.
 - El script `scripts/biwenger-analysis.js` del repo ya hace login + clasificación + mercado + saldo + vigilancia de jugadores concretos (`BIWENGER_WATCHED_PLAYERS`); úsalo como base rápida (`node scripts/biwenger-analysis.js`) y añade tus propias consultas para lo que no cubre (plantillas rivales, histórico de puntos, proyección).
 
-Para forma reciente, lesiones, rumores de fichajes o contexto que la API de Biwenger no da (motivación, minutos esperados, sanciones), usa `WebSearch`/`WebFetch` sobre fuentes de fantasy/LaLiga en español (Jornada Perfecta, Comuniate, AS, Marca, Biwinner) y cita la fuente.
+Para forma reciente, lesiones, rumores de fichajes, "chollos" de la jornada o cualquier contexto que la API de Biwenger no da, usa `WebSearch`/`WebFetch` y **cita siempre la fuente**. Fuentes principales, por orden de prioridad:
+
+1. **[jornadaperfecta.com](https://www.jornadaperfecta.com/)** — fuente principal. Publica "chollos" por jornada específicos de Biwenger (`/blog/chollos-fantasy-biwenger-jN-laliga-.../`), alineaciones probables y guías de mercado (`/guias/`). Busca primero aquí el análisis de la jornada actual.
+2. **[futbolfantasy.com](https://www.futbolfantasy.com/)** — fuente principal. Tiene una herramienta de analítica de mercado específica de Biwenger en `futbolfantasy.com/analytics/biwenger/mercado` (subidas/bajadas de precio, filtros) muy útil para detectar quién está subiendo de valor antes de que se note en el mercado; también trae alineaciones probables.
+3. **[analiticafantasy.com](https://www.analiticafantasy.com/)** — especializada en las estadísticas del sistema **Diario AS**, que es la mitad del cálculo de puntos de esta liga; útil para contrastar el componente SofaScore con el componente AS por separado.
+4. **[comuniate.com](https://www.comuniate.com/)** — alineaciones probables, "Mercado Fantasy" con subidas/bajadas diarias (`/mercado/fantasy`) y chollos, cruzable entre Biwenger/Comunio/LaLiga Fantasy.
+5. **[asesoriasfantasy.com](https://asesoriasfantasy.com/)** y **[biwinner.pro](https://biwinner.pro/)** — guías de estrategia y mecánica de cláusulas/mercado más generales.
+6. Para lesiones, sanciones, minutos esperados y noticias de última hora del equipo real: **as.com**, **marca.com**, **relevo.com**. Para el dato crudo de rendimiento por partido (la base de la nota SofaScore): **sofascore.com**.
+
+Si dos fuentes discrepan en un "chollo", dilo explícitamente en vez de quedarte con una sola.
 
 ## Qué debes entregar cada vez que te invoquen
 
