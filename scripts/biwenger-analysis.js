@@ -22,6 +22,9 @@ const WATCHED_PLAYERS = (process.env.BIWENGER_WATCHED_PLAYERS || "Mbappé,Bellin
   .split(",")
   .map((s) => s.trim())
   .filter(Boolean);
+// El mercado rota cada 24h; una ventana algo mayor absorbe el jitter de cuando
+// se ejecuta el script cada dia sin dejar de capturar los fichajes del ultimo ciclo.
+const SIGNINGS_WINDOW_HOURS = Number(process.env.BIWENGER_SIGNINGS_WINDOW_HOURS || 26);
 
 if (!EMAIL || !PASSWORD) {
   console.error(
@@ -108,6 +111,53 @@ async function getPlayersMap(token, leagueSummary) {
     console.error(`(no se pudieron resolver los nombres de jugadores: ${err.message})`);
     return {};
   }
+}
+
+// Recorre la plantilla de cada manager de la liga (funciona con el id de
+// cualquiera, no solo el tuyo) y usa owner.date para detectar fichajes
+// recientes: no hay un endpoint de "movimientos" directo, así que esto es
+// lo mas parecido a un historial de fichajes del ultimo ciclo de mercado.
+async function getRecentSignings(token, leagueId, leagueUserId, standings, playersMap) {
+  const cutoff = Date.now() / 1000 - SIGNINGS_WINDOW_HOURS * 3600;
+  const signings = [];
+  for (const manager of standings) {
+    let user;
+    try {
+      const data = await apiFetch(`/user/${manager.id}?fields=*,players(id,owner)`, {
+        token,
+        leagueId,
+        userId: leagueUserId,
+      });
+      user = data.data ?? data;
+    } catch (err) {
+      console.error(`(no se pudo consultar la plantilla de ${manager.name}: ${err.message})`);
+      continue;
+    }
+    for (const player of user.players ?? []) {
+      const date = player.owner?.date;
+      if (typeof date === "number" && date >= cutoff) {
+        signings.push({
+          manager: manager.name,
+          player: playersMap[player.id]?.name ?? `jugador #${player.id}`,
+          price: player.owner?.price,
+          date,
+        });
+      }
+    }
+  }
+  return signings.sort((a, b) => b.date - a.date);
+}
+
+function formatRecentSignings(signings) {
+  if (signings.length === 0) {
+    return `Sin fichajes detectados en las ultimas ${SIGNINGS_WINDOW_HOURS}h.`;
+  }
+  return signings
+    .map(({ manager, player, price, date }) => {
+      const hoursAgo = ((Date.now() / 1000 - date) / 3600).toFixed(1);
+      return `- ${manager}: ${player} por ${formatPrice(price)} (hace ${hoursAgo}h)`;
+    })
+    .join("\n");
 }
 
 function pickLeague(account) {
@@ -203,6 +253,10 @@ async function main() {
         : "Ninguno de los jugadores vigilados esta en el mercado ahora mismo."
     );
   }
+
+  const signings = await getRecentSignings(token, leagueSummary.id, leagueUserId, league.standings ?? [], playersMap);
+  console.log(`\nFichajes recientes (ultimas ${SIGNINGS_WINDOW_HOURS}h, todos los managers):`);
+  console.log(formatRecentSignings(signings));
 }
 
 main().catch((err) => {

@@ -16,6 +16,10 @@ En el entorno de Claude Code on the web, define estas variables de entorno:
 - `BIWENGER_WATCHED_PLAYERS` (opcional): lista separada por comas de jugadores
   a vigilar en el mercado de agentes libres (por defecto `Mbappé,Bellingham`).
   El script avisa si alguno aparece disponible ese dia.
+- `BIWENGER_SIGNINGS_WINDOW_HOURS` (opcional, por defecto `26`): ventana en
+  horas para el resumen de fichajes recientes de todos los managers (el
+  mercado rota cada 24h, asi que el margen extra absorbe el jitter de a que
+  hora se ejecuta el script cada dia).
 - `BIWENGER_DEBUG=1` (opcional): vuelca las respuestas JSON crudas de la API
   para depurar.
 
@@ -41,8 +45,14 @@ El mercado solo esta disponible en ligas con `marketMode: "normal"`; las
 ligas de tipo `fantasy` no tienen mercado y el script lo indica sin fallar.
 
 El script tambien muestra el saldo actual de la cuenta (avisando si esta en
-negativo, lo que en muchas ligas hace que no puntues la jornada) y una seccion
-de vigilancia para los jugadores en `BIWENGER_WATCHED_PLAYERS`.
+negativo, lo que en muchas ligas hace que no puntues la jornada), una seccion
+de vigilancia para los jugadores en `BIWENGER_WATCHED_PLAYERS`, y un resumen
+de los fichajes recientes de **todos** los managers de la liga (no solo el
+usuario). Biwenger no tiene un endpoint de "movimientos"/historial de
+transferencias, asi que esto se aproxima recorriendo la plantilla de cada
+manager (`/user/{id}`, funciona para cualquiera) y usando la fecha de compra
+(`owner.date`) de cada jugador para detectar altas dentro de la ventana de
+`BIWENGER_SIGNINGS_WINDOW_HOURS`.
 
 Este script es de solo lectura: consulta clasificacion, mercado y saldo, pero
 nunca puja, ficha, vende ni cambia la alineacion.
