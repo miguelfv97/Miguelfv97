@@ -47,12 +47,20 @@ ligas de tipo `fantasy` no tienen mercado y el script lo indica sin fallar.
 El script tambien muestra el saldo actual de la cuenta (avisando si esta en
 negativo, lo que en muchas ligas hace que no puntues la jornada), una seccion
 de vigilancia para los jugadores en `BIWENGER_WATCHED_PLAYERS`, y un resumen
-de los fichajes recientes de **todos** los managers de la liga (no solo el
-usuario). Biwenger no tiene un endpoint de "movimientos"/historial de
-transferencias, asi que esto se aproxima recorriendo la plantilla de cada
-manager (`/user/{id}`, funciona para cualquiera) y usando la fecha de compra
-(`owner.date`) de cada jugador para detectar altas dentro de la ventana de
-`BIWENGER_SIGNINGS_WINDOW_HOURS`.
+de los movimientos recientes de **todos** los managers de la liga (no solo el
+usuario), sacado del tablon de actividad de la liga (`/league/{id}/board`)
+dentro de la ventana de `BIWENGER_SIGNINGS_WINDOW_HOURS`. Cada movimiento se
+clasifica correctamente como uno de estos cuatro tipos, que no son lo mismo:
+
+- **Fichaje libre**: comprado del mercado de agentes libres (evento `market`).
+- **Clausula ejecutada**: alguien ha pagado la clausula de un jugador de otro
+  manager sin necesitar su acuerdo (evento `transfer` con `type: "clause"`).
+- **Traspaso pactado**: dos managers acuerdan un traspaso directamente fuera
+  del mecanismo de clausula (evento `transfer` con `to` pero sin `type`) —
+  esto es raro (unas pocas veces por temporada) y requiere que ambos managers
+  se pongan de acuerdo, no se puede hacer unilateralmente.
+- **Venta instantanea**: un manager vende al sistema por el 50% del valor
+  (evento `transfer` con solo `from`, sin `to`).
 
 Este script es de solo lectura: consulta clasificacion, mercado y saldo, pero
 nunca puja, ficha, vende ni cambia la alineacion.

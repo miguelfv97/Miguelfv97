@@ -113,49 +113,78 @@ async function getPlayersMap(token, leagueSummary) {
   }
 }
 
-// Recorre la plantilla de cada manager de la liga (funciona con el id de
-// cualquiera, no solo el tuyo) y usa owner.date para detectar fichajes
-// recientes: no hay un endpoint de "movimientos" directo, así que esto es
-// lo mas parecido a un historial de fichajes del ultimo ciclo de mercado.
-async function getRecentSignings(token, leagueId, leagueUserId, standings, playersMap) {
-  const cutoff = Date.now() / 1000 - SIGNINGS_WINDOW_HOURS * 3600;
-  const signings = [];
-  for (const manager of standings) {
-    let user;
-    try {
-      const data = await apiFetch(`/user/${manager.id}?fields=*,players(id,owner)`, {
-        token,
-        leagueId,
-        userId: leagueUserId,
-      });
-      user = data.data ?? data;
-    } catch (err) {
-      console.error(`(no se pudo consultar la plantilla de ${manager.name}: ${err.message})`);
-      continue;
-    }
-    for (const player of user.players ?? []) {
-      const date = player.owner?.date;
-      if (typeof date === "number" && date >= cutoff) {
-        signings.push({
-          manager: manager.name,
-          player: playersMap[player.id]?.name ?? `jugador #${player.id}`,
-          price: player.owner?.price,
-          date,
+// El tablon de la liga (/league/{id}/board) es la unica fuente de un
+// historial de movimientos real. Cada item de un evento "transfer" con
+// "from" y "to" trae un campo "type": si es "clause" fue una clausula
+// ejecutada unilateralmente; si no tiene "type" es un traspaso pactado
+// directamente entre managers (raro, requiere acuerdo mutuo). Un "transfer"
+// con solo "from" es una venta instantanea al sistema (50% del valor). Un
+// evento "market" es un fichaje del mercado de agentes libres.
+async function getRecentMoves(token, leagueId, leagueUserId, playersMap, hoursWindow) {
+  const cutoff = Date.now() / 1000 - hoursWindow * 3600;
+  let board;
+  try {
+    const data = await apiFetch(`/league/${leagueId}/board?limit=200&offset=0`, {
+      token,
+      leagueId,
+      userId: leagueUserId,
+    });
+    board = (data.data ?? data) || [];
+  } catch (err) {
+    console.error(`(no se pudo consultar el tablon de la liga: ${err.message})`);
+    return [];
+  }
+
+  const moves = [];
+  for (const event of board) {
+    if (event.date < cutoff) continue;
+    if (event.type === "market") {
+      for (const item of event.content) {
+        moves.push({
+          date: event.date,
+          manager: item.to.name,
+          action: "fichaje libre",
+          player: playersMap[item.player]?.name ?? `jugador #${item.player}`,
+          price: item.amount,
         });
+      }
+    } else if (event.type === "transfer") {
+      for (const item of event.content) {
+        const player = playersMap[item.player]?.name ?? `jugador #${item.player}`;
+        if (item.to) {
+          const action = item.type === "clause" ? "clausula ejecutada a" : "traspaso pactado con";
+          moves.push({
+            date: event.date,
+            manager: item.to.name,
+            action,
+            counterpart: item.from.name,
+            player,
+            price: item.amount,
+          });
+        } else {
+          moves.push({
+            date: event.date,
+            manager: item.from.name,
+            action: "venta instantanea",
+            player,
+            price: item.amount,
+          });
+        }
       }
     }
   }
-  return signings.sort((a, b) => b.date - a.date);
+  return moves.sort((a, b) => b.date - a.date);
 }
 
-function formatRecentSignings(signings) {
-  if (signings.length === 0) {
-    return `Sin fichajes detectados en las ultimas ${SIGNINGS_WINDOW_HOURS}h.`;
+function formatRecentMoves(moves, hoursWindow) {
+  if (moves.length === 0) {
+    return `Sin movimientos detectados en las ultimas ${hoursWindow}h.`;
   }
-  return signings
-    .map(({ manager, player, price, date }) => {
+  return moves
+    .map(({ manager, action, counterpart, player, price, date }) => {
       const hoursAgo = ((Date.now() / 1000 - date) / 3600).toFixed(1);
-      return `- ${manager}: ${player} por ${formatPrice(price)} (hace ${hoursAgo}h)`;
+      const counterpartStr = counterpart ? ` ${counterpart}` : "";
+      return `- ${manager}: ${action}${counterpartStr} - ${player} por ${formatPrice(price)} (hace ${hoursAgo}h)`;
     })
     .join("\n");
 }
@@ -254,9 +283,9 @@ async function main() {
     );
   }
 
-  const signings = await getRecentSignings(token, leagueSummary.id, leagueUserId, league.standings ?? [], playersMap);
-  console.log(`\nFichajes recientes (ultimas ${SIGNINGS_WINDOW_HOURS}h, todos los managers):`);
-  console.log(formatRecentSignings(signings));
+  const moves = await getRecentMoves(token, leagueSummary.id, leagueUserId, playersMap, SIGNINGS_WINDOW_HOURS);
+  console.log(`\nMovimientos recientes (ultimas ${SIGNINGS_WINDOW_HOURS}h, todos los managers):`);
+  console.log(formatRecentMoves(moves, SIGNINGS_WINDOW_HOURS));
 }
 
 main().catch((err) => {
