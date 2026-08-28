@@ -56,3 +56,19 @@ manager (`/user/{id}`, funciona para cualquiera) y usando la fecha de compra
 
 Este script es de solo lectura: consulta clasificacion, mercado y saldo, pero
 nunca puja, ficha, vende ni cambia la alineacion.
+
+## Agente de analisis (`biwenger-scout`)
+
+`.claude/agents/biwenger-scout.md` define un subagente especializado en
+mercado, cláusulas y estrategia de esta liga (usa la API de Biwenger para
+datos en vivo y fuentes externas para chollos/lesiones/forma). Sus
+principios permanentes: el objetivo es ganar la liga a fin de temporada (no
+optimizar una jornada suelta), los datos caducan rapido (el mercado y las
+plantillas cambian 2-3 veces al dia, siempre hay que reverificar en vivo), y
+rotar la plantilla es lo normal dado el volumen de movimientos diarios.
+
+`data/laliga-2026-27-fixtures.json` tiene el calendario completo de las 38
+jornadas de LaLiga 2026/27 (nombres de equipo normalizados a los de
+Biwenger), para valorar puntualmente si el calendario de un jugador es
+favorable u hostil de cara a una decision de alineacion o fichaje — un
+factor secundario, nunca el principal.
