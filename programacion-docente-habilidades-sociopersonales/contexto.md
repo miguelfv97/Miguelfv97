@@ -94,7 +94,7 @@ Criterios: a) formas de delincuencia y factores que influyen; b) efectos del alc
   - **UD4 (33h) — Gestión de conflictos y toma de decisiones:** mapea a RA2. Actividades: tipos de conflicto y actitudes ante él, pasos de resolución de conflictos, negociación y mediación (incluye simulación de proceso de mediación formal, charla de especialista, fichero de técnicas, folleto informativo), rincón de resolución de conflictos, dossier final, prueba escrita.
 - La autoevaluación de la competencia social (equivalente a RA3) no aparece como UD independiente en este documento — está integrada transversalmente en cada UD, no como unidad propia.
 
-## 6. Próximos pasos acordados
+## 6. Próximos pasos acordados (histórico inicial — ver §7 para el estado real tras el trabajo de desarrollo)
 
 1. Pepe va a aportar: RA y criterios de evaluación del módulo "Habilidades Sociales" que impartió antes, sus UT/temas propios, ejercicios y trabajos prácticos, y (si la localiza) la programación docente completa que usó hace 2-3 cursos.
 2. Cruzar ese material propio con:
@@ -104,3 +104,57 @@ Criterios: a) formas de delincuencia y factores que influyen; b) efectos del alc
 3. Construir desde cero (con apoyo de los contenidos de Aragón) las UT4-RA4 (patrones de comportamiento en entornos de seguridad) y UT6-RA6 (delincuencia), ya que no tienen equivalente en el módulo de Integración Social/Educación Infantil.
 4. Pendiente decidir si se completa la revisión del Decreto 69/2025 de Castilla-La Mancha (extracción manual de las imágenes del Anexo II) como segunda referencia comparada, o si con Aragón + IVAC-EEI es suficiente para arrancar el boceto.
 5. Tener en cuenta en todo momento que la CARM asigna 230 horas reales al módulo (frente a las 80 mínimas del RD) a la hora de dimensionar cada UT y la temporalización general.
+
+## 7. Estado tras la fase de desarrollo de las UT (sesión de continuación)
+
+Todo lo de este apartado se generó en una sesión de trabajo posterior a este documento. Los archivos fuente (HTML de cada UT, scripts de generación de .docx) viven en el entorno de esa sesión, no en este repositorio — este apartado es el registro narrativo de las decisiones, para poder reconstruir o continuar el trabajo.
+
+### 7.1 Formato de entrega adoptado
+Cada UT se entrega en **dos documentos PDF con estilo "libro de texto"**, generados a partir de HTML propio (CSS a medida) renderizado a PDF vía Chromium headless:
+- **Libro de texto del alumnado**: portada informal y colorida (paleta de color distinta por UT), índice, bloques teóricos cortos con cajas de definición, y actividades prácticas totalmente desarrolladas (diálogos/casos/supuestos concretos, no enunciados abiertos). Sin indicación de qué contenido es "nuevo" vs. reciclado (irrelevante para el alumnado). Sin tiempos de duración por actividad (para dar margen de gestión de aula al profesor).
+- **Guía docente** ("USO DOCENTE, NO ENTREGAR AL ALUMNADO"): rúbricas de evaluación, propuesta de ponderación, prueba de evaluación teórica con solucionario (si aplica), solucionario de actividades, temporalización por sesiones, recomendaciones de recursos/materiales, y trazabilidad de fuentes (qué es material propio del profesor, qué es adaptado, qué es elaboración nueva).
+
+### 7.2 UT completadas
+- **UT1 (RA1, Comunicación/IE)**: basada en material propio del profesor (tema "Habilidades Sociales" curso 24-25, genérico y de buena calidad) + IVAC-EEI como referencia estructural de actividades + contenido nuevo para los criterios sin cobertura (f, g, h, j): ética/deontología (Ley 5/2014 Seguridad Privada), igualdad y no discriminación (Ley 19/2020 + protocolos autonómicos), autocontrol emocional en situaciones críticas, actitud ante el cambio.
+- **UT2 (RA2, Gestión de conflictos)**: basada en otro tema propio del profesor ("UT3: Resolución de conflictos y toma de decisiones", igualmente genérico, con PPT de apoyo) — cubre tipos de conflicto, fases de resolución, mecanismos exógenos/endógenos, mediación, negociación (estrategias de Pruitt), toma de decisiones y técnica de los Seis Sombreros de De Bono. Contenido nuevo añadido: fuentes de conflicto específicas del entorno de seguridad, y el informe/parte de incidencias (estructura qué-quién-dónde-cuándo-cómo-por qué) para el criterio f).
+- **UT5 (RA5, Trabajo en grupo)**: basada en tema propio del profesor "Dinamización del trabajo en grupo" (excelente y genérico: estructura grupal, roles, liderazgo, cohesión, estructuras de comunicación de Leavitt, trabajo cooperativo de Johnson & Johnson, catálogo de dinámicas de grupo). Se descartó por completo el material de "Conducción de reuniones" que aportó el profesor (ningún criterio de RA5 lo contempla). Se incorporó una actividad de sociograma (técnica de Moreno, ya citada en la teoría) rediseñada como caso simulado con datos ficticios (no la encuesta real de alumnado de un curso anterior que aportó el profesor, por motivos de protección de datos y simplicidad de ejecución).
+- **UT3 (RA3, Autoevaluación de la competencia social)**: **estructuralmente distinta** al resto — criterios enteramente procedimentales, sin cuerpo teórico real que enseñar. Se divide en dos momentos del calendario:
+  - **Apertura** (primera semana de curso, en paralelo al inicio de la UT1): autoevaluación inicial sencilla (ficha propia, criterios a-b).
+  - **Cierre** (al final del módulo, tras UT1-UT5-UT2-UT4-UT6): registro con la **Escala de Habilidades Sociales de Goldstein, Sprafkin, Gershaw y Klein (1980)** (50 ítems / 6 categorías — instrumento real aportado por el profesor a partir de una experiencia docente previa en CFGS Animación Sociocultural; conecta con la clasificación de Goldstein que ya aparece en el tema propio de la UT1), interpretación comparada con la ficha inicial, plan de mejora con plazos y previsión de obstáculos, y valoración final escrita con requisitos mínimos explícitos (extensión, terminología correcta, evidencias de ≥2 UT distintas).
+  - **Sin examen**: tras revisar críticamente una primera propuesta de prueba teórica, se concluyó que era mayoritariamente redundante con el portfolio (o directamente forzada, en el caso de una pregunta que evaluaba la lógica de diseño de la propia UT en vez de contenido real). Ponderación: **100% portfolio**.
+  - Es la única UT individual (no grupal) del módulo, y la única sin proyecto integrador de grupo.
+
+### 7.3 Pendiente de construir
+- **UT4 (RA4, Identificación de patrones de comportamiento en entornos de seguridad)**: sin material propio del profesor, sin UD equivalente en IVAC-EEI. Construir desde cero apoyándose en los contenidos ampliados de Aragón (identificación de personas, técnicas de descripción: atención/percepción/memoria).
+- **UT6 (RA6, Factores que influyen en la delincuencia)**: sin material propio del profesor, sin UD equivalente en IVAC-EEI. Construir desde cero apoyándose en Aragón (panorama de la delincuencia, procedimientos del agresor, técnicas de información y observación).
+
+### 7.4 Orden real de impartición (distinto del orden numérico UT1→UT6)
+Las etiquetas "UT = RA" (UT1↔RA1 ... UT6↔RA6) se mantienen para identificación y evaluación, pero **no marcan el orden de impartición en el calendario**. Orden acordado:
+1. Autoevaluación inicial de RA3 (apertura) — primera semana de curso.
+2. UT1 (RA1).
+3. UT5 (RA5) — adelantada porque da herramientas de roles/reparto de tareas que benefician a todo el trabajo grupal del resto del módulo (ya se usaba trabajo en grupo desde la UT1 sin haber dado antes esa base teórica).
+4. UT2 (RA2).
+5. UT4 (RA4) — pendiente de construir.
+6. UT6 (RA6) — pendiente de construir.
+7. Cierre de RA3 (UT3, resto de criterios) — al final del todo, para que la "valoración final del proceso" tenga recorrido real que valorar.
+
+### 7.5 Metodología de evaluación y ponderación
+- Marco normativo: no hay porcentaje autonómico obligatorio entre teoría y práctica (ni CARM ni RD 676/1993 / Orden 14-11-1994 lo fijan); solo evaluación continua, calificación 1-10 sin decimales, aprobado ≥5, recuperación. La ponderación exacta es decisión del departamento, documentada en cada guía docente.
+- Patrón adoptado para UT "normales" (UT1, UT2, UT5): 30% actividades de aula + 30% proyecto integrador de grupo + 40% prueba teórica.
+- UT3 rompe el patrón (100% portfolio, sin examen) por la naturaleza procedimental de RA3 — justificado explícitamente en su guía docente para que no parezca una improvisación.
+- Las rúbricas de trabajos grupales incluyen un indicador de "trabajo en equipo / participación equilibrada", evaluado por **observación directa del profesor durante el trabajo autónomo en el aula** (sin necesidad de autoinformes escritos adicionales del alumnado, decisión tomada tras discutirlo explícitamente).
+
+### 7.6 Metodología de entrega de actividades prácticas (decisión importante, aplica a todo el módulo)
+- **Modelo "dossier individual por UT"**: cada alumno/a entrega, al cierre de cada UT (coincidiendo con el día de la prueba de evaluación de esa UT), un dossier individual con las actividades que el profesor haya indicado como calificables a lo largo de esa unidad (no todas las actividades trabajadas en clase son necesariamente entregables — el profesor lo decide sobre la marcha).
+- Este modelo (frente a "entrega inmediata por actividad" o "dossier único de todo el curso") se eligió porque dinamización de encaja mejor con las ausencias del alumnado: quien falta un día concreto tiene margen (hasta el cierre de la UT) para recuperar esa actividad sin perjuicio grave, usando el material editable individual de esa actividad.
+- **Excepción explícita**: actividades en vivo/performativas (rol-playings grabados, exposiciones, dinámicas grupales presenciales) no se pueden recuperar igual a posteriori — pendiente de definir una política específica de recuperación para estas (actividad sustitutiva individual, o repetición de la dinámica en otro momento). El profesor plantea reservar tiempo de preparación autónoma en el aula en sesiones previas para estas actividades, de forma que quien falte a esa preparación pueda incorporarse después.
+- **Dos tipos de documento editable creados** (formato Word, en una carpeta "actividades prácticas editables" para colgar en el aula virtual/Classroom):
+  1. Un archivo individual por cada actividad de cada UT ya construida (33 archivos: UT1 11, UT2 8, UT3 5, UT5 9), con enunciado completo + espacio de respuesta. Sirven para repartir día a día sin desvelar actividades futuras.
+  2. **Una única plantilla de dossier genérica y reutilizable** (no una por UT — se descartó esa primera versión por no escalar bien a UT4/UT6 y por duplicar mantenimiento): cabecera en blanco para indicar UT/RA/nombre/fecha, índice en blanco de actividades incluidas, y 12 huecos de "Actividad nº ___" con espacio para pegar enunciado + desarrollo. Se sube una sola vez al principio de curso y se reutiliza (una copia por UT).
+
+### 7.7 Pendiente de aportar por el profesor
+- Su horario (días y duración de las sesiones del módulo).
+- El calendario oficial del centro (festivos locales, vueltas de vacaciones), además del calendario CARM 26/27 ya localizado (inicio de curso FP: 14 sept. 2026; Navidad 24 dic.-6 ene.; Semana Santa 22-29 marzo 2027; 1 feb. 2027 no lectivo San Juan Bosco). Sin estos dos documentos no se puede cerrar la temporalización general con fechas reales.
+
+### 7.8 Encargo futuro ya anunciado (no iniciar hasta que el profesor lo pida explícitamente)
+El profesor ha pedido que se guarde constancia de que, más adelante, querrá una **presentación (formato a decidir, probablemente .pptx)** para el día de presentación del módulo al alumnado, que sintetice de forma clara y estructurada **el funcionamiento general del módulo** (no el contenido de las UT): metodología de trabajo en grupo, sistema de dossier y entregas, criterios de evaluación/ponderación, calendario general, etc. Todo el contenido de este §7 es la base de la que debería nutrirse esa presentación cuando se pida.
