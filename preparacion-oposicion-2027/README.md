@@ -4,7 +4,12 @@ Programación didáctica para la oposición al Cuerpo de Profesores de Enseñanz
 
 ## Módulo elegido
 
-**0018 — Intervención con familias y atención a menores en riesgo social** (CFGS Educación Infantil, 2º curso), con **155 horas** reales (Resolución 5/07/2024 CARM, no las 120h de la Orden de 2010). Pendiente decidir de forma definitiva frente al módulo finalista alternativo: *Metodología de la intervención social*.
+**0018 — Intervención con familias y atención a menores en riesgo social** (CFGS Educación Infantil, 2º curso), con **155 horas** reales (Resolución 5/07/2024 CARM, no las 120h de la Orden de 2010). Pendiente decidir de forma definitiva frente a dos módulos candidatos: *Metodología de la intervención social* y, desde septiembre de 2026, **Habilidades sociales** (CFGS Integración Social) — este último por su solapamiento de RA con el módulo Habilidades Sociopersonales que Pepe ya ha desarrollado como docente (ver `contexto.md` §3 y §12). Ninguno de los datos de este tercer candidato está verificado todavía.
+
+## Relación con otros proyectos y con la preparadora
+
+- La programación se entrega por fases a la preparadora del opositor (Grupo Pedro Nicolás), que marca pautas, fija fechas de entrega y corrige con indicaciones propias. Claude actúa como herramienta de ejecución de esas correcciones, no como quien decide el enfoque — ver `contexto.md` §13.
+- Si el módulo definitivo es Habilidades sociales, se reutilizará como fuente de inspiración (no como plantilla literal) el material ya desarrollado en `../programacion-docente-habilidades-sociopersonales/` — ver `contexto.md` §12 para las diferencias de formato entre programación docente y programación didáctica de oposición.
 
 ## Estado del índice de la programación
 

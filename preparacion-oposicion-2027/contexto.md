@@ -62,11 +62,22 @@ selectivos de ingreso al Cuerpo de Profesores de Enseñanza Secundaria y otros
 - Atribuido a la especialidad de Intervención Sociocomunitaria
 
 ### Decisión aún abierta
-Queda pendiente la elección definitiva frente al otro módulo finalista:
-**Metodología de la intervención social** (1.º del CFGS de Integración Social,
-también atribuido a Intervención Sociocomunitaria). Se optó por empezar a
-trabajar el 0018 por conocerlo de haberlo impartido, pero la decisión no está
-cerrada.
+Queda pendiente la elección definitiva frente a otros módulos candidatos:
+- **Metodología de la intervención social** (1.º del CFGS de Integración
+  Social, también atribuido a Intervención Sociocomunitaria).
+- **Habilidades sociales** (CFGS Técnico Superior en Integración Social):
+  candidato añadido en septiembre de 2026. Su interés principal es que tiene
+  Resultados de Aprendizaje comunes o muy parecidos a los del módulo
+  **Habilidades Sociopersonales** (CFGM Técnico en Seguridad, CARM), cuya
+  programación docente Pepe ya ha desarrollado en buena parte (ver §12).
+  **Pendiente de verificar**: código del módulo, real decreto del título y
+  currículo, y confirmación de que está atribuido a la especialidad de
+  Intervención Sociocomunitaria en la convocatoria CARM — nada de esto se ha
+  cotejado todavía.
+
+Se optó por empezar a trabajar el 0018 por conocerlo de haberlo impartido,
+pero la decisión no está cerrada, y a día de hoy Pepe se inclina más por
+**Habilidades sociales** precisamente por el material reutilizable.
 
 ### Duración: el punto delicado
 - La **Orden de 27 de octubre de 2010** (CARM) le asigna **120 horas** en su
@@ -429,3 +440,68 @@ menores, evaluación con familias.
 - Formato de la programación: Arial 11, interlineado sencillo, A4.
 - Prioridad a las **fuentes oficiales** (BOE, BORM, portales de la Consejería) y
   a citarlas con su denominación exacta, número de boletín y fecha.
+
+---
+
+## 12. Relación con el proyecto "Habilidades Sociopersonales" (CFGM Seguridad)
+
+En el mismo repositorio, carpeta `programacion-docente-habilidades-sociopersonales/`,
+está la programación docente real que Pepe imparte este curso en el módulo
+**Habilidades Sociopersonales** (CFGM Técnico en Seguridad, CARM). Sus 6 UT
+están completas (alumnado + docente), pero **esa programación tampoco está
+cerrada**: aún queda por entregar al jefe de departamento del instituto
+(temporalización general pendiente de fecha real, ver su propio contexto.md
+§7.12).
+
+**Por qué importa aquí:** si el módulo definitivo de la oposición acaba siendo
+**Habilidades sociales** (CFGS Integración Social), sus RA se solapan en buena
+medida con los de Habilidades Sociopersonales, lo que abre la puerta a
+reutilizar material ya elaborado: estructura de las UT, dinámicas de grupo,
+técnicas de comunicación y resolución de conflictos, formato de dossier, etc.
+
+**Cómo se usa ese material aquí — no es una fusión ni una copia directa:**
+- Son dos documentos de naturaleza distinta. Habilidades Sociopersonales es
+  una **programación docente** para un centro (destinatario: jefe de
+  departamento, alumnado real, calendario real de un curso concreto).
+  La programación de este proyecto es una **programación didáctica de
+  oposición** (destinatario: tribunal, formato y límites del Anexo XIX,
+  sin alumnado ni centro reales, con exigencias propias de originalidad,
+  coherencia normativa y defensa oral).
+- Por tanto, cualquier contenido que se traiga de un proyecto al otro
+  **se adapta**, no se traslada literalmente: cambia el marco normativo
+  (título, RD, currículo autonómico), el contexto (centro y alumnado son
+  ficticios pero verosímiles, no los reales), y el nivel de justificación
+  pedagógica exigido.
+- El material de Habilidades Sociopersonales funciona como **fuente de
+  inspiración y banco de recursos** (enfoques metodológicos, tipos de
+  actividades, formas de secuenciar y evaluar) más que como plantilla a
+  rellenar.
+
+**Estado:** no se ha empezado a portar ni adaptar ningún contenido concreto.
+Se hará cuando el módulo de la oposición quede confirmado y se llegue al
+punto 4 (contenidos y UT) o al 5 (metodología) de este proyecto.
+
+---
+
+## 13. Metodología de trabajo con la preparadora
+
+La programación didáctica de la oposición está tutorizada por la preparadora
+de Pepe (Grupo Pedro Nicolás). El flujo de trabajo real es:
+
+1. La preparadora marca pautas y propone actividades o entregas, con fechas
+   límite que ella misma fija.
+2. Pepe prepara esas entregas; en ellas intentará plantear un enfoque
+   parecido al ya trabajado en Habilidades Sociopersonales, en la medida en
+   que el módulo lo permita (ver §12).
+3. Tras la entrega, la preparadora da indicaciones de corrección —a veces
+   detalladas y complejas— sobre qué cambiar o incorporar.
+4. El material se va perfeccionando de forma iterativa: primero con el
+   trabajo conjunto aquí, después con las correcciones de la preparadora,
+   y así sucesivamente durante el curso.
+
+**Rol de Claude en este proceso:** herramienta de ejecución, no de criterio.
+Las decisiones sobre qué cambiar, qué enfoque seguir o qué incorporar las
+marca la preparadora; el trabajo aquí consiste en traducir esas indicaciones
+—por detalladas o complejas que lleguen, incluso en bruto o resumidas de
+memoria— en cambios concretos sobre los textos y documentos del proyecto,
+manteniendo trazabilidad de qué procede de sus correcciones.
