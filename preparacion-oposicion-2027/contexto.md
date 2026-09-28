@@ -65,15 +65,45 @@ selectivos de ingreso al Cuerpo de Profesores de Enseñanza Secundaria y otros
 Queda pendiente la elección definitiva frente a otros módulos candidatos:
 - **Metodología de la intervención social** (1.º del CFGS de Integración
   Social, también atribuido a Intervención Sociocomunitaria).
-- **Habilidades sociales** (CFGS Técnico Superior en Integración Social):
-  candidato añadido en septiembre de 2026. Su interés principal es que tiene
-  Resultados de Aprendizaje comunes o muy parecidos a los del módulo
-  **Habilidades Sociopersonales** (CFGM Técnico en Seguridad, CARM), cuya
-  programación docente Pepe ya ha desarrollado en buena parte (ver §12).
-  **Pendiente de verificar**: código del módulo, real decreto del título y
-  currículo, y confirmación de que está atribuido a la especialidad de
-  Intervención Sociocomunitaria en la convocatoria CARM — nada de esto se ha
-  cotejado todavía.
+- **Habilidades sociales** (CFGS Técnico Superior en Integración Social),
+  **código 0017**: candidato añadido en septiembre de 2026. Su interés
+  principal es que tiene Resultados de Aprendizaje comunes o muy parecidos a
+  los del módulo **Habilidades Sociopersonales** (CFGM Técnico en Seguridad,
+  CARM), cuya programación docente Pepe ya ha desarrollado en buena parte
+  (ver §12).
+
+  **Confirmado** (ya no sobre un borrador, sino sobre la norma publicada):
+  **Orden de 21 de septiembre de 2026**, de la Consejería de Educación (CARM),
+  por la que se establecen los currículos de los títulos de ciclos formativos
+  de grado superior y se regulan determinados aspectos organizativos —
+  **BORM núm. 222, de 25 de septiembre de 2026**, **Anexo LXX** ("Aspectos
+  organizativos y curriculares del título de Técnico Superior en Integración
+  Social").
+  - El módulo **0017 Habilidades sociales** tiene **155 horas** (5 h/semana).
+  - El mismo Anexo LXX confirma que **Metodología de la intervención social**
+    (código 0344, 135 h) es un módulo **del mismo título** (Integración
+    Social) — ambos candidatos conviven en el mismo ciclo, no en títulos
+    distintos.
+  - El Anexo LXX asigna con preferencia el **Proyecto Intermodular de
+    Integración Social** a la especialidad de Intervención Sociocomunitaria,
+    lo que sitúa el título dentro de esa especialidad (confirmación indirecta,
+    no dice módulo a módulo la atribución de "Habilidades sociales").
+  - **Dato a investigar:** el código **0017** coincide con el del módulo
+    "Habilidades sociales" del CFGS de Educación Infantil (RD 1394/2007, ver
+    tabla en §5). En el sistema de FP los códigos se reutilizan cuando un
+    módulo es transversal/común entre títulos, así que podría tratarse del
+    **mismo módulo, con los mismos RA y criterios**, en ambos títulos — a
+    confirmar comparando ambos currículos. Si se confirma, simplifica mucho
+    el trabajo.
+
+  **Aún pendiente de verificar** (el Anexo LXX solo regula horas y aspectos
+  organizativos, no contenido): qué real decreto fija los Resultados de
+  Aprendizaje y criterios de evaluación del módulo 0017 en el título de
+  Integración Social — candidatos: **RD 1074/2012**, de 13 de julio (título
+  original) y su actualización **RD 289/2023**, de 18 de abril. Falta
+  comprobar si esa actualización tocó el módulo 0017 o, como pasó con el 0018
+  y el RD 500/2024, solo afectó a aspectos organizativos y de atribución
+  docente sin cambiar RA ni contenidos.
 
 Se optó por empezar a trabajar el 0018 por conocerlo de haberlo impartido,
 pero la decisión no está cerrada, y a día de hoy Pepe se inclina más por

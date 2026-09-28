@@ -4,7 +4,7 @@ Programación didáctica para la oposición al Cuerpo de Profesores de Enseñanz
 
 ## Módulo elegido
 
-**0018 — Intervención con familias y atención a menores en riesgo social** (CFGS Educación Infantil, 2º curso), con **155 horas** reales (Resolución 5/07/2024 CARM, no las 120h de la Orden de 2010). Pendiente decidir de forma definitiva frente a dos módulos candidatos: *Metodología de la intervención social* y, desde septiembre de 2026, **Habilidades sociales** (CFGS Integración Social) — este último por su solapamiento de RA con el módulo Habilidades Sociopersonales que Pepe ya ha desarrollado como docente (ver `contexto.md` §3 y §12). Ninguno de los datos de este tercer candidato está verificado todavía.
+**0018 — Intervención con familias y atención a menores en riesgo social** (CFGS Educación Infantil, 2º curso), con **155 horas** reales (Resolución 5/07/2024 CARM, no las 120h de la Orden de 2010). Pendiente decidir de forma definitiva frente a dos módulos candidatos, ambos del CFGS Integración Social: *Metodología de la intervención social* (0344, 135h) y **Habilidades sociales** (0017, 155h) — este último por su solapamiento de RA con el módulo Habilidades Sociopersonales que Pepe ya ha desarrollado como docente (ver `contexto.md` §3 y §12). Las horas y la ubicación en el plan de estudios de estos dos candidatos ya están confirmadas por la Orden de 21/09/2026 (BORM núm. 222, Anexo LXX); quedan por cotejar sus RA y criterios de evaluación contra el RD del título.
 
 ## Relación con otros proyectos y con la preparadora
 
