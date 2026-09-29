@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Regla del día de partido confirmada
+- El atleta confirma: el día de partido queda a cero, sin ningún entreno.
+- Investigación externa (Purple Patch Fitness, Roadman Cycling, TrainingPeaks) sobre cómo repartir la única sesión larga de fin de semana disponible. Se adopta un ciclo de 3 semanas en el único día libre: semana A bici larga, semana B carrera larga, semana C brick (bici moderada-larga + carrera corta), con más frecuencia de brick en fase de pico. Detalle y fuentes en `plan-maestro.md`.
+- El atleta confirma que esta estructura le cuadra (2026-09-29).
+- Sigue pendiente: carreras de preparación, calendario de partidos, confirmación de zonas, rodillo de bici.
+
 ## 2026-09-29 — Horario semanal y punto de partida
 - Se rellenan `disponibilidad-semanal.md`, `perfil.md`, `zonas-y-metricas.md` (datos sueltos, sin zonas formales) e `historial-y-limitaciones.md` (sin lesiones reportadas, nota de carga de tren superior a vigilar) con la información aportada por el atleta.
 - Se añade a `plan-maestro.md` un borrador de semana tipo, marcado explícitamente como no confirmado y sin cargas/ritmos concretos.
