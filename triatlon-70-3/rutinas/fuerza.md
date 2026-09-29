@@ -1,10 +1,12 @@
 # Rutinas de fuerza (PROPUESTA v2 — pendiente de confirmación)
 
-> Corregido tras feedback del atleta (2026-09-29): pierna se queda en
-> martes, agrupada con natación, y nunca en día de baloncesto (lunes,
-> miércoles, jueves) — historial de esguinces de tobillo, riesgo real de
+> Corregido tras feedback del atleta (2026-09-29): la pierna de gimnasio
+> se queda en martes, agrupada con natación, y nunca en lunes o miércoles
+> (días de baloncesto) — historial de esguinces de tobillo, riesgo real de
 > lesión y de peor rendimiento en pista si la pierna llega pre-fatigada.
-> Ver `atleta/historial-y-limitaciones.md`.
+> El jueves es una excepción confirmada por el atleta: ahí sí combina
+> calidad de carrera/bici con baloncesto, como ya hacía. Ver
+> `atleta/historial-y-limitaciones.md`.
 
 ## Martes (sin baloncesto) — Pierna + natación, como ya haces
 
@@ -75,7 +77,7 @@ inventan aquí.
   volumen puro de empuje/hombro el miércoles, más rotación externa
   integrada, pierna del martes más orientada a unilateral/estabilidad
   además de fuerza básica.
-- Pendiente de tu respuesta sobre el jueves (ver aviso en el chat): tu
-  sesión de calidad de carrera/bici + baloncesto el mismo día — ¿la
-  mantenemos igual o el mismo criterio de "no pierna intensa en día de
-  baloncesto" también debería aplicar ahí?
+
+El jueves (calidad de carrera/bici + baloncesto el mismo día) se mantiene
+igual — el atleta confirma que ya lo hace así habitualmente y no es un
+problema, a diferencia del gimnasio de pierna (ver `atleta/historial-y-limitaciones.md`).

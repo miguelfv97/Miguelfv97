@@ -3,6 +3,10 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Excepción del jueves confirmada; rutina de fuerza cerrada
+- El atleta confirma que el jueves (calidad de carrera/bici + baloncesto el mismo día) es diferente del gimnasio de pierna: ya lo hace así habitualmente y no lo identifica como problema.
+- Se registra la excepción en `atleta/historial-y-limitaciones.md` y se cierra la pregunta abierta en `rutinas/fuerza.md`. La restricción de "nada de pierna intensa en día de baloncesto" queda acotada al gimnasio de pierna (sentadilla, peso muerto, etc.) en lunes/miércoles, no a la sesión de calidad del jueves.
+
 ## 2026-09-29 — Corrección de la rutina de fuerza: pierna nunca en día de baloncesto
 - El atleta aporta un dato clave que faltaba: historial de varios esguinces/lesiones de tobillo (sin lesión activa hoy). Por eso nunca mete pierna intensa (gimnasio, bici o carrera) el mismo día que baloncesto — sube el riesgo de recaída y baja el rendimiento en pista.
 - Se actualiza `atleta/historial-y-limitaciones.md` con esta restricción funcional.
