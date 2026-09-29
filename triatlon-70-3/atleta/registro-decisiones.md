@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Propuesta de rutinas de fuerza y biblioteca de sesiones
+- El atleta pide crear rutinas antes de seguir con zonas/decisión del 24 de octubre/recuperación del maratón.
+- Se crea `rutinas/fuerza.md`: propuesta de sustituir el split actual (pecho/espalda, pierna, brazo/hombro) por 2 sesiones full-body (lunes/miércoles) + 1 sesión corta de cuidado de hombro (martes), basada en guías de USA Triathlon y literatura de prevención de hombro de nadador. Pendiente de confirmación del atleta.
+- Se crea `rutinas/sesiones-triatlon.md`: estructura de sesiones tipo (natación técnica/continua, carrera fácil/larga/series, bici rodaje/calidad/larga, brick) en términos de esfuerzo percibido (RPE), sin ritmos exactos porque las zonas siguen sin confirmar. Ninguna se sube a COROS sin aprobación.
+- Se reitera al atleta la limitación de acceso a COROS para las zonas (sin credenciales en esta sesión, se ofrece subir ficheros exportados o dar el ok explícito para pasar credenciales, no recomendado).
+
 ## 2026-09-29 — Calendario de baloncesto completo (13 de 13 jornadas)
 - Se añaden las jornadas 11 (16/01/2027), 12 (31/01/2027) y 13 (06/02/2027, DESCANSA — jornada libre, sin partido).
 - Coincidencia relevante: la jornada 13 (sin partido) cae el mismo fin de semana que la carrera de 21km de Murcia (domingo 7 de febrero de 2027) — ese finde no hay ningún choque con baloncesto.

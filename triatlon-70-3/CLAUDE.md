@@ -31,6 +31,9 @@ Lee, en este orden:
 5. `atleta/historial-y-limitaciones.md`
 6. `plan/plan-maestro.md`
 7. `plan/semana-actual.md`
+8. `rutinas/fuerza.md` y `rutinas/sesiones-triatlon.md` (rutinas de gimnasio
+   y biblioteca de sesiones tipo — ambas propuestas, pendientes de
+   confirmación del atleta a fecha de creación)
 
 Todos estos ficheros están vacíos/con plantilla a fecha de creación de este
 proyecto. No inventar valores: si un dato falta, preguntar antes de asumirlo.
