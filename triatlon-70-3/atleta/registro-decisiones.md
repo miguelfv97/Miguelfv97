@@ -3,6 +3,16 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Primera sesión con `mcpeu.coros.com`: el error de recurso desaparece, falta la autorización OAuth (zonas siguen provisionales)
+- Se buscan las herramientas de COROS antes de asumir nada. Resultado: el servidor `coros` **ya no da el error** `Protected resource ... does not match expected ...`. Ahora el cliente lo reporta como "requiere autenticación". Es decir, el cambio a `mcpeu` ha resuelto el desajuste de endpoint.
+- Nuevo bloqueo: esta sesión es **no interactiva** (Claude Code en la nube) y no puede ejecutar el flujo OAuth en el navegador. No se ha expuesto ninguna herramienta de COROS, así que **no se ha podido comprobar** que la cuenta sea la del atleta (29 años, 73 kg, 177 cm) ni que la cuenta esté en la región EU. Tampoco hay ninguna señal de que no lo esté. No se reintenta en bucle.
+- **Qué NO cambia**: no se ha leído ninguna actividad, así que no hay zonas calculadas ni respuesta sobre si 4'32"/km, 171 ppm y 180 W están al día. Siguen siendo la referencia **provisional** (fuente: capturas de la app). Tampoco hay ritmo de natación por 100 m. `.mcp.json` no se ha tocado.
+- **Propuesta al atleta (no aplicada)**:
+  1. Autorizar `mcpeu.coros.com` desde una sesión **interactiva** (Claude Code en local con `/mcp` → `coros` → autenticar, o desde los ajustes de conectores de claude.ai si se añade allí como conector) y repetir el análisis.
+  2. Si tras autorizar no aparece la cuenta o no devuelve actividades → probar `https://mcpus.coros.com/mcp` (cuenta en región EE.UU.), con su aprobación previa.
+  3. Alternativa sin esperar: exportar desde COROS (FIT/TCX) los dos triatlones sprint y 4-6 entrenos recientes (carrera, bici con potencia, natación) y subirlos al repo.
+- Para natación, venga por donde venga el dato, lo que hace falta es un **test CSS** (400 m y 200 m a tope, con descanso completo entre ambos). Los largos continuos sin estructura no bastan para fijar un ritmo de referencia fiable.
+
 ## 2026-09-29 — `.mcp.json` apuntado al endpoint europeo de COROS
 - El atleta aprueba la propuesta: `.mcp.json` pasa de `https://mcp.coros.com/mcp` a `https://mcpeu.coros.com/mcp` (endpoint regional europeo, coherente en sus metadatos OAuth).
 - Motivo: el host genérico anuncia el recurso de EE.UU. y el cliente MCP lo rechaza siempre (ver entrada siguiente y `atleta/zonas-y-metricas.md`). La región EU es la más probable para una cuenta creada en España, pero no está confirmada.

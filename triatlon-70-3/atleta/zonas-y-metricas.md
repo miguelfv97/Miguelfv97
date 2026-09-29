@@ -144,6 +144,17 @@ atleta** → **decidido el 2026-09-29: `.mcp.json` apunta ya a
 `https://mcpeu.coros.com/mcp`**, pendiente de probar en una sesión nueva
 (ver `registro-decisiones.md`).
 
+**Cuarto intento (2026-09-29, primera sesión con `mcpeu.coros.com`)**:
+el error de recurso **ya no aparece**, así que el cambio de endpoint
+funcionó. Ahora el servidor figura como "requiere autenticación". Esta
+sesión (Claude Code en la nube, no interactiva) no puede abrir el flujo
+OAuth, así que no se ha expuesto ninguna herramienta de COROS. Por eso no
+se ha podido comprobar la cuenta (perfil 29 años / 73 kg / 177 cm) ni leer
+actividades. **Las zonas de arriba siguen provisionales y sin contrastar
+con actividades reales.** Siguiente paso: autorizar desde una sesión
+interactiva (`/mcp` en Claude Code local, o conector en claude.ai). Solo si
+la cuenta no aparece tras autorizar, probar `mcpus.coros.com`.
+
 Alternativas si el MCP sigue sin conectar:
 1. ~~Reintentar el MCP oficial en una sesión nueva~~ — descartado como
    solución por sí solo: el desajuste es fijo en `mcp.coros.com`. Opción
