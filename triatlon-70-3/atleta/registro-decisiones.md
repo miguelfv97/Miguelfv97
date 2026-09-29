@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Autorización OAuth completada, pero el MCP de COROS falla al conectar (error técnico, no de permisos)
+- El atleta confirma haber autorizado el acceso OAuth desde la app de COROS. Al abrir una sesión nueva para usar el MCP (`.mcp.json` → `https://mcp.coros.com/mcp`), la conexión falla con: `Protected resource https://mcpus.coros.com/mcp does not match expected https://mcp.coros.com (or origin)`.
+- Interpretación: el servidor de COROS devuelve metadatos OAuth apuntando a un endpoint regional (`mcpus.coros.com`, aparenta ser EE.UU.) distinto de la URL configurada (`mcp.coros.com`), y el cliente MCP rechaza la conexión por ese desajuste. No es un problema de que falte autorizar — la autorización ya está hecha por parte del atleta.
+- No se ha modificado `.mcp.json` (no se quiere apuntar a ciegas al endpoint regional sin confirmar que es correcto y estable). Detalle completo y alternativas en `atleta/zonas-y-metricas.md`.
+- Las zonas de ritmo/FC/potencia siguen sin calcular — no se ha inventado ningún valor. Se propone al atleta: reintentar en una sesión nueva (puede ser puntual), o si persiste, decidir juntos si apuntar `.mcp.json` a `mcpus.coros.com` o usar la vía manual (exportar actividades o pasar splits a mano).
+
 ## 2026-09-29 — Conector MCP oficial de COROS añadido al proyecto
 - Investigación inicial (blogs) sugería que el MCP oficial de COROS ya tenía escritura activa (crear/programar planes). El atleta comparte una captura de su propia app: "Elaborar planes de entrenamiento" sigue marcado como "próximamente" — se corrige el error, la escritura oficial NO está activa todavía. La decisión de escritura manual se mantiene sin cambios.
 - La lectura (actividades, salud, HRV, evaluación de forma) sí está activa vía OAuth. Se añade `.mcp.json` en la raíz del repo apuntando a `https://mcp.coros.com/mcp` (opción URL de la propia app de COROS, sin instalar paquetes de terceros).

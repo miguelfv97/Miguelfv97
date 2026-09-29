@@ -35,17 +35,29 @@ El atleta pidió calcular ritmo/FC/potencia a partir de sus datos de COROS
 (dos triatlones sprint ya completados, entrenos hasta ahora y mejora de
 este año).
 
-**Desbloqueado**: se añadió `.mcp.json` en la raíz del repo apuntando al
-MCP oficial de COROS (`https://mcp.coros.com/mcp`, OAuth, lectura activa
-de actividades/salud/evaluación de forma). Falta un paso que solo puede
-hacer el atleta: **autorizar el acceso vía OAuth** la primera vez que una
-sesión de Claude Code intente usar las herramientas de COROS (se abre un
-flujo de autorización en el navegador). Hasta que se autorice, o como
-alternativa si prefiere no hacerlo:
+**Intentado el 2026-09-29 (tras autorización OAuth del atleta) — bloqueado
+por un error técnico, no por falta de autorización**: el atleta confirma
+haber autorizado el acceso OAuth desde la propia app de COROS. Al iniciar
+una sesión nueva con `.mcp.json` apuntando a `https://mcp.coros.com/mcp`,
+la conexión del MCP falla con este error exacto:
 
-1. Autorizar el MCP oficial (recomendado) y pedir en una sesión que lea
-   los dos triatlones sprint + entrenos recientes para calcular zonas
-   reales.
+> `Protected resource https://mcpus.coros.com/mcp does not match expected
+> https://mcp.coros.com (or origin)`
+
+Lectura del error: el servidor de COROS devuelve metadatos OAuth con un
+recurso regional (`mcpus.coros.com`, aparenta ser el clúster EE.UU.) que no
+coincide con la URL configurada (`mcp.coros.com`), y el cliente MCP rechaza
+la conexión por esa discrepancia. No es un problema de permisos ni de que
+falte autorizar — es un desajuste de endpoint/región entre lo configurado
+y lo que el servidor de COROS ofrece desde este entorno. No se ha tocado
+`.mcp.json` a la espera de decidir con el atleta cómo seguir (ver
+`registro-decisiones.md`).
+
+Hasta resolver esto, o como alternativa si el atleta prefiere no esperar:
+
+1. Reintentar el MCP oficial en una sesión nueva (el error puede ser una
+   incidencia puntual de enrutado regional de COROS) — no requiere que el
+   atleta vuelva a autorizar nada.
 2. Exportar manualmente las actividades desde la app/web de COROS
    (FIT/TCX/CSV) y subirlas aquí.
 3. Pasar a mano los splits de cada triatlón y cualquier test reciente
