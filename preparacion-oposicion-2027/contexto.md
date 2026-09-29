@@ -96,14 +96,11 @@ Queda pendiente la elección definitiva frente a otros módulos candidatos:
     confirmar comparando ambos currículos. Si se confirma, simplifica mucho
     el trabajo.
 
-  **Aún pendiente de verificar** (el Anexo LXX solo regula horas y aspectos
-  organizativos, no contenido): qué real decreto fija los Resultados de
-  Aprendizaje y criterios de evaluación del módulo 0017 en el título de
-  Integración Social — candidatos: **RD 1074/2012**, de 13 de julio (título
-  original) y su actualización **RD 289/2023**, de 18 de abril. Falta
-  comprobar si esa actualización tocó el módulo 0017 o, como pasó con el 0018
-  y el RD 500/2024, solo afectó a aspectos organizativos y de atribución
-  docente sin cambiar RA ni contenidos.
+  **RA y criterios de evaluación: verificados (29/09/2026).** El RD 289/2023,
+  de 18 de abril, **sí modifica el módulo 0017** (a diferencia de lo que pasó
+  con el 0018): sustituye íntegramente su texto en el Anexo I del RD
+  1074/2012. Ficha completa, RA, criterios, contenidos y objetivos generales
+  aportados por el módulo, en el **§14**.
 
 Se optó por empezar a trabajar el 0018 por conocerlo de haberlo impartido,
 pero la decisión no está cerrada, y a día de hoy Pepe se inclina más por
@@ -535,3 +532,151 @@ marca la preparadora; el trabajo aquí consiste en traducir esas indicaciones
 —por detalladas o complejas que lleguen, incluso en bruto o resumidas de
 memoria— en cambios concretos sobre los textos y documentos del proyecto,
 manteniendo trazabilidad de qué procede de sus correcciones.
+
+---
+
+## 14. Módulo 0017 Habilidades sociales (Integración Social) — ficha oficial verificada
+
+Verificado el 29/09/2026 contra los PDF oficiales del **RD 1074/2012, de 13 de
+julio** (título de Técnico Superior en Integración Social) y su actualización
+**RD 289/2023, de 18 de abril** (BOE núm. 103, de 1 de mayo de 2023,
+BOE-A-2023-10395), aportados directamente por Pepe. El RD 289/2023 **sustituye
+íntegramente** el texto del módulo 0017 en el Anexo I del RD 1074/2012 ("El
+módulo profesional 0017. Habilidades sociales queda redactado como sigue");
+su implantación era obligatoria como muy tarde en el curso 2024-2025, así que
+en 2026/2027 el texto de 2023 es el vigente. **Ya no queda nada pendiente de
+cotejo para este módulo** (a diferencia del 0018, donde seguía abierto).
+
+### Identificación
+
+- **Código: 0017.**
+- **Denominación: Habilidades sociales.**
+- **Equivalencia en créditos ECTS: 6.**
+- **Duración (mínima, RD): 60 horas.** En el plan de estudios real de la CARM
+  son **155 horas** (Orden de 21/09/2026, Anexo LXX, ver §3) — el mismo patrón
+  que en el 0018: el RD fija un mínimo estatal, la administración autonómica
+  amplía la carga horaria sin tocar RA ni contenidos.
+
+### Resultados de aprendizaje y criterios de evaluación (RD 289/2023, literal)
+
+**RA1.** Implementa estrategias y técnicas para favorecer la comunicación y
+relación social con su entorno, relacionándolas con los principios de la
+inteligencia emocional y social. *(10 criterios, a-j: principios de
+inteligencia emocional y social; importancia de las habilidades sociales;
+etapas del proceso comunicativo; estilos de comunicación; comunicación verbal
+y no verbal; comunicación eficaz para asignar tareas; habilidades sociales
+adaptadas a la diversidad cultural; no juzgar y respetar la diferencia;
+actitud positiva ante el cambio; autocrítica y autoevaluación.)*
+
+**RA2.** Dinamiza el trabajo del grupo, aplicando las técnicas adecuadas y
+justificando su selección en función de las características, situación y
+objetivos del grupo. *(10 criterios, a-j: estructura y dinámica de grupo;
+técnicas de dinamización; ventajas del trabajo en equipo; roles grupales;
+barreras de comunicación grupal; liderazgo; reparto de tareas; tolerancia y
+empatía; clima de trabajo cooperativo; respeto a opiniones y acuerdos.)*
+
+**RA3.** Conduce reuniones analizando las distintas formas o estilos de
+intervención y de organización en función de las características de los
+destinatarios y el contexto. *(9 criterios, a-i: tipos y funciones de
+reuniones; etapas; técnicas de moderación; exposición clara de ideas; factores
+de riesgo y sabotajes; convocatoria; motivación y participación; recogida de
+información y evaluación de resultados; respeto y tolerancia.)*
+
+**RA4.** Implementa estrategias de gestión de conflictos y resolución de
+problemas, seleccionándolas en función de las características del contexto y
+analizando los diferentes modelos. *(10 criterios, a-j: fuentes de conflicto;
+técnicas de gestión de conflictos; búsqueda de soluciones; fases de la toma de
+decisiones; resolución de problemas; respeto a opiniones ajenas; mediación y
+negociación; atención a los usuarios en la toma de decisiones; planificación y
+autoevaluación; importancia del intercambio comunicativo.)*
+
+**RA5.** Evalúa los procesos de grupo y la propia competencia social para el
+desarrollo de sus funciones profesionales, identificando los aspectos
+susceptibles de mejora. *(9 criterios, a-i: indicadores de evaluación;
+técnicas de investigación social y sociométricas; autoevaluación de partida;
+instrumentos de recogida de información; registro e interpretación de datos;
+identificación de situaciones de mejora; pautas de mejora; autoevaluación
+final.)*
+
+> El texto completo, literal y con la letra de cada criterio, está en el PDF
+> del RD 289/2023 que aportó Pepe (`e2613b25-1074-2012_TSIS.pdf` recoge el RD
+> 1074/2012 original; el texto vigente del módulo 0017 está en
+> `b2b22e01-289-18_TSIS.pdf`, páginas 30-34 del BOE). Para la redacción
+> definitiva de la programación, transcribir de ahí directamente en vez de
+> este resumen.
+
+### Contenidos básicos (bloques, en el mismo orden que los RA)
+
+1. Implementación de estrategias y técnicas que favorezcan la relación social
+   y la comunicación (habilidades sociales, proceso de comunicación verbal y
+   no verbal, inteligencia y educación emocional, mecanismos de defensa,
+   programas y técnicas de comunicación y habilidades sociales).
+2. Dinamización del trabajo en grupo (tipos y estructura de grupo, estilos de
+   comunicación grupal, dinámicas de grupo, trabajo cooperativo, confianza y
+   motivación grupal).
+3. Conducción de reuniones (tipos y funciones, etapas, técnicas de
+   moderación, tipología de participantes, boicoteadores y colaboradores).
+4. Implementación de estrategias de gestión de conflictos y toma de
+   decisiones (técnicas de resolución de problemas, proceso de toma de
+   decisiones, negociación y mediación).
+5. Evaluación de la competencia social y los procesos de grupo (técnicas de
+   recogida de datos, evaluación de la competencia social y de la estructura
+   grupal, sociometría básica, autoevaluación).
+
+### Orientaciones pedagógicas — contribución a objetivos y competencias
+
+Módulo "eminentemente procedimental y actitudinal", centrado en las funciones
+de intervención/ejecución, evaluación de la propia competencia social y
+gestión de conflictos (mediación y negociación).
+
+Contribuye a los **objetivos generales m), o), q), r), s), t) y w)** del ciclo
+y a las **competencias profesionales, personales y sociales m), o), q), r),
+s) y u)** del título. Los objetivos generales del ciclo están en el
+**RD 1074/2012, art. 9** (25 letras, a-y, sin saltos — a diferencia del 0018,
+aquí no hay errata de numeración). Los que aporta este módulo, transcritos:
+
+- **m)** Analizar los problemas planteados, seleccionando técnicas de
+  participación y gestión de conflictos, para realizar tareas de mediación
+  entre personas y grupos.
+- **o)** Analizar las habilidades sociales requeridas en el entorno
+  profesional, identificando los factores influyentes para mantener
+  relaciones fluidas con las personas implicadas en la intervención y superar
+  los posibles conflictos.
+- **q)** Desarrollar la creatividad y el espíritu de innovación para
+  responder a los retos que se presentan en los procesos y en la organización
+  del trabajo y de la vida personal.
+- **r)** Tomar decisiones de forma fundamentada, analizando las variables
+  implicadas, integrando saberes de distinto ámbito y aceptando los riesgos y
+  la posibilidad de equivocación en las mismas, para afrontar y resolver
+  distintas situaciones, problemas o contingencias.
+- **s)** Desarrollar técnicas de liderazgo, motivación, supervisión y
+  comunicación en contextos de trabajo en grupo, para facilitar la
+  organización y coordinación de equipos de trabajo.
+- **t)** Aplicar estrategias y técnicas de comunicación, adaptándose a los
+  contenidos que se van a transmitir, a la finalidad y a las características
+  de los receptores, para asegurar la eficacia en los procesos de
+  comunicación.
+- **w)** Identificar y aplicar parámetros de calidad en los trabajos y
+  actividades realizados en el proceso de aprendizaje, para valorar la
+  cultura de la evaluación y de la calidad y ser capaces de supervisar y
+  mejorar procedimientos de gestión de calidad.
+
+### Relación con Habilidades Sociopersonales (ver §12)
+
+Comparando este 0017 con el resumen que Pepe dio de Habilidades Sociopersonales
+(CFGM Seguridad): el solapamiento es muy fuerte y concreto, no solo de tema —
+UT1 (comunicación e inteligencia emocional) ≈ RA1, UT5 (trabajo en grupo) ≈
+RA2, UT2 (gestión de conflictos y resolución de problemas) ≈ RA4, y UT3
+(autoevaluación de la competencia social) ≈ RA5. La única pieza sin
+equivalente claro en Habilidades Sociopersonales es el **RA3 (conducción de
+reuniones)**. Esto refuerza que este módulo, más que el 0018, es el candidato
+donde más material puede reaprovecharse (adaptando formato y marco normativo,
+ver §12).
+
+### Pendiente
+
+- No se ha comparado todavía este 0017 (Integración Social) con el 0017 de
+  Educación Infantil (RD 1394/2007, ver §5) para confirmar o descartar si son
+  el mismo módulo transversal — ahora mismo es una cuestión menor porque ya se
+  tiene el texto oficial vigente para el candidato que importa.
+- Sigue pendiente la decisión definitiva de módulo (§3).
