@@ -3,10 +3,12 @@
 > Restricciones funcionales, no diagnósticos. Ejemplo: "no correr dos días
 > consecutivos durante 4 semanas" en vez de un diagnóstico médico concreto.
 
-- **Lesiones o molestias recurrentes a vigilar**: ninguna reportada a fecha 2026-09-29. Preguntar explícitamente antes de subir carga en cada revisión.
-- **Restricciones funcionales activas actualmente**: ninguna.
-- **Deportes/movimientos a evitar o introducir con cuidado**: ninguno reportado.
-- **Historial de lesiones relevante para la planificación** (sin detalle clínico innecesario): sin datos todavía.
+- **Lesiones o molestias recurrentes a vigilar**: tobillo — historial de varios esguinces/lesiones de tobillo (aportado 2026-09-29). Actualmente sin lesión ni molestia activa. Preguntar explícitamente antes de subir carga en cada revisión.
+- **Restricciones funcionales activas actualmente**:
+  - No meter trabajo de pierna a alta intensidad (gimnasio, series) los días de baloncesto (lunes, miércoles, jueves) — el riesgo de lesión de tobillo sube con la pierna pre-fatigada en un deporte de cambios de dirección y saltos, y además el rendimiento en la pista baja.
+  - Por eso el atleta agrupa pierna (gimnasio) y natación en el mismo día (martes, sin baloncesto) — natación no fatiga la pierna del mismo modo. Mantener este agrupamiento al diseñar rutinas y sesiones.
+- **Deportes/movimientos a evitar o introducir con cuidado**: trabajo de pierna a alta intensidad (gimnasio, bici o carrera) el mismo día que baloncesto — ver restricción funcional arriba.
+- **Historial de lesiones relevante para la planificación** (sin detalle clínico innecesario): varios esguinces/lesiones de tobillo en el pasado; sin lesión activa a fecha 2026-09-29.
 
 ## Punto a vigilar (no es una lesión, es una nota de carga)
 

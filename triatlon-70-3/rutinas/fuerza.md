@@ -1,71 +1,81 @@
-# Rutinas de fuerza (PROPUESTA — pendiente de confirmación)
+# Rutinas de fuerza (PROPUESTA v2 — pendiente de confirmación)
 
-> No sustituye a las sesiones actuales sin que el atleta lo confirme. Se
-> propone reemplazar el split actual (pecho/espalda lunes, pierna martes,
-> brazo/hombro miércoles) por 2 sesiones full-body + 1 sesión corta de
-> cuidado de hombro, en los mismos días que ya tienes bloqueados para
-> gimnasio — no añade tiempo nuevo a la semana.
+> Corregido tras feedback del atleta (2026-09-29): pierna se queda en
+> martes, agrupada con natación, y nunca en día de baloncesto (lunes,
+> miércoles, jueves) — historial de esguinces de tobillo, riesgo real de
+> lesión y de peor rendimiento en pista si la pierna llega pre-fatigada.
+> Ver `atleta/historial-y-limitaciones.md`.
 
-## Por qué cambiar el split actual
+## Martes (sin baloncesto) — Pierna + natación, como ya haces
 
-- La evidencia para triatletas apunta a fuerza full-body 2-3x/semana con
-  ejercicios multiarticulares (sentadilla, peso muerto, empuje, tracción,
-  core), no un split de culturismo por grupo muscular — [USA Triathlon,
-  Strength Training Exercises for Triathletes](https://www.usatriathlon.org/articles/training-tips/strength-training-exercises-for-triathletes).
-- Tu semana ya carga el hombro por varios sitios a la vez (gimnasio,
-  natación, baloncesto — ver `atleta/historial-y-limitaciones.md`). El
-  trabajo de prevención de hombro de nadador recomienda 2-3
-  sesiones/semana de baja carga centradas en manguito rotador y
-  estabilidad escapular, no más volumen de empuje/tracción pesado.
-
-## Rutina A — lunes (antes de baloncesto)
+Aquí va todo el trabajo de pierna real (sentadilla, peso muerto,
+unilateral) porque es el único día sin baloncesto y sin sesión de
+carrera/bici intensa cerca.
 
 | Ejercicio | Series x reps | Nota |
 |---|---|---|
-| Sentadilla (goblet o barra) | 3x8-10 | Peso con el que las 2 últimas reps cuesten, sin perder técnica |
-| Press de banca o press de hombro (alternar semana a semana) | 2-3x8-12 | Alternar para no sobrecargar siempre el mismo patrón de empuje |
-| Remo (barra, mancuerna o máquina) | 2-3x8-12 | |
-| Zancada o step-up | 2-3x10-12 por pierna | |
-| Plancha o anti-rotación (pallof press) | 2-3x30-45s o 10-12 reps | Core, no abdominales aislados |
-| Y-T-W con banda o mancuernas ligeras | 2x10-12 por letra | Cuidado de hombro, peso muy ligero |
-
-## Rutina B — miércoles (antes de baloncesto)
-
-| Ejercicio | Series x reps | Nota |
-|---|---|---|
-| Peso muerto (convencional o rumano) | 3x6-8 | |
-| Dominadas o jalón al pecho | 2-3x6-10 | |
+| Sentadilla o prensa | 3x8-10 | |
+| Peso muerto rumano | 2-3x8-10 | |
+| Zancada o sentadilla búlgara | 2-3x8-10 por pierna | Trabajo unilateral — también ayuda a la estabilidad de tobillo |
 | Puente de glúteo / hip thrust | 2-3x10-12 | |
-| Zancada lateral o sentadilla búlgara | 2-3x8-10 por pierna | Trabajo unilateral, clave para correr/pedalear |
-| Bird dog | 2-3x8-10 por lado | Core anti-extensión |
 | Gemelo (calf raise) | 2-3x12-15 | |
+| Core (plancha o anti-rotación) | 2-3x30-45s o 10-12 reps | |
 
-## Cuidado de hombro — martes (10-15 min, antes o después de nadar)
+Después, natación como ya haces.
 
-Sustituye a la actual sesión de pierna del martes (esa carga ya la cubren
-las rutinas A y B). Carga muy ligera, es trabajo de calidad de movimiento,
-no de fuerza máxima.
+## Lunes (baloncesto) — Tren superior, empuje/tracción, sin pierna
 
-| Ejercicio | Series x reps |
-|---|---|
-| Y-T-W con banda | 2x10-12 cada letra |
-| Rotación externa a 90° con banda | 2x12-15 |
-| Dynamic hug o low row con banda | 2x12-15 |
-| Estiramiento pectoral/dorsal | 2x20-30s por lado |
+| Ejercicio | Series x reps | Nota |
+|---|---|---|
+| Press de banca o press de hombro (alternar semana a semana) | 2-3x8-12 | |
+| Remo (barra, mancuerna o máquina) | 2-3x8-12 | |
+| Dominadas o jalón al pecho | 2-3x6-10 | |
+| Y-T-W con banda o mancuernas ligeras | 2x10-12 por letra | Cuidado de hombro, integrado aquí en vez de un día aparte |
 
-Fuentes: [USA Triathlon — Strength Training Exercises for Triathletes](https://www.usatriathlon.org/articles/training-tips/strength-training-exercises-for-triathletes), literatura de prevención del hombro del nadador (rotador cuff/escápula, 2-3 sesiones/semana de mantenimiento).
+## Miércoles (baloncesto) — Tren superior complementario, sin pierna
 
-## Progresión (orientativa, no empieza fuerte)
+Mismo enfoque que tenías (brazo/hombro), con volumen algo más moderado y
+más trabajo de rotación externa para compensar el desequilibrio que
+genera tanto empuje/natación/baloncesto (los rotadores internos se hacen
+mucho más fuertes que los externos si no se trabaja aparte).
 
-1. Primeras 6-8 semanas: peso más ligero, más repeticiones (parte alta del rango de la tabla), prioridad a la técnica.
+| Ejercicio | Series x reps | Nota |
+|---|---|---|
+| Curl de bíceps | 2-3x10-12 | |
+| Press de tríceps | 2-3x10-12 | |
+| Rotación externa a 90° con banda | 2x12-15 | Cuidado de hombro |
+| Dynamic hug o low row con banda | 2x12-15 | Cuidado de hombro / equilibrio de tracción |
+| Core (opcional, ligero) | 2x | |
+
+## Por qué este reparto
+
+- Pierna intensa nunca cae en día de baloncesto — respeta tu historial de
+  tobillo y tu rendimiento en pista.
+- Fuerza full-body pura (mezclando pierna en todos los días) es lo que
+  suele recomendarse para triatletas en general ([USA Triathlon](https://www.usatriathlon.org/articles/training-tips/strength-training-exercises-for-triathletes)),
+  pero tu caso tiene una restricción real que pesa más que esa
+  recomendación genérica — por eso se adapta y se concentra la pierna en
+  el único día que la puede absorber bien.
+- El trabajo de rotación externa/escápula se reparte en lunes y miércoles
+  en vez de ser un día aparte, para no añadir tiempo nuevo a la semana.
+
+## Progresión (orientativa)
+
+1. Primeras 6-8 semanas: peso más ligero, más repeticiones, prioridad a la técnica.
 2. Siguientes 4-6 semanas: peso intermedio.
 3. Siguientes 4-6 semanas: peso más alto, parte baja del rango de reps.
-4. Resto de temporada: mantenimiento (peso medio, sin buscar máximos) — la prioridad pasa a la resistencia específica de triatlón.
+4. Resto de temporada: mantenimiento — la prioridad pasa a la resistencia específica de triatlón.
 
-## Pendiente de tu confirmación
+Los pesos/cargas concretas los decides tú sesión a sesión (RPE), no se
+inventan aquí.
 
-- ¿Te sirve reemplazar el split actual por esto, o prefieres mantener parte
-  de tu rutina de pecho/espalda/brazo por objetivos propios (no solo
-  triatlón)? Se puede adaptar.
-- Los pesos/cargas concretas los decides tú sesión a sesión (RPE), no los
-  voy a inventar.
+## Pendiente de confirmar
+
+- ¿Esta versión sí te cuadra? Cambios respecto a lo que ya hacías: menos
+  volumen puro de empuje/hombro el miércoles, más rotación externa
+  integrada, pierna del martes más orientada a unilateral/estabilidad
+  además de fuerza básica.
+- Pendiente de tu respuesta sobre el jueves (ver aviso en el chat): tu
+  sesión de calidad de carrera/bici + baloncesto el mismo día — ¿la
+  mantenemos igual o el mismo criterio de "no pierna intensa en día de
+  baloncesto" también debería aplicar ahí?

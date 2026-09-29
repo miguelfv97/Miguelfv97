@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Corrección de la rutina de fuerza: pierna nunca en día de baloncesto
+- El atleta aporta un dato clave que faltaba: historial de varios esguinces/lesiones de tobillo (sin lesión activa hoy). Por eso nunca mete pierna intensa (gimnasio, bici o carrera) el mismo día que baloncesto — sube el riesgo de recaída y baja el rendimiento en pista.
+- Se actualiza `atleta/historial-y-limitaciones.md` con esta restricción funcional.
+- Se reescribe `rutinas/fuerza.md` (v2): pierna se concentra en el martes (con natación, como ya hacía el atleta), lunes y miércoles quedan solo con tren superior sin pierna, con el trabajo de rotación externa/escápula integrado en esos mismos días en vez de un día aparte.
+- Queda abierta la pregunta de si el mismo criterio debería aplicar también al jueves (sesión de calidad de carrera/bici + baloncesto el mismo día, ya existente en la rutina del atleta) — pendiente de respuesta.
+
 ## 2026-09-29 — Propuesta de rutinas de fuerza y biblioteca de sesiones
 - El atleta pide crear rutinas antes de seguir con zonas/decisión del 24 de octubre/recuperación del maratón.
 - Se crea `rutinas/fuerza.md`: propuesta de sustituir el split actual (pecho/espalda, pierna, brazo/hombro) por 2 sesiones full-body (lunes/miércoles) + 1 sesión corta de cuidado de hombro (martes), basada en guías de USA Triathlon y literatura de prevención de hombro de nadador. Pendiente de confirmación del atleta.
