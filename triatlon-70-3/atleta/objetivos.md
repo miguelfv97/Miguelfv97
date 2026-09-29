@@ -3,7 +3,7 @@
 > Rellenar con el atleta.
 
 - **Carrera**: Ironman 70.3 Valencia
-- **Fecha exacta**: PENDIENTE — confirmar con el atleta (mencionado "2027", falta día/mes exacto)
-- **Objetivo de rendimiento**: PENDIENTE (¿finisher, tiempo objetivo, puesto en categoría?)
-- **Objetivo secundario / carreras de preparación**: PENDIENTE
+- **Fecha exacta**: 18 de abril de 2027
+- **Objetivo de rendimiento**: prioridad 1 = finisher; prioridad 2 (si la forma lo permite según progresión de entrenos) = bajar de 6:30h
+- **Objetivo secundario / carreras de preparación**: PENDIENTE — a confirmar con el calendario de carreras previas que el atleta va a aportar
 - **Motivación / contexto**: PENDIENTE
