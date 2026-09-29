@@ -3,6 +3,13 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Zonas de carrera/bici/FC rellenadas a partir de capturas de la app COROS (provisional, pendiente de confirmar origen)
+- El MCP oficial de COROS sigue sin conectar (mismo error de endpoint regional, reintentado en esta misma sesión). Como alternativa, el atleta comparte 5 capturas de pantalla de su app COROS: configuración de zonas de ritmo de carrera, zonas de FC (basadas en Umbral de Lactato = 171 ppm), zonas de potencia de ciclismo (UPF/FTP = 180 W) e información personal (peso 73.0 kg, altura 177 cm, nacido 5/4/1997). Una quinta captura de "grado de escalada a vista" es de otra sección de la app, no relevante para triatlón, y no se usa.
+- Se registran estas zonas en `atleta/zonas-y-metricas.md` con la fuente explícita (captura de la app, no MCP) y se actualiza `atleta/perfil.md` con edad/peso/altura.
+- **No se da por cerrado**: queda pendiente de confirmar con el atleta si estos valores base (ritmo umbral 4'32"/km, FC umbral de lactato 171 ppm, FTP 180 W) son cálculo automático de COROS a partir de sus dos triatlones sprint y entrenos recientes, o si los introdujo él a mano hace tiempo (y podrían no reflejar su nivel actual). Hasta confirmarlo, se tratan como provisionales.
+- Sigue sin resolverse la parte original de la petición: analizar los dos triatlones sprint y los entrenos recientes en sí (splits, tendencia de mejora), que requiere el MCP funcionando o una exportación manual de actividades — las capturas solo daban la configuración de zonas ya guardada en la app.
+- Natación sigue sin zonas: COROS no muestra una pantalla de zonas de natación equivalente y no se ha aportado ningún test de CSS.
+
 ## 2026-09-29 — Autorización OAuth completada, pero el MCP de COROS falla al conectar (error técnico, no de permisos)
 - El atleta confirma haber autorizado el acceso OAuth desde la app de COROS. Al abrir una sesión nueva para usar el MCP (`.mcp.json` → `https://mcp.coros.com/mcp`), la conexión falla con: `Protected resource https://mcpus.coros.com/mcp does not match expected https://mcp.coros.com (or origin)`.
 - Interpretación: el servidor de COROS devuelve metadatos OAuth apuntando a un endpoint regional (`mcpus.coros.com`, aparenta ser EE.UU.) distinto de la URL configurada (`mcp.coros.com`), y el cliente MCP rechaza la conexión por ese desajuste. No es un problema de que falte autorizar — la autorización ya está hecha por parte del atleta.
