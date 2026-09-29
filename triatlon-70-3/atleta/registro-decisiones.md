@@ -3,6 +3,13 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Carreras de preparación y calendario de baloncesto (parcial)
+- Carreras confirmadas: maratón Mula–Caravaca 3 oct 2026 (ya comprometida, esta semana, sin margen de taper), social ride 70km/700m D+ 24 oct 2026, 21km Murcia 7 feb 2027.
+- Se avisa: la fase Base del plan no arranca oficialmente hasta pasar la recuperación del maratón; se fija fecha de inicio una vez se sepa cómo llega el atleta.
+- Se detecta y se traslada al atleta (sin decidir por él) un conflicto real: el social ride del 24 de octubre coincide con un partido de baloncesto (Infante vs Bar de las Artes, 17:00) esa misma jornada.
+- Calendario de baloncesto: 5 de 13 jornadas recibidas (10/10, 18/10, 24/10, 07/11, 14/11 — todas con Infante jugando). Horarios marcados como orientativos por el propio atleta. Pendientes 8 jornadas más.
+- El atleta pide calcular zonas de ritmo/FC/potencia a partir de sus datos de COROS (dos triatlones sprint completados + entrenos + mejora del año). Esta sesión no tiene credenciales de COROS ni forma de acceder a esos datos; se le pide al atleta exportar esas actividades y subirlas, o pasar los splits a mano. Zonas siguen en blanco.
+
 ## 2026-09-29 — Regla del día de partido confirmada
 - El atleta confirma: el día de partido queda a cero, sin ningún entreno.
 - Investigación externa (Purple Patch Fitness, Roadman Cycling, TrainingPeaks) sobre cómo repartir la única sesión larga de fin de semana disponible. Se adopta un ciclo de 3 semanas en el único día libre: semana A bici larga, semana B carrera larga, semana C brick (bici moderada-larga + carrera corta), con más frecuencia de brick en fase de pico. Detalle y fuentes en `plan-maestro.md`.
