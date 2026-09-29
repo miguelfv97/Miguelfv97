@@ -3,6 +3,10 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Cómo autorizar el MCP de COROS: vía conectores de claude.ai, no solo `.mcp.json`
+- Se confirma la vía oficial para que una sesión de Claude Code en la nube (no interactiva) tenga el MCP de COROS ya autenticado: conectarlo en https://claude.ai/customize/connectors (a nivel de cuenta), y después abrir una sesión nueva — los conectores se leen al arrancar la sesión, no en caliente. Esto es más robusto que depender solo de `.mcp.json`, que sirvió para sortear el bug de endpoint regional pero no resuelve el paso de autorización interactiva por sí solo.
+- Pendiente de que el atleta lo conecte ahí. En cuanto lo haga, se abre una sesión nueva para retomar el cálculo de zonas reales a partir de los dos triatlones sprint y entrenos recientes.
+
 ## 2026-09-29 — Primera sesión con `mcpeu.coros.com`: el error de recurso desaparece, falta la autorización OAuth (zonas siguen provisionales)
 - Se buscan las herramientas de COROS antes de asumir nada. Resultado: el servidor `coros` **ya no da el error** `Protected resource ... does not match expected ...`. Ahora el cliente lo reporta como "requiere autenticación". Es decir, el cambio a `mcpeu` ha resuelto el desajuste de endpoint.
 - Nuevo bloqueo: esta sesión es **no interactiva** (Claude Code en la nube) y no puede ejecutar el flujo OAuth en el navegador. No se ha expuesto ninguna herramienta de COROS, así que **no se ha podido comprobar** que la cuenta sea la del atleta (29 años, 73 kg, 177 cm) ni que la cuenta esté en la región EU. Tampoco hay ninguna señal de que no lo esté. No se reintenta en bucle.
