@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — `.mcp.json` apuntado al endpoint europeo de COROS
+- El atleta aprueba la propuesta: `.mcp.json` pasa de `https://mcp.coros.com/mcp` a `https://mcpeu.coros.com/mcp` (endpoint regional europeo, coherente en sus metadatos OAuth).
+- Motivo: el host genérico anuncia el recurso de EE.UU. y el cliente MCP lo rechaza siempre (ver entrada siguiente y `atleta/zonas-y-metricas.md`). La región EU es la más probable para una cuenta creada en España, pero no está confirmada.
+- Pendiente de verificar en la próxima sesión nueva (el MCP solo se carga al arrancar): si conecta, puede pedir repetir la autorización OAuth. Si falla o no devuelve datos de la cuenta, probar `mcpus.coros.com` o volver a la exportación manual.
+- Las zonas siguen provisionales hasta analizar actividades reales.
+
 ## 2026-09-29 — Tercer intento con el MCP de COROS: mismo error, causa identificada (zonas siguen provisionales)
 - En una sesión nueva se buscan las herramientas de COROS antes de asumir nada: el servidor falla al conectar con el mismo error exacto (`Protected resource https://mcpus.coros.com/mcp does not match expected https://mcp.coros.com (or origin)`). No se reintenta en bucle.
 - Diagnóstico hecho consultando los metadatos OAuth públicos de COROS (sin credenciales): `mcp.coros.com` anuncia como recurso `mcpus.coros.com/mcp` (no coincide consigo mismo), mientras que los endpoints regionales `mcpus`, `mcpeu` y `mcpcn.coros.com` sí son coherentes consigo mismos. Es un fallo fijo de configuración del lado de COROS en el host genérico, no algo puntual. Detalle en `atleta/zonas-y-metricas.md`.

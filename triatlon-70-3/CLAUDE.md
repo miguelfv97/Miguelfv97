@@ -7,7 +7,7 @@ y ejecuta** en la app de COROS.
 ## Modo de operación (decidido el 2026-09-18/29, actualizado 2026-09-29)
 
 - **Escritura en COROS: manual, sin cambios.** COROS tiene un MCP oficial
-  (`https://mcp.coros.com/mcp`, ver `.mcp.json` en la raíz del repo) con
+  (endpoint europeo `https://mcpeu.coros.com/mcp` desde el 2026-09-29, ver `.mcp.json` en la raíz del repo) con
   autenticación OAuth, pero su función de "elaborar planes de
   entrenamiento" (crear/programar sesiones) sigue marcada como
   **"próximamente"** en la propia app de COROS a fecha 2026-09-29 — no

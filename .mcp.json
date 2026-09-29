@@ -2,7 +2,7 @@
   "mcpServers": {
     "coros": {
       "type": "http",
-      "url": "https://mcp.coros.com/mcp"
+      "url": "https://mcpeu.coros.com/mcp"
     }
   }
 }

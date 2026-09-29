@@ -140,7 +140,9 @@ Duda que decide cuál usar: la cuenta del atleta está en España y lo más
 probable es que esté en el clúster **europeo** (`mcpeu`), pero no está
 confirmado. Si la cuenta es EU y se usa `mcpus`, el OAuth probablemente
 no reconozca la cuenta o no devuelva datos. **Pendiente de decisión del
-atleta** (ver `registro-decisiones.md`); `.mcp.json` sigue sin tocar.
+atleta** → **decidido el 2026-09-29: `.mcp.json` apunta ya a
+`https://mcpeu.coros.com/mcp`**, pendiente de probar en una sesión nueva
+(ver `registro-decisiones.md`).
 
 Alternativas si el MCP sigue sin conectar:
 1. ~~Reintentar el MCP oficial en una sesión nueva~~ — descartado como
