@@ -3,6 +3,10 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Calendario de baloncesto ampliado (10 de 13 jornadas)
+- Se añaden las jornadas 6 a 9 (21/11, 28/11, 12/12, 19/12/2026) y una jornada más el 10/01/2027, a falta de 3 jornadas por confirmar.
+- Se detecta un parón sin partido conocido entre el 19/12/2026 y el 10/01/2027 (~3 semanas), coherente con lo ya anotado sobre diciembre. En ese tramo se puede recuperar bici larga y carrera larga en días separados sin forzar el ciclo de 3 semanas.
+
 ## 2026-09-29 — Carreras de preparación y calendario de baloncesto (parcial)
 - Carreras confirmadas: maratón Mula–Caravaca 3 oct 2026 (ya comprometida, esta semana, sin margen de taper), social ride 70km/700m D+ 24 oct 2026, 21km Murcia 7 feb 2027.
 - Se avisa: la fase Base del plan no arranca oficialmente hasta pasar la recuperación del maratón; se fija fecha de inicio una vez se sepa cómo llega el atleta.

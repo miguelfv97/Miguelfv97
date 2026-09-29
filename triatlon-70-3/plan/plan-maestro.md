@@ -55,7 +55,7 @@ jornada. Decides tú — no lo voy a asumir.
 
 ## Calendario de baloncesto conocido (INVERSUS INFANTE — A.D. INFANTE)
 
-Aportado por el atleta el 2026-09-29, 5 de 13 jornadas. **Horarios
+Aportado por el atleta el 2026-09-29, 10 de 13 jornadas. **Horarios
 orientativos: pueden cambiar de día/hora dentro de la misma semana.**
 
 | Jornada | Fecha | Rival | Hora orientativa |
@@ -65,8 +65,19 @@ orientativos: pueden cambiar de día/hora dentro de la misma semana.**
 | 3 | Sábado 24/10/2026 | Bar de las Artes CB El Carmen | 17:00 — choca con el social ride, ver arriba |
 | 4 | Sábado 07/11/2026 | CB Fuente Alamo Dental Company (fuera) | 19:15 |
 | 5 | Sábado 14/11/2026 | CD Jesuitinas Murcia | 17:00 |
+| 6 | Sábado 21/11/2026 | CD Ubarchena (fuera) | 19:00 |
+| 7 | Sábado 28/11/2026 | Ciky Oro C.D. Los Urrutias | 17:00 |
+| 8 | Sábado 12/12/2026 | Ciky Oro CB Sierramar (fuera) | 19:30 |
+| 9 | Sábado 19/12/2026 | Gestiona Energias C.B. Molina Wolves | 17:00 |
+| 10(?) | Domingo 10/01/2027 | Grupo Caesa CB Cartagena (fuera) | 19:00 |
 
-Faltan 8 jornadas más (el atleta las irá mandando). Hasta tenerlas todas,
+**Hueco sin partido conocido: del 19/12/2026 al 10/01/2027** (~3 semanas,
+parón navideño) — coincide con lo ya anotado en `atleta/disponibilidad-semanal.md`
+sobre diciembre. En esas semanas los dos días de fin de semana quedan
+libres de baloncesto: se puede recuperar algo de bici larga + carrera larga
+por separado en vez de forzar el ciclo de 3 semanas ese tramo.
+
+Faltan 3 jornadas más (el atleta las irá mandando). Hasta tenerlas todas,
 la asignación semana A/B/C del ciclo de 3 semanas se confirma jornada a
 jornada, no de golpe para toda la temporada.
 
@@ -131,7 +142,7 @@ semana (Roadman Cycling).
 
 ## Pendiente antes de cerrar el plan por fases
 1. ~~Carreras de preparación~~ — confirmadas, ver tabla arriba. Avisar si sale alguna más.
-2. Las 8 jornadas de baloncesto que faltan.
+2. Las 3 jornadas de baloncesto que faltan.
 3. Confirmación de zonas de ritmo/FC/potencia — pendiente de datos reales (ver `atleta/zonas-y-metricas.md`, el atleta pidió calcularlas de COROS pero esta sesión no tiene acceso a esos datos, ver detalle en ese fichero).
 4. Confirmar si tiene rodillo para bici en interior.
 5. Decisión sobre el conflicto del 24 de octubre (social ride vs. partido).
