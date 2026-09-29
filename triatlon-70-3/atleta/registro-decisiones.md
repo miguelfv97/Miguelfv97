@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Calendario de baloncesto completo (13 de 13 jornadas)
+- Se añaden las jornadas 11 (16/01/2027), 12 (31/01/2027) y 13 (06/02/2027, DESCANSA — jornada libre, sin partido).
+- Coincidencia relevante: la jornada 13 (sin partido) cae el mismo fin de semana que la carrera de 21km de Murcia (domingo 7 de febrero de 2027) — ese finde no hay ningún choque con baloncesto.
+- Con la temporada completa, la asignación semana A/B/C del ciclo de 3 semanas ya se puede planificar de un tirón en cuanto se fijen las fases.
+
 ## 2026-09-29 — Calendario de baloncesto ampliado (10 de 13 jornadas)
 - Se añaden las jornadas 6 a 9 (21/11, 28/11, 12/12, 19/12/2026) y una jornada más el 10/01/2027, a falta de 3 jornadas por confirmar.
 - Se detecta un parón sin partido conocido entre el 19/12/2026 y el 10/01/2027 (~3 semanas), coherente con lo ya anotado sobre diciembre. En ese tramo se puede recuperar bici larga y carrera larga en días separados sin forzar el ciclo de 3 semanas.

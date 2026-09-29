@@ -55,8 +55,9 @@ jornada. Decides tú — no lo voy a asumir.
 
 ## Calendario de baloncesto conocido (INVERSUS INFANTE — A.D. INFANTE)
 
-Aportado por el atleta el 2026-09-29, 10 de 13 jornadas. **Horarios
-orientativos: pueden cambiar de día/hora dentro de la misma semana.**
+Aportado por el atleta el 2026-09-29. **Temporada completa: 13/13
+jornadas.** Horarios orientativos: pueden cambiar de día/hora dentro de la
+misma semana.
 
 | Jornada | Fecha | Rival | Hora orientativa |
 |---|---|---|---|
@@ -70,6 +71,9 @@ orientativos: pueden cambiar de día/hora dentro de la misma semana.**
 | 8 | Sábado 12/12/2026 | Ciky Oro CB Sierramar (fuera) | 19:30 |
 | 9 | Sábado 19/12/2026 | Gestiona Energias C.B. Molina Wolves | 17:00 |
 | 10(?) | Domingo 10/01/2027 | Grupo Caesa CB Cartagena (fuera) | 19:00 |
+| 11 | Sábado 16/01/2027 | Inversus Alcaldía de Torreagüera A.D. Costera Sur | 17:00 |
+| 12 | Domingo 31/01/2027 | La Almazara C.B. Sierra Espuña (fuera) | 19:00 |
+| 13 | Sábado 06/02/2027 | **DESCANSA** (jornada libre, sin partido) | — |
 
 **Hueco sin partido conocido: del 19/12/2026 al 10/01/2027** (~3 semanas,
 parón navideño) — coincide con lo ya anotado en `atleta/disponibilidad-semanal.md`
@@ -77,9 +81,16 @@ sobre diciembre. En esas semanas los dos días de fin de semana quedan
 libres de baloncesto: se puede recuperar algo de bici larga + carrera larga
 por separado en vez de forzar el ciclo de 3 semanas ese tramo.
 
-Faltan 3 jornadas más (el atleta las irá mandando). Hasta tenerlas todas,
-la asignación semana A/B/C del ciclo de 3 semanas se confirma jornada a
-jornada, no de golpe para toda la temporada.
+**Coincidencia útil — jornada 13**: el equipo descansa el fin de semana del
+6-7 de febrero de 2027, justo el mismo fin de semana que la carrera de
+21 km de Murcia (domingo 7 de febrero). Ese finde no hay ningún choque:
+los dos días están libres de baloncesto para preparar y correr la prueba
+con normalidad.
+
+Con las 13 jornadas ya conocidas, la asignación semana A/B/C del ciclo de
+3 semanas se puede planificar de un tirón para toda la temporada en cuanto
+fijemos las fases del plan (sigue pendiente el resto de datos, ver más
+abajo).
 
 ## Borrador de semana tipo (propuesta, NO confirmada todavía)
 
@@ -142,7 +153,7 @@ semana (Roadman Cycling).
 
 ## Pendiente antes de cerrar el plan por fases
 1. ~~Carreras de preparación~~ — confirmadas, ver tabla arriba. Avisar si sale alguna más.
-2. Las 3 jornadas de baloncesto que faltan.
+2. ~~Calendario de baloncesto~~ — completo, 13/13 jornadas.
 3. Confirmación de zonas de ritmo/FC/potencia — pendiente de datos reales (ver `atleta/zonas-y-metricas.md`, el atleta pidió calcularlas de COROS pero esta sesión no tiene acceso a esos datos, ver detalle en ese fichero).
 4. Confirmar si tiene rodillo para bici en interior.
 5. Decisión sobre el conflicto del 24 de octubre (social ride vs. partido).
