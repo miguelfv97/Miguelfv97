@@ -116,10 +116,38 @@ Sigue pendiente por completo:
   configuradas en la app, no el histórico de actividades que el atleta pidió
   analizar. Sigue haciendo falta el MCP (o una exportación manual) para eso.
 
+**Tercer intento (2026-09-29, sesión nueva) — mismo error exacto, y causa
+diagnosticada**. Consultando a mano (curl, sin credenciales) los metadatos
+OAuth públicos de COROS:
+
+| Host | `resource` que anuncia en `/.well-known/oauth-protected-resource/mcp` |
+|---|---|
+| `mcp.coros.com` (el de `.mcp.json`) | `https://mcpus.coros.com/mcp` ← no coincide consigo mismo |
+| `mcpus.coros.com` (EE.UU.) | `https://mcpus.coros.com/mcp` ← coherente |
+| `mcpeu.coros.com` (Europa) | `https://mcpeu.coros.com/mcp` ← coherente |
+| `mcpcn.coros.com` (China) | `https://mcpcn.coros.com/mcp` ← coherente |
+
+Conclusión: no es una incidencia puntual. `mcp.coros.com` es un alias
+genérico que anuncia el recurso de EE.UU., y el cliente MCP lo rechaza
+por seguridad (la especificación exige que coincidan). **Mientras
+`.mcp.json` apunte a `mcp.coros.com`, reintentar no va a servir** hasta
+que COROS lo corrija. Los endpoints regionales sí son coherentes, así
+que apuntar `.mcp.json` al de la región de la cuenta del atleta debería
+superar ese chequeo (no verificable en esta sesión: el MCP solo se carga
+al arrancar una sesión nueva).
+
+Duda que decide cuál usar: la cuenta del atleta está en España y lo más
+probable es que esté en el clúster **europeo** (`mcpeu`), pero no está
+confirmado. Si la cuenta es EU y se usa `mcpus`, el OAuth probablemente
+no reconozca la cuenta o no devuelva datos. **Pendiente de decisión del
+atleta** (ver `registro-decisiones.md`); `.mcp.json` sigue sin tocar.
+
 Alternativas si el MCP sigue sin conectar:
-1. Reintentar el MCP oficial en una sesión nueva (el error puede ser una
-   incidencia puntual de enrutado regional de COROS) — no requiere que el
-   atleta vuelva a autorizar nada.
+1. ~~Reintentar el MCP oficial en una sesión nueva~~ — descartado como
+   solución por sí solo: el desajuste es fijo en `mcp.coros.com`. Opción
+   nueva: cambiar `.mcp.json` a `https://mcpeu.coros.com/mcp` (o `mcpus`
+   si la cuenta es de EE.UU.) y abrir una sesión nueva; puede pedir
+   repetir la autorización OAuth contra ese host.
 2. Exportar manualmente las actividades desde la app/web de COROS
    (FIT/TCX/CSV) y subirlas aquí.
 3. Pasar a mano los splits de cada triatlón y cualquier test reciente
