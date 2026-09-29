@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-29 — Conector MCP oficial de COROS añadido al proyecto
+- Investigación inicial (blogs) sugería que el MCP oficial de COROS ya tenía escritura activa (crear/programar planes). El atleta comparte una captura de su propia app: "Elaborar planes de entrenamiento" sigue marcado como "próximamente" — se corrige el error, la escritura oficial NO está activa todavía. La decisión de escritura manual se mantiene sin cambios.
+- La lectura (actividades, salud, HRV, evaluación de forma) sí está activa vía OAuth. Se añade `.mcp.json` en la raíz del repo apuntando a `https://mcp.coros.com/mcp` (opción URL de la propia app de COROS, sin instalar paquetes de terceros).
+- Pendiente: el atleta debe autorizar el acceso OAuth la primera vez que una sesión intente usar las herramientas de COROS. Con eso desbloqueado, se puede calcular zonas reales de ritmo/FC/potencia a partir de sus dos triatlones sprint y entrenos recientes sin exportar nada a mano.
+- Se actualizan `CLAUDE.md` y `atleta/zonas-y-metricas.md` con el nuevo estado.
+
 ## 2026-09-29 — Excepción del jueves confirmada; rutina de fuerza cerrada
 - El atleta confirma que el jueves (calidad de carrera/bici + baloncesto el mismo día) es diferente del gimnasio de pierna: ya lo hace así habitualmente y no lo identifica como problema.
 - Se registra la excepción en `atleta/historial-y-limitaciones.md` y se cierra la pregunta abierta en `rutinas/fuerza.md`. La restricción de "nada de pierna intensa en día de baloncesto" queda acotada al gimnasio de pierna (sentadilla, peso muerto, etc.) en lunes/miércoles, no a la sesión de calidad del jueves.

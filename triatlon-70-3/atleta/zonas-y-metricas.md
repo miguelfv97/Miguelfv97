@@ -29,28 +29,28 @@
 - Fuente de los datos: manual (reportado por el atleta) — ver `triatlon-70-3/CLAUDE.md` para el estado de la integración con COROS.
 - Métricas de las que NO fiarse como disparador único de decisiones:
 
-## Pendiente: cálculo de zonas a partir de datos de COROS (2026-09-29)
+## Pendiente: cálculo de zonas a partir de datos de COROS (actualizado 2026-09-29)
 
 El atleta pidió calcular ritmo/FC/potencia a partir de sus datos de COROS
 (dos triatlones sprint ya completados, entrenos hasta ahora y mejora de
-este año). **Esta sesión no tiene forma de acceder a esos datos todavía**:
+este año).
 
-- No hay credenciales de COROS configuradas aquí.
-- Aunque las hubiera, el único script del repo (`scripts/coros-analysis.js`)
-  solo trae nombre/fecha/distancia/duración de cada actividad — no splits,
-  ni ritmo por tramo, ni FC, que es lo que hace falta para sacar zonas
-  reales.
+**Desbloqueado**: se añadió `.mcp.json` en la raíz del repo apuntando al
+MCP oficial de COROS (`https://mcp.coros.com/mcp`, OAuth, lectura activa
+de actividades/salud/evaluación de forma). Falta un paso que solo puede
+hacer el atleta: **autorizar el acceso vía OAuth** la primera vez que una
+sesión de Claude Code intente usar las herramientas de COROS (se abre un
+flujo de autorización en el navegador). Hasta que se autorice, o como
+alternativa si prefiere no hacerlo:
 
-**Cómo desbloquearlo, dos opciones (a elegir por el atleta):**
-1. Exportar desde la app/web de COROS las actividades de los dos triatlones
-   sprint (y, si puede, alguna sesión de referencia reciente: test de FTP,
-   mejor 10K, etc.) como FIT/TCX/CSV y subirlas aquí — se pueden leer
-   directamente y calcular zonas con datos reales.
-2. Si exportar es complicado, pasar a mano los splits de cada triatlón
-   (tiempo/ritmo de natación, tiempo/distancia/potencia media de bici,
-   tiempo/ritmo de carrera) y cualquier test reciente (mejor 5K/10K, FTP,
-   CSS de natación) — con eso se calculan zonas provisionales con fórmulas
-   estándar, marcadas como estimadas hasta confirmarlas con más datos.
+1. Autorizar el MCP oficial (recomendado) y pedir en una sesión que lea
+   los dos triatlones sprint + entrenos recientes para calcular zonas
+   reales.
+2. Exportar manualmente las actividades desde la app/web de COROS
+   (FIT/TCX/CSV) y subirlas aquí.
+3. Pasar a mano los splits de cada triatlón y cualquier test reciente
+   (mejor 5K/10K, FTP, CSS de natación) — zonas provisionales, marcadas
+   como estimadas.
 
-Hasta que llegue uno de los dos, las zonas siguen en blanco — no se
+Hasta que se complete una de las tres, las zonas siguen en blanco — no se
 inventan a partir de suposiciones.

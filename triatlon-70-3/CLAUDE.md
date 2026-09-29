@@ -4,19 +4,24 @@ Sistema para diseñar, programar y revisar el entrenamiento de un triatlón de
 media distancia usando Claude Code. El agente **propone**; el atleta **decide
 y ejecuta** en la app de COROS.
 
-## Modo de operación (decidido el 2026-09-18/29)
+## Modo de operación (decidido el 2026-09-18/29, actualizado 2026-09-29)
 
-- **Escritura en COROS: manual.** No hay ningún MCP ni script con permiso de
-  escritura conectado. Claude entrega cada semana una tabla de sesiones
-  (fecha, disciplina, objetivo, duración/estructura) y el atleta las crea a
-  mano en la app o web de COROS. Cero credenciales de escritura, cero riesgo
-  de que una API no oficial rompa el calendario.
-- **Lectura de datos**: por ahora, manual (el atleta reporta cifras clave:
-  carga, sueño, HRV, FC en reposo, cumplimiento). El repo ya tiene un script
-  de solo lectura (`scripts/coros-analysis.js`, ver raíz del repo) que usa la
-  API no oficial de COROS Training Hub; **no se ha validado aún contra una
-  cuenta real**. Si en el futuro se valida y se decide usarlo como fuente
-  automática, actualizar esta sección y `atleta/zonas-y-metricas.md`.
+- **Escritura en COROS: manual, sin cambios.** COROS tiene un MCP oficial
+  (`https://mcp.coros.com/mcp`, ver `.mcp.json` en la raíz del repo) con
+  autenticación OAuth, pero su función de "elaborar planes de
+  entrenamiento" (crear/programar sesiones) sigue marcada como
+  **"próximamente"** en la propia app de COROS a fecha 2026-09-29 — no
+  está activa todavía. Hasta que lo esté, Claude entrega cada semana una
+  tabla de sesiones (fecha, disciplina, objetivo, duración/estructura) y
+  el atleta las crea a mano en la app o web de COROS.
+- **Lectura de datos**: el MCP oficial de COROS (`.mcp.json`) ya tiene
+  lectura activa (actividades, sueño, HRV, FC en reposo, evaluación de
+  forma/carga) vía OAuth — más seguro que la API no oficial porque nunca
+  se comparte email/contraseña. Requiere que el atleta autorice el acceso
+  la primera vez que una sesión intente usarlo (flujo OAuth en el
+  navegador). El repo también tiene un script de solo lectura
+  (`scripts/coros-analysis.js`, API no oficial, **no validado aún**) como
+  alternativa si el MCP oficial no estuviera disponible.
 - Natación: siempre como nota/evento de calendario con objetivo y estructura
   en texto, nunca como sesión estructurada nativa (ninguna vía disponible hoy
   lo soporta).
