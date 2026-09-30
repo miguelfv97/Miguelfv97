@@ -3,6 +3,17 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Plan por fases cerrado, recuperación post-maratón y checkpoint sub-6:30
+- El atleta pide investigar con fuentes externas y fijar el plan por fases completo, con el objetivo del Ironman 70.3 Valencia y el objetivo secundario de bajar de 6:30h.
+- Investigación: recuperación de maratón (McMillan Running, Brooks Running, Strength Running), estructura de fases de un 70.3 (búsqueda general de planes 20 semanas base/construcción/pico/taper), enfoque de limitador/disciplina más floja y regla 80/20 (TrainingPeaks).
+- Se fijan fechas de fase: Transición post-maratón (3 oct–1 nov 2026), Base (2 nov–10 ene, 10 sem), Construcción (11 ene–7 mar, 8 sem, incluye el 21K de Murcia como control), Pico (8 mar–4 abr, 4 sem, incluye la ventana de aguas abiertas), Taper (5 abr–18 abr).
+- Se escribe un plan de recuperación día a día para la semana post-maratón en `plan/semana-actual.md` (el atleta pidió una sesión de baja intensidad para el día después y dejó el resto a mi criterio) — nada de esto se sube a COROS sin confirmación.
+- Se sube la frecuencia de natación de 1-2x a 4x/semana (lunes y miércoles por la mañana, más martes y viernes ya existentes) sin quitar tiempo a nada más, por ser el limitador claro tras 14 meses sin mejora de ritmo. Bici y carrera mantienen su estructura ya acordada.
+- Se añade una estimación orientativa de tiempo total de carrera (≈6:36 con el nivel actual, ≈5:48 con mejora realista) para mostrar por qué la natación es la palanca más rentable para el sub-6:30 — marcada explícitamente como estimación, no promesa.
+- Fuentes citadas en `plan-maestro.md`.
+
+## 2026-09-30 — Correcciones de material y estacionalidad
+
 ## 2026-09-30 — Correcciones de material y estacionalidad
 - Rodillo: es del gimnasio, sin conexión con COROS (por eso esas sesiones solo tienen FC/duración, nunca distancia/potencia). El atleta reporta los datos a mano cuando lo usa; más probable en invierno, siempre prioriza exterior. Corregido en `atleta/perfil.md` y `atleta/evolucion-coros.md`.
 - Cinta: era su método inicial para series, ahora las hace en exterior siempre que puede; la cinta queda como alternativa de mal tiempo, no como sesión habitual. Corregido en los mismos ficheros.

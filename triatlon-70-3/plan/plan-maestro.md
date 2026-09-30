@@ -16,36 +16,44 @@ ventana corta hay que aprovecharla a propósito (sighting, salida en
 grupo, aclimatación al neopreno si usa) — no se puede meter antes aunque
 el plan lo pidiera.
 
-## Fases (todavía sin fechas exactas — faltan datos, ver "Pendiente" abajo)
+## Fases (fechas fijadas 2026-09-30)
 
 | Fase | Semanas | Fechas | Objetivo principal |
 |---|---|---|---|
-| Base | | | |
-| Construcción | | | |
-| Pico | | | |
-| Taper | | | |
+| Transición post-maratón | ~4,5 | 3 oct – 1 nov 2026 | Recuperar del maratón sin perder base aeróbica. Ver plan detallado abajo. |
+| Base | 10 | 2 nov 2026 – 10 ene 2027 | Consistencia, dar estructura a natación (prioridad), consolidar volumen de bici, mantener carrera. |
+| Construcción | 8 | 11 ene – 7 mar 2027 | Más ritmo/potencia específicos, bricks con algo de ritmo real, control en el 21K de Murcia (7 feb). |
+| Pico | 4 | 8 mar – 4 abr 2027 | Volumen más alto de la temporada, ventana de aguas abiertas (finales de marzo), bricks de ensayo de carrera. |
+| Taper | 2 | 5 abr – 18 abr 2027 (carrera) | Bajar volumen, mantener algo de intensidad, llegar fresco. |
 
-No se fijan fechas de fase todavía porque falta el calendario completo de
-baloncesto (solo se tienen 5 de las 13 jornadas). Las carreras de
-preparación ya están confirmadas (ver más abajo).
+Encaja con lo ya conocido: el parón navideño de baloncesto (19 dic–10 ene)
+cae dentro de Base, donde hay más margen para recuperar bici y carrera
+larga por separado. El 21K de Murcia (7 feb, sin partido ese finde) cae a
+mitad de Construcción como control de forma. La ventana de aguas abiertas
+(finales de marzo) cae en Pico, como ya estaba avisado arriba.
 
-## Aviso: maratón de Mula–Caravaca este sábado (3 de octubre de 2026)
+## Recuperación del maratón de Mula–Caravaca (3 de octubre de 2026)
 
-El atleta corre un maratón (42 km, ~600 m de desnivel) este sábado, ya
-comprometido antes de empezar a diseñar este plan. No hay margen para
-plantear un taper — se corre tal cual llega. Implicaciones para el plan:
+El atleta corre un maratón (42 km, ~600 m D+) este sábado, ya comprometido
+antes de este plan — sin taper previo, se corre tal cual llega. El propio
+atleta pide una sesión de baja intensidad para el día después y deja el
+resto a mi criterio. Plan basado en guías de recuperación de maratón
+(McMillan Running, Brooks Running, Strength Running — ver fuentes):
 
-- **La fase "Base" no arranca oficialmente hasta que haya pasado la
-  recuperación del maratón** (orientativo: 1-2 semanas de carrera suave,
-  sin series ni tiradas largas de impacto, antes de retomar carga normal).
-  Fecha de inicio de fase Base a fijar una vez confirmemos cómo se
-  encuentra después de la carrera.
-- El baloncesto (entrenos lunes/miércoles/jueves) sigue su curso igual —
-  eso no lo controla este plan — pero es una señal más a vigilar en la
-  semana posterior al maratón: si hay fatiga que no baja, dímelo antes de
-  que yo proponga nada de carga en carrera/bici.
-- No se propone ninguna sesión de carrera/bici estructurada para la semana
-  del 3 de octubre: se deja tal cual el atleta la esté llevando ya.
+| Cuándo | Qué hacer |
+|---|---|
+| Domingo 4 oct (día después) | 15–30 min de actividad muy suave y sin impacto: nadar flojo o bici muy suave. Objetivo: activar circulación, no entrenar. Nada de correr. |
+| Lunes 5 – miércoles 7 oct | Sin sesiones estructuradas de correr/bici/nadar. El baloncesto (lunes/miércoles) sigue su curso — eso no lo controla este plan — pero ve suave si el cuerpo lo pide; sin gimnasio de pierna ni fuerza fuerte de tren superior estos días. |
+| A partir del jueves 8 oct | Si las agujetas han bajado claramente, trote muy suave y corto (15–20 min) está permitido. Si no, esperar más. |
+| Semana del 12–18 oct | Retomar carrera fácil 3–4 días, al 30–50% de tu volumen habitual. **Nada de series, tempo ni cuestas.** Bici y natación pueden ir recuperando ritmo normal antes que la carrera — es la que más daño muscular de impacto deja. |
+| Semanas del 19–25 oct y 26 oct–1 nov | Progresión gradual de vuelta a volumen normal. Sin trabajo de series/tempo hasta que hayan pasado ~3 semanas del maratón (a partir de ~24 oct como pronto) y sin otro esfuerzo de carrera a tope hasta 4–6 semanas después (esto ya encajaba con lo que hablamos del social ride del 24 de octubre: si lo haces, rodado controlado, no a tope). |
+| Desde el 2 de noviembre | Fase Base arranca con normalidad. |
+
+Daño muscular del maratón: puede durar hasta 2 semanas aunque las
+agujetas bajen antes — por eso la carrera es la última disciplina en
+recuperar intensidad, no la primera.
+
+Fuentes: [McMillan Running — Smartest Marathon Recovery Plan](https://www.mcmillanrunning.com/payback-time-a-two-week-scientific-plan-to-optimize-recovery-after-your-marathon/), [Brooks Running — Post-Marathon Recovery Plan](https://www.brooksrunning.com/en_fi/blog/training-workouts/post-marathon-recovery-plan.html), [Strength Running — The Reverse Taper](https://strengthrunning.com/2014/11/return-to-running-after-a-marathon/).
 
 ## Carreras de preparación confirmadas
 
@@ -151,20 +159,75 @@ semana (Roadman Cycling).
 - Fuentes: [Purple Patch Fitness — Time-Starved](https://www.purplepatchfitness.com/freetrainingtips/ironman-triathlon-success), [Roadman Cycling — Brick Workouts for Ironman](https://roadmancycling.com/blog/brick-workouts-for-ironman), [TrainingPeaks — Using Brick Workouts](https://www.trainingpeaks.com/blog/using-brick-workouts-in-triathlon-training/).
 
 ## Principios de volumen y distribución
-- El atleta ya entrena mucho (gimnasio 3x + baloncesto 3x + natación 2x +
-  bici 1–2x + carrera 1–2x), pero sin estructura de triatlón. La prioridad
-  del plan no es "añadir más", es reorganizar y dar estructura (sobre todo a
-  natación) antes de subir volumen total.
+
+- El atleta ya entrena mucho (gimnasio 3x + baloncesto 3x + natación 1-2x +
+  bici + carrera), pero sin estructura de triatlón. La prioridad del plan
+  no es "añadir más", es reorganizar y dar estructura antes de subir
+  volumen total.
+- **Enfoque por limitador** (disciplina más floja recibe más frecuencia,
+  no necesariamente más volumen de golpe) — según los 14 meses de
+  histórico (`atleta/evolucion-coros.md`):
+  1. **Natación — máxima prioridad**: 14 meses sin mejora de ritmo, cero
+     trabajo técnico, es la disciplina que más tiempo cuesta en la carrera
+     (ver estimación de tiempos más abajo). La literatura de nadadores de
+     triatlón (TrainingPeaks / Brad Culp) recomienda frecuencia diaria
+     para romper el estancamiento — no se aplica literal (no cabe en su
+     semana), pero sí se sube de 1-2x/semana a **4x/semana** usando huecos
+     ya identificados y sin quitarle tiempo a nada más: martes (ya la
+     tiene, con pierna de gimnasio), y **lunes y miércoles por la mañana**
+     (7:00-8:00, antes de currar, antes del gimnasio de tren superior de
+     esos días) + viernes (ya contemplado, con más margen). Sesiones
+     cortas (20-30 min), centradas en técnica, no en hacer metros.
+  2. **Bici — en consolidación**: solo 4 meses de volumen real (ver
+     `evolucion-coros.md`). Se mantiene la estructura ya acordada (calidad
+     entre semana + rotación de fin de semana) sin añadir más días — el
+     hueco de frecuencia lo necesita más la natación ahora mismo.
+  3. **Carrera — mantener, no reinventar**: es la disciplina mejor
+     asentada (tirada larga de ~20km estable desde diciembre de 2025). Se
+     mantiene el patrón que ya funciona.
+- Se sigue el principio general 80/20 (80% del tiempo a intensidad
+  fácil/aeróbica, 20% a intensidad dura) en cada disciplina, ajustando
+  algo más hacia intensidad en natación al ser la disciplina con más
+  frecuencia añadida — [TrainingPeaks — Using the 80/20 Rule](https://www.trainingpeaks.com/blog/using-the-80-20-rule-to-balance-triathlon-training-intensity/), [TrainingPeaks — Turn Your Weakest Discipline Into a Strength](https://www.trainingpeaks.com/blog/turn-your-weakest-discipline-into-a-strength/).
 - Ver nota de carga de tren superior en `atleta/historial-y-limitaciones.md`
-  antes de añadir volumen de natación.
+  antes de subir más el volumen de natación de lo aquí propuesto.
+
+## ¿Es realista el sub-6:30? Estimación orientativa (2026-09-30)
+
+Cálculo aproximado con los datos actuales, **no es una promesa, es una
+foto de dónde estás hoy** para decidir dónde apretar:
+
+| Tramo | Con tu nivel actual | Con mejora realista en la ventana de entreno |
+|---|---|---|
+| Natación 1.9km | ≈49 min (ritmo actual sin técnica, 2:35/100m) | ≈41 min (2:10/100m, objetivo alcanzable con la prioridad de arriba) |
+| T1 | ≈4 min | ≈4 min |
+| Bici 90km | ≈3:30 (25.7 km/h, tu ritmo de salidas largas recientes) | ≈3:05 (29 km/h, con más volumen consolidado) |
+| T2 | ≈3 min | ≈3 min |
+| Carrera 21.1km | ≈2:10 (con fatiga acumulada de nadar+bici) | ≈1:55 (con bricks bien entrenados) |
+| **Total** | **≈6:36** | **≈5:48** |
+
+Con tu forma de hoy estás muy cerca del límite, ligeramente por encima.
+La natación es la palanca más rentable con diferencia: cada minuto que
+bajes ahí cuenta directo para el sub-6:30, y es donde más margen real
+hay (14 meses sin trabajar técnica). Bici y carrera ya están en buena
+forma relativa — mejoran, pero no son el cuello de botella.
 
 ## Semanas de descarga
-- PENDIENTE de definir una vez fijadas las fases.
 
-## Pendiente antes de cerrar el plan por fases
-1. ~~Carreras de preparación~~ — confirmadas, ver tabla arriba. Avisar si sale alguna más.
-2. ~~Calendario de baloncesto~~ — completo, 13/13 jornadas.
-3. ~~Confirmación de zonas de ritmo/FC/potencia~~ — ritmo umbral de carrera confirmado en vivo por COROS (4:32/km). Ver `atleta/zonas-y-metricas.md` y el histórico completo en `atleta/evolucion-coros.md`.
-4. ~~Confirmar si tiene rodillo para bici en interior~~ — sí, confirmado por historial de COROS (ciclismo indoor regular). Ver `atleta/perfil.md`.
-5. Decisión sobre el conflicto del 24 de octubre (social ride vs. partido).
-6. Cómo se encuentra tras el maratón del 3 de octubre, para fijar cuándo arranca realmente la fase Base.
+Cada 4 semanas, una semana de descarga en Base y Construcción (volumen
+~30-40% más bajo, algo de intensidad corta se mantiene) — patrón estándar
+en planes de 70.3. En Pico, descarga cada 3 semanas dado el mayor
+esfuerzo acumulado. Se aplica dentro de cada bloque de 4 (o 3) semanas
+según el calendario real una vez empecemos a programar semana a semana.
+
+## Plan por fases: cerrado (2026-09-30)
+
+Fases y fechas fijadas arriba. Quedan dos puntos abiertos, ninguno bloquea
+seguir avanzando:
+1. Decisión del atleta sobre el conflicto del 24 de octubre (social ride vs. partido) — la tomará esa misma semana según se mueva o no el partido.
+2. Cómo se encuentre realmente tras el maratón del 3 de octubre — el plan de recuperación de arriba es la propuesta por defecto; se ajusta si hay fatiga que no baja o alguna molestia.
+
+## Próximo paso
+Con las fases ya fijadas, lo que sigue es concretar `plan/semana-actual.md`
+semana a semana según se vaya llegando a cada una — empezando por la
+semana de recuperación post-maratón.
