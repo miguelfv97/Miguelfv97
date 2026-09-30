@@ -58,18 +58,23 @@ fichero para referencia, ya no es el estado actual.
 - Sin zonas formales ni ritmo umbral por 100 m — COROS no tiene esa
   pantalla; haría falta un test CSS (Critical Swim Speed: 400 m + 200 m a
   tope, descanso completo entre ambos) para calcularlo.
-- **Datos reales de los dos triatlones** (ver tabla más abajo): en Cullera
-  nadó 848 m en 19:15 (≈2:16/100m, HR 121 avg); en Murcia 633 m en 6:04
-  (≈0:57/100m, HR 116 avg — probablemente un tramo/OW más corto o con
-  corriente, no comparable directamente). Son ritmos de carrera sin
-  entrenar la técnica, no un ritmo de referencia fiable para planificar.
+- **Dato real fiable — Cullera**: 848 m en 19:15 (≈2:16/100m, HR 121 avg).
+  Es natación de competición sin entrenar técnica, no un ritmo de
+  referencia ideal, pero es un esfuerzo real y comparable.
+- **Dato descartado — "Murcia Triatlón" (probablemente el triatlón de
+  Blanca, ver `evolucion-coros.md`)**: 633 m en 6:04 (≈0:57/100m, HR 116
+  avg). El atleta confirma que esa natación fue en río, a favor de
+  corriente — **este ritmo NO se usa como referencia de esfuerzo**, el
+  tiempo está inflado por la corriente, no por su nivel real.
+- **14 meses de piscina** (65 sesiones): ritmo 2:17–3:36/100m, sin mejora
+  de técnica clara. Detalle completo en `atleta/evolucion-coros.md`.
 
 ## Los dos triatlones sprint — splits reales (COROS, 2026-09-30)
 
-| | Cullera Triatlón (2026-09-19) | Murcia Triatlón (2026-07-18) |
+| | Cullera Triatlón (2026-09-19) | "Murcia Triatlón" — probable Triatlón de Blanca (2026-07-18) |
 |---|---|---|
 | Tiempo total | 1:28:27 | 1:13:04 |
-| Natación | 848 m en 19:15, HR avg 121 / max 165 | 633 m en 6:04, HR avg 116 / max 135 |
+| Natación | 848 m en 19:15, HR avg 121 / max 165 | ~~633 m en 6:04~~ **inválido como referencia — río, a favor de corriente** |
 | Bici | 20.30 km en 41:04 (≈29.7 km/h), HR avg 157 / max 167, +121 m D+ | 18.27 km en 41:38 (≈26.3 km/h), HR avg 152 / max 172, +166 m D+ |
 | Carrera | 4.69 km en 22:52 (≈4:53/km), HR avg 165 / max **178** | 4.61 km en 22:23 (≈4:51/km), HR avg 175 / max **185** |
 
@@ -77,7 +82,9 @@ fichero para referencia, ya no es el estado actual.
 bici sube de ~26.3 a ~29.7 km/h y el ritmo de carrera se mantiene similar
 (~4:52/km) pero **con menos FC máxima al final** (178 vs 185) — indicio de
 mejor eficiencia/forma, no solo de ir más rápido. El pico de 185 ppm en
-Murcia es el dato real más alto de FC visto hasta ahora (ver más abajo).
+Blanca es el dato real más alto de FC visto hasta ahora (ver más abajo).
+La comparación de natación entre ambas pruebas ya no aplica — la de Blanca
+queda descartada, ver arriba.
 
 ## Métricas generales
 - **FC reposo (COROS, últimos 7 días, 2026-09-30)**: 44–51 ppm (mayoría 44–45, un pico puntual de 51 el 27/09 — vigilar si se repite).

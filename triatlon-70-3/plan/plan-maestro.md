@@ -154,7 +154,7 @@ semana (Roadman Cycling).
 ## Pendiente antes de cerrar el plan por fases
 1. ~~Carreras de preparación~~ — confirmadas, ver tabla arriba. Avisar si sale alguna más.
 2. ~~Calendario de baloncesto~~ — completo, 13/13 jornadas.
-3. Confirmación de zonas de ritmo/FC/potencia — provisionales desde capturas de la app COROS; pendiente de validarlas con actividades reales. El MCP falla por un desajuste fijo en `mcp.coros.com` (ver `atleta/zonas-y-metricas.md`); pendiente de que el atleta decida si se apunta `.mcp.json` al endpoint regional o exporta actividades a mano.
-4. Confirmar si tiene rodillo para bici en interior.
+3. ~~Confirmación de zonas de ritmo/FC/potencia~~ — ritmo umbral de carrera confirmado en vivo por COROS (4:32/km). Ver `atleta/zonas-y-metricas.md` y el histórico completo en `atleta/evolucion-coros.md`.
+4. ~~Confirmar si tiene rodillo para bici en interior~~ — sí, confirmado por historial de COROS (ciclismo indoor regular). Ver `atleta/perfil.md`.
 5. Decisión sobre el conflicto del 24 de octubre (social ride vs. partido).
 6. Cómo se encuentra tras el maratón del 3 de octubre, para fijar cuándo arranca realmente la fase Base.

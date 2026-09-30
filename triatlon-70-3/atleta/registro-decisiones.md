@@ -3,6 +3,13 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Histórico completo de COROS leído (~14 meses) y corrección del triatlón de Blanca
+- El atleta pide revisar toda la natación (piscina y aguas abiertas) y el histórico completo de todas las disciplinas (~14 meses de cuenta COROS) para tener su evolución completa.
+- Se leen 65 sesiones de piscina + 1 de aguas abiertas, 100+ de carrera y 51 de bici desde julio de 2025. Resumen y lectura en `atleta/evolucion-coros.md` (nuevo fichero).
+- **Corrección importante**: el atleta indica que la natación de "el triatlón de Blanca" fue en río, a favor de corriente, y ese tiempo no es esfuerzo real. Por coordenadas GPS, el registro de COROS que probablemente corresponde es el etiquetado "Murcia Triatlón" (18/07/2026) — coincide con el pueblo de Blanca casi al metro (no confirmado explícitamente por el atleta, alta confianza). Se marca esa natación (633m/6:04) como **inválida para referencia de esfuerzo** en `zonas-y-metricas.md` y `perfil.md`; bici y carrera de esa prueba se mantienen como válidas.
+- Hallazgos nuevos no mencionados antes por el atleta: usa cinta de correr ("Cinta") con regularidad y tiene acceso a ciclismo indoor/rodillo (uso regular desde jul. 2025) — se añaden a `atleta/perfil.md`. Se resuelven los pendientes de `plan-maestro.md` sobre rodillo y zonas.
+- Lectura clave de la evolución: la bici solo lleva volumen serio desde junio de 2026 (antes era indoor corto de mantenimiento) — mucho menos asentada que la carrera. La natación lleva 14 meses sin mejora de ritmo clara, refuerza la prioridad de técnica sobre volumen.
+
 ## 2026-09-30 — Conector de COROS activo: zonas confirmadas, datos reales leídos
 - El atleta conecta COROS en https://claude.ai/customize/connectors (todos los permisos, OAuth). Se verifica con una llamada de solo lectura (`queryUserInfo`): perfil correcto (177cm/73kg/29 años), conector activo y autenticado.
 - **Ritmo umbral de carrera confirmado**: `queryFitnessAssessmentOverview` de COROS devuelve 4:32/km, idéntico al de las capturas de pantalla — ya no es un valor provisional, es la evaluación en vivo de COROS (VO2max 58, Running Level 84).
