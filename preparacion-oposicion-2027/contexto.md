@@ -753,6 +753,47 @@ Serna (programación 2025-2026, la más reciente localizada), un TFM/TFG en
 Universidad Laboral de Málaga, y el "Modelo Guía Educativa Habilidades
 sociales NEI2" del IES Abyla (Ceuta).
 
+### Evaluación criterial del 0017 (puntos 4-7 del documento de la preparadora)
+
+Metodología seguida según las pautas de Rita Ros Pérez-Chuecos: abandonar
+"1 RA = 1 UT", agrupar contenidos afines dentro de un mismo RA para poder
+llegar a un mínimo de 12 UT, y repartir los criterios de evaluación sin
+repetir ninguno entre UT.
+
+**Punto 4 — reparto de contenidos en 12 UT** (RA1→UT1-UT2, RA2→UT3-UT6,
+RA3→UT7, RA4→UT8-UT9, RA5→UT10-UT12; nombres y contenidos detallados en
+`materiales/Modulo_0017_Reparto_Contenidos_RA_UT.docx`).
+
+**Punto 5 — reparto de los 48 criterios de evaluación por UT**, sin
+repeticiones (detalle completo en
+`materiales/Modulo_0017_Reparto_Criterios_Evaluacion_RA_UT.docx`).
+
+**Punto 6 — ponderación de los RA sobre el 100%.** Decisión cerrada
+(30/09/2026): diferenciada, no plana, dando más peso a los RA cuyo verbo
+es *implementa* o *evalúa* (conectan directamente con la competencia
+general del título — RD 289/2023: "programar, organizar y **evaluar** las
+**intervenciones** de integración social..."), frente a *dinamiza* y
+*conduce*, competencias más acotadas a un único contexto profesional.
+
+| RA | Verbo | Ponderación |
+|---|---|---|
+| RA1 — Comunicación y habilidades sociales | Implementa | 20% |
+| RA2 — Dinamización del grupo | Dinamiza | 15% |
+| RA3 — Conducción de reuniones | Conduce | 15% |
+| RA4 — Gestión de conflictos | Implementa | 20% |
+| RA5 — Evaluación de la competencia social | Evalúa | 30% |
+
+El extra de peso se concentra en RA5 (no repartido por igual entre los
+tres RA "favorecidos") porque es el RA de evaluación, transversal y de
+cierre del módulo, apoyado en todo lo trabajado en los otros cuatro.
+Decisión tomada conscientemente **en contra** del criterio de "nº de
+criterios de evaluación" (RA2 tiene 10 CE, tantos como RA1 y RA4, pero
+quiere menos peso que RA5, que solo tiene 9) — si el tribunal pregunta,
+la justificación es la competencial/curricular, no el recuento de CE.
+
+**Punto 7 — distribución de los CE dentro de cada RA sobre su %** — aún no
+iniciado.
+
 ### Pendiente
 
 - No se ha comparado todavía este 0017 (Integración Social) con el 0017 de
@@ -760,6 +801,8 @@ sociales NEI2" del IES Abyla (Ceuta).
   el mismo módulo transversal — ahora mismo es una cuestión menor porque ya se
   tiene el texto oficial vigente para el candidato que importa.
 - Sigue pendiente la decisión definitiva de módulo (§3).
+- Punto 7 (reparto de los CE dentro de cada RA sobre su ponderación) — ver
+  arriba, siguiente paso natural.
 - Descargar la programación IVAC-EEI y revisar los candidatos de
   programación reciente/innovadora en cuanto se resuelva el acceso de red
   (o Pepe suba los PDF directamente).
