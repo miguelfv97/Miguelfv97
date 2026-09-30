@@ -1,4 +1,4 @@
-# Rutinas de fuerza (PROPUESTA v2 — pendiente de confirmación)
+# Rutinas de fuerza (v3 — reparto semanal cerrado, periodización por fases PROPUESTA)
 
 > Corregido tras feedback del atleta (2026-09-29): la pierna de gimnasio
 > se queda en martes, agrupada con natación, y nunca en lunes o miércoles
@@ -65,12 +65,47 @@ es lo primero que sobra para ganar tiempo, no la rotación externa.
 - El trabajo de rotación externa/escápula se reparte en lunes y miércoles
   en vez de ser un día aparte, para no añadir tiempo nuevo a la semana.
 
-## Progresión (orientativa)
+## Progresión ligada a las fases del plan (redistribuido 2026-09-30)
 
-1. Primeras 6-8 semanas: peso más ligero, más repeticiones, prioridad a la técnica.
-2. Siguientes 4-6 semanas: peso intermedio.
-3. Siguientes 4-6 semanas: peso más alto, parte baja del rango de reps.
-4. Resto de temporada: mantenimiento — la prioridad pasa a la resistencia específica de triatlón.
+La periodización de fuerza para un 70.3 no va "de más ligero a más
+pesado" sin más — va de **más volumen de fuerza al principio** (cuando el
+volumen de resistencia todavía es bajo) **a menos según sube la carga de
+nadar/bici/correr**, terminando en pura mantenimiento y parando antes de
+la carrera. Es el patrón estándar en periodización de triatlón de larga
+distancia: la fuerza pasa a mantenimiento cuando sube la intensidad
+específica, y para casi del todo en el taper — [Triathlete — How to Use
+Periodization in Your Triathlon Training
+Plan](https://www.triathlete.com/training/how-to-use-periodization-in-your-triathlon-training-plan/),
+[MyProCoach — Periodization & Training
+Phases](https://www.myprocoach.net/blog/triathlon-periodization/).
+
+| Fase del plan | Fechas | Fuerza |
+|---|---|---|
+| Transición post-maratón | 3 oct–1 nov 2026 | Como ya la haces, sin cambios — no es momento de tocar nada nuevo. |
+| **Base** | 2 nov 2026–10 ene 2027 | **3 sesiones/semana tal como está arriba** (Lunes A completa, Martes pierna completa, Miércoles B recortada). Es el pico de volumen de fuerza de toda la temporada — el volumen de nadar/bici/correr todavía es moderado, hay margen. Peso: empezar moderado, subir progresivo dentro de la fase. |
+| **Construcción** | 11 ene–7 mar 2027 | Bajar a **2 sesiones/semana**: mantener Martes (pierna) entera — es la que más rinde para correr/pedalear —, y fundir Lunes+Miércoles en una sola sesión de mantenimiento de tren superior (elegir uno de los dos días según cómo llegues de cansado esa semana). El volumen de resistencia ya sube de verdad; la fuerza deja de ser prioridad de carga. |
+| **Pico** | 8 mar–4 abr 2027 | **Mínimo, 1 sesión corta/semana** (10-15 min): rotación externa de hombro + 1-2 ejercicios de pierna muy ligeros solo para no perder del todo el patrón motor. Nunca al fallo. Todo el foco va a la resistencia específica y a la ventana de aguas abiertas. |
+| **Taper** | 5 abr–18 abr 2027 | Parar la carga de fuerza. Como mucho, activación muy ligera (sin peso) la primera semana de taper; nada la semana de la carrera. |
+
+## Orden sesión de fuerza + natación (martes y miércoles)
+
+La ciencia de entrenamiento concurrente dice: si fuerza y resistencia van
+el mismo día y hay que elegir orden, **la fuerza primero** maximiza mejor
+la adaptación de fuerza (activa mTOR con glucógeno lleno); lo ideal es
+dejar >3h entre ambas si se puede — [Frontiers — concurrent training
+sequences](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1692399/full).
+En tu caso:
+- **Martes**: ya sigue ese orden (pierna → natación), bien.
+- **Miércoles**: se prioriza natación primero porque ahí lo que manda es
+  la técnica (necesita ir fresco), no maximizar la fuerza — ese día el
+  gimnasio ya es secundario/recortado por diseño. Meta-análisis más
+  recientes (Schumann et al.) muestran que el efecto de interferencia es
+  menor de lo que se pensaba cuando las sesiones ya van separadas en el
+  día, así que este orden no compromete gran cosa — [TrainingPeaks — Risks
+  of Concurrent
+  Training](https://www.trainingpeaks.com/blog/risks-of-concurrent-training/).
+  Dejar el margen que puedas entre nadar y el gimnasio ese día (aunque
+  sean 30-60 min) es mejor que nada, pero no es crítico.
 
 Los pesos/cargas concretas los decides tú sesión a sesión (RPE), no se
 inventan aquí.

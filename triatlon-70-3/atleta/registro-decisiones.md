@@ -3,6 +3,13 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Periodización de fuerza por fases (v3)
+- El atleta pide redistribuir el gimnasio apoyándose en expertos de entrenamiento para 70.3.
+- Investigación: periodización de fuerza en triatlón (Triathlete, MyProCoach — la fuerza baja a mantenimiento cuando sube el volumen de resistencia, casi se para en el taper) y ciencia de entrenamiento concurrente/efecto de interferencia (Frontiers 2025, TrainingPeaks — fuerza antes que resistencia si van el mismo día para maximizar fuerza, aunque el efecto es menor de lo que se pensaba con sesiones ya separadas).
+- Se liga la fuerza a las fases ya fijadas en `plan-maestro.md`: Base (2 nov–10 ene) mantiene las 3 sesiones/semana ya diseñadas (pico de volumen de fuerza de la temporada); Construcción (11 ene–7 mar) baja a 2 sesiones/semana (se funden lunes+miércoles); Pico (8 mar–4 abr) mínimo, 1 sesión corta/semana de mantenimiento; Taper (5 abr–18 abr) se para la carga.
+- Se explica el orden fuerza→natación de martes (ya correcto según la ciencia) y se justifica por qué miércoles va natación primero (prioridad a la técnica, no a maximizar fuerza ese día, efecto de interferencia menor de lo esperado con sesiones separadas).
+- `rutinas/fuerza.md` pasa a v3. Reparto semanal ya cerrado; la periodización por fases queda como propuesta pendiente de que el atleta la vea aplicada semana a semana y confirme que funciona.
+
 ## 2026-09-30 — Corrección: nadar antes de trabajar no es viable
 - El atleta descarta la propuesta de natación antes de trabajar (lunes/miércoles 7-8h) — no es viable para él.
 - Se pregunta directamente por huecos reales. Respuesta: puede recortar el gimnasio (normalmente 1h15) y meter una sesión rápida de natación un día de baloncesto, prefiriendo miércoles (llega menos cargado que el lunes).
