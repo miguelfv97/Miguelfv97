@@ -8,6 +8,8 @@ Programación didáctica para la oposición al Cuerpo de Profesores de Enseñanz
 
 El módulo **0017 Habilidades sociales** ya tiene ficha oficial completa y verificada: código, ECTS, 5 RA con sus criterios de evaluación, contenidos y objetivos generales del ciclo (RD 1074/2012, actualizado por RD 289/2023 — ver `contexto.md` §14). Es, de los tres candidatos, el único con los datos completamente cerrados.
 
+Esa ficha está también volcada en formato tabla (RA / Criterios de evaluación / Contenidos) en [`materiales/Modulo_0017_Habilidades_sociales_RA_CE_Contenidos.docx`](./materiales/Modulo_0017_Habilidades_sociales_RA_CE_Contenidos.docx), lista para usar como base de trabajo o entregar.
+
 ## Relación con otros proyectos y con la preparadora
 
 - La programación se entrega por fases a la preparadora del opositor (Grupo Pedro Nicolás), que marca pautas, fija fechas de entrega y corrige con indicaciones propias. Claude actúa como herramienta de ejecución de esas correcciones, no como quien decide el enfoque — ver `contexto.md` §13.
