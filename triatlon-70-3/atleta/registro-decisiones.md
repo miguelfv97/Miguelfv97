@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Página de fases y check-in diario a las 6:30
+- Se publica una página (Artifact) con las 5 fases del plan, semana tipo, ciclo de fin de semana y zonas de referencia: https://claude.ai/artifact/MWTK7WAevaquj7PuXn4WfL — generada a partir de `plan-maestro.md`, `rutinas/fuerza.md` y `rutinas/sesiones-triatlon.md`. Hay que regenerarla si esos ficheros cambian de forma relevante.
+- Se crea una Routine diaria a las 6:30 hora de España (trig_01Fmm3YvQ1hbSoGpiie7YxJX, cron `30 4 * * *` UTC) que revisa lo entrenado el día anterior (vía COROS), da el entreno detallado del día, recomendaciones si hace falta, pregunta por sensaciones solo si hay una señal real, y un resumen de avance una vez al mes (no a diario). Vinculada a esta misma sesión para mantener contexto e historial.
+- Se programan dos recordatorios propios para ajustar el cron cuando cambie la hora en España (25 oct 2026 y 28 mar 2027), para que el aviso siga cayendo a las 6:30 hora local y no se desincronice con el cambio de horario.
+
 ## 2026-09-30 — Periodización de fuerza por fases (v3)
 - El atleta pide redistribuir el gimnasio apoyándose en expertos de entrenamiento para 70.3.
 - Investigación: periodización de fuerza en triatlón (Triathlete, MyProCoach — la fuerza baja a mantenimiento cuando sube el volumen de resistencia, casi se para en el taper) y ciencia de entrenamiento concurrente/efecto de interferencia (Frontiers 2025, TrainingPeaks — fuerza antes que resistencia si van el mismo día para maximizar fuerza, aunque el efecto es menor de lo que se pensaba con sesiones ya separadas).
