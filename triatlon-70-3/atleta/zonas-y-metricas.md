@@ -57,7 +57,12 @@ fichero para referencia, ya no es el estado actual.
 ## Natación
 - Sin zonas formales ni ritmo umbral por 100 m — COROS no tiene esa
   pantalla; haría falta un test CSS (Critical Swim Speed: 400 m + 200 m a
-  tope, descanso completo entre ambos) para calcularlo.
+  tope, descanso completo entre ambos) para calcularlo. Test programado
+  para el jueves 1 de octubre de 2026, montado por el atleta en la app de
+  COROS (el conector de escritura no soporta natación — confirmado
+  2026-09-30, `createScheduledWorkout` solo admite carrera/ciclismo/trail).
+  En cuanto lo nade, se lee el resultado por COROS (lectura sí funciona
+  para natación) y se calculan ritmos reales para `rutinas/sesiones-triatlon.md`.
 - **Dato real fiable — Cullera**: 848 m en 19:15 (≈2:16/100m, HR 121 avg).
   Es natación de competición sin entrenar técnica, no un ritmo de
   referencia ideal, pero es un esfuerzo real y comparable.

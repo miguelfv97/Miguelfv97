@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Test CSS programado para el 1 de octubre; confirmado que la escritura de COROS no soporta natación
+- El atleta puede hacer el test CSS mañana jueves 1 de octubre, en piscina de 25m con su COROS Pace 3. Se le explica el protocolo (calentamiento 400m suave + drills, 400m a tope, 5-10 min de descanso completo, 200m a tope, CSS = (tiempo 400m − tiempo 200m en segundos) ÷ 2) y cómo montarlo él mismo en la app COROS (Perfil → Biblioteca de entrenos → nuevo entreno → Natación en piscina 25m → bloques de calentamiento/400m/descanso/200m/vuelta a la calma).
+- Antes de ofrecer crear ese entreno directamente vía el conector, se revisa el schema exacto de `createScheduledWorkout`/`createSingleWorkout`: `sportType` solo admite 1 (carrera), 2 (ciclismo), 4 (descanso, solo en planes) y 5 (trail) — **natación no está soportada por la API de escritura de COROS**, ni siquiera con aprobación del atleta. Se corrige antes de que el atleta aprobara nada, ninguna acción equivocada llegó a ejecutarse.
+- Se actualiza `atleta/zonas-y-metricas.md` (sección Natación) para reflejar el test programado y esta limitación confirmada. En cuanto el atleta nade el test, la lectura de resultados sí funciona por COROS (splits del 400m y 200m) y se calculará el CSS real y los ritmos por 100m de `rutinas/sesiones-triatlon.md` sin que tenga que pasar nada a mano.
+
 ## 2026-09-30 — Natación: se revierte la 3ª sesión, se prioriza calidad sobre frecuencia
 - El atleta aclara el diagnóstico real: nunca ha hecho series ni estructura en el agua, siempre nadado continuo al ritmo que sale. No necesita más frecuencia, necesita calidad/estructura en las sesiones que ya tiene.
 - Se revierte la sesión extra de natación del miércoles: `rutinas/fuerza.md` vuelve a la rutina completa de ese día (sin recortar), y se elimina la referencia a natación ahí.
