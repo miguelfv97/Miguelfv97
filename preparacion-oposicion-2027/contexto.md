@@ -673,6 +673,72 @@ reuniones)**. Esto refuerza que este módulo, más que el 0018, es el candidato
 donde más material puede reaprovecharse (adaptando formato y marco normativo,
 ver §12).
 
+### Materiales de referencia localizados para las UT del 0017
+
+**Programación completa y real — IVAC-EEI (País Vasco), 2009.**
+`https://ivac-eei.eus/upload/cf/documentos/121/ssc_ts_int_soc_ud_0017_c.pdf`
+Documento con derechos de autor (no es disposición legal): sirve como
+referencia de estructura y metodología, **no para copiar literalmente**.
+Localizada originalmente en el proyecto de Habilidades Sociopersonales
+(`programacion-docente-habilidades-sociopersonales/contexto.md` §5.3), donde
+ya se usó como referencia para construir las UT de ese módulo (RD 570/2023).
+Aún no descargada aquí — la política de red de este entorno bloquea
+`ivac-eei.eus` (mismo bloqueo que BOE/BORM, pendiente de que se resuelva).
+4 UD completas, 132 horas totales:
+- **UD1 (33h) — Estrategias y técnicas de comunicación favorecedoras de la
+  relación social:** mapea al RA1. Exposiciones breves + role-playing
+  grabado, mural sobre comunicación no verbal, escucha activa (teléfono
+  descacharrado), estilos de comunicación (asertivo/pasivo/agresivo),
+  habilidades conversacionales, código deontológico, dossier final, prueba
+  escrita.
+- **UD2 (33h) — Dinamización de grupos de trabajo:** mapea al RA2 de este
+  reparto (construcción de un objeto por equipos, roles grupales, ciclo de
+  vida de un grupo, técnicas de dinamización, liderazgo —tipos, rasgos,
+  Philips 6/6—, fichero de técnicas, dossier final, prueba escrita y caso
+  práctico).
+- **UD3 (32h) — Conducción de reuniones:** mapea directamente al RA3
+  (moderación, tipos de participantes, factores que afectan al
+  comportamiento grupal) — aquí sí hay RA equivalente (a diferencia de
+  Habilidades Sociopersonales, donde se aprovechó solo como actividad
+  complementaria).
+- **UD4 (33h) — Gestión de conflictos y toma de decisiones:** mapea al RA4
+  (tipos de conflicto y actitudes, pasos de resolución, negociación y
+  mediación —incluye simulación de proceso de mediación formal, charla de
+  especialista—, fichero de técnicas, folleto informativo, dossier final,
+  prueba escrita).
+- La autoevaluación de la competencia social (RA5 aquí) no aparece como UD
+  independiente en el IVAC-EEI: está integrada transversalmente en cada UD.
+
+**Material propio antiguo de Pepe (Habilidades Sociales, Integración
+Social, impartido en la privada hace 2-3 cursos).** Existe y ya se usó para
+construir varias UT de Habilidades Sociopersonales, pero **los archivos
+originales no están guardados en ningún repositorio** — vivían en el
+entorno de aquella sesión de trabajo, ya no accesible
+(`programacion-docente-habilidades-sociopersonales/contexto.md` §7.2 y
+§7.10 tienen la descripción narrativa, no el material). Si Pepe aún los
+conserva localmente, conviene volver a subirlos:
+- Tema "Habilidades Sociales" (curso 24-25) → encaja con las UT1-UT2 de
+  este reparto (comunicación / inteligencia emocional).
+- Tema "UT3: Resolución de conflictos y toma de decisiones" → encaja con
+  las UT8-UT9 (conflicto, negociación y mediación).
+- Tema "Dinamización del trabajo en grupo" → encaja con las UT3-UT6 (grupo,
+  comunicación grupal, dinámicas, equipo).
+- Material de "Conducción de reuniones" → descartado en Habilidades
+  Sociopersonales por falta de RA equivalente, pero **aquí sí es
+  aprovechable** para la UT7 (RA3 existe en este módulo).
+- Escala de Habilidades Sociales de Goldstein, Sprafkin, Gershaw y Klein
+  (1980) (50 ítems / 6 categorías) → instrumento real ya usado en la
+  autoevaluación de Habilidades Sociopersonales; aplicable también a las
+  UT10-UT12 (evaluación y autoevaluación de la competencia social) de este
+  módulo.
+
+**Candidatos a programación reciente/innovadora** (búsqueda de septiembre
+2026, pendiente de leer por el mismo bloqueo de red): IES Antonio Serna
+Serna (programación 2025-2026, la más reciente localizada), un TFM/TFG en
+`dspace.unia.es` dedicado íntegramente a este módulo, la programación de la
+Universidad Laboral de Málaga, y el "Modelo Guía Educativa Habilidades
+sociales NEI2" del IES Abyla (Ceuta).
+
 ### Pendiente
 
 - No se ha comparado todavía este 0017 (Integración Social) con el 0017 de
@@ -680,3 +746,8 @@ ver §12).
   el mismo módulo transversal — ahora mismo es una cuestión menor porque ya se
   tiene el texto oficial vigente para el candidato que importa.
 - Sigue pendiente la decisión definitiva de módulo (§3).
+- Descargar la programación IVAC-EEI y revisar los candidatos de
+  programación reciente/innovadora en cuanto se resuelva el acceso de red
+  (o Pepe suba los PDF directamente).
+- Pedir a Pepe que vuelva a subir su material antiguo de Habilidades
+  Sociales si todavía lo conserva.
