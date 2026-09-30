@@ -34,24 +34,21 @@ Después, natación como ya haces.
 | Dominadas o jalón al pecho | 2-3x6-10 | |
 | Y-T-W con banda o mancuernas ligeras | 2x10-12 por letra | Cuidado de hombro, integrado aquí en vez de un día aparte |
 
-## Miércoles (baloncesto) — Tren superior complementario recortado + natación
+## Miércoles (baloncesto) — Tren superior complementario, sin pierna
 
-**Cambio confirmado (2026-09-30)**: el atleta añade aquí una sesión corta
-de natación (ver `sesiones-triatlon.md`, natación técnica) antes de
-baloncesto. Para que quepa sin alargar el día, esta rutina se recorta de
-~1h15 a ~45-50 min — menos ejercicios, no menos calidad en los que quedan.
-Orden recomendado: **natación primero** (llegas fresco para la técnica),
-gimnasio recortado después, baloncesto a las 22:00.
+**Revertido (2026-09-30)**: la sesión extra de natación de los miércoles
+se quita — el atleta no necesita más frecuencia de natación, necesita más
+calidad en las sesiones que ya tiene (martes y viernes, ver
+`sesiones-triatlon.md`). El gimnasio del miércoles vuelve a su versión
+completa, ya no hace falta recortarlo.
 
 | Ejercicio | Series x reps | Nota |
 |---|---|---|
-| Curl de bíceps | 2x10-12 | Recortado de 2-3 a 2 series |
-| Press de tríceps | 2x10-12 | Recortado de 2-3 a 2 series |
-| Rotación externa a 90° con banda | 2x12-15 | Cuidado de hombro, se mantiene igual — es rápido y es la parte que más nos interesa mantener |
-| Dynamic hug o low row con banda | 2x12-15 | Cuidado de hombro, se mantiene igual |
-
-Se quita el core opcional de aquí (ya lo tienes en la rutina del martes) —
-es lo primero que sobra para ganar tiempo, no la rotación externa.
+| Curl de bíceps | 2-3x10-12 | |
+| Press de tríceps | 2-3x10-12 | |
+| Rotación externa a 90° con banda | 2x12-15 | Cuidado de hombro |
+| Dynamic hug o low row con banda | 2x12-15 | Cuidado de hombro / equilibrio de tracción |
+| Core (opcional, ligero) | 2x | |
 
 ## Por qué este reparto
 
@@ -82,30 +79,20 @@ Phases](https://www.myprocoach.net/blog/triathlon-periodization/).
 | Fase del plan | Fechas | Fuerza |
 |---|---|---|
 | Transición post-maratón | 3 oct–1 nov 2026 | Como ya la haces, sin cambios — no es momento de tocar nada nuevo. |
-| **Base** | 2 nov 2026–10 ene 2027 | **3 sesiones/semana tal como está arriba** (Lunes A completa, Martes pierna completa, Miércoles B recortada). Es el pico de volumen de fuerza de toda la temporada — el volumen de nadar/bici/correr todavía es moderado, hay margen. Peso: empezar moderado, subir progresivo dentro de la fase. |
+| **Base** | 2 nov 2026–10 ene 2027 | **3 sesiones/semana tal como está arriba** (Lunes A, Martes pierna, Miércoles B — las tres completas). Es el pico de volumen de fuerza de toda la temporada — el volumen de nadar/bici/correr todavía es moderado, hay margen. Peso: empezar moderado, subir progresivo dentro de la fase. |
 | **Construcción** | 11 ene–7 mar 2027 | Bajar a **2 sesiones/semana**: mantener Martes (pierna) entera — es la que más rinde para correr/pedalear —, y fundir Lunes+Miércoles en una sola sesión de mantenimiento de tren superior (elegir uno de los dos días según cómo llegues de cansado esa semana). El volumen de resistencia ya sube de verdad; la fuerza deja de ser prioridad de carga. |
 | **Pico** | 8 mar–4 abr 2027 | **Mínimo, 1 sesión corta/semana** (10-15 min): rotación externa de hombro + 1-2 ejercicios de pierna muy ligeros solo para no perder del todo el patrón motor. Nunca al fallo. Todo el foco va a la resistencia específica y a la ventana de aguas abiertas. |
 | **Taper** | 5 abr–18 abr 2027 | Parar la carga de fuerza. Como mucho, activación muy ligera (sin peso) la primera semana de taper; nada la semana de la carrera. |
 
-## Orden sesión de fuerza + natación (martes y miércoles)
+## Orden sesión de fuerza + natación (martes)
 
 La ciencia de entrenamiento concurrente dice: si fuerza y resistencia van
 el mismo día y hay que elegir orden, **la fuerza primero** maximiza mejor
 la adaptación de fuerza (activa mTOR con glucógeno lleno); lo ideal es
 dejar >3h entre ambas si se puede — [Frontiers — concurrent training
 sequences](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1692399/full).
-En tu caso:
-- **Martes**: ya sigue ese orden (pierna → natación), bien.
-- **Miércoles**: se prioriza natación primero porque ahí lo que manda es
-  la técnica (necesita ir fresco), no maximizar la fuerza — ese día el
-  gimnasio ya es secundario/recortado por diseño. Meta-análisis más
-  recientes (Schumann et al.) muestran que el efecto de interferencia es
-  menor de lo que se pensaba cuando las sesiones ya van separadas en el
-  día, así que este orden no compromete gran cosa — [TrainingPeaks — Risks
-  of Concurrent
-  Training](https://www.trainingpeaks.com/blog/risks-of-concurrent-training/).
-  Dejar el margen que puedas entre nadar y el gimnasio ese día (aunque
-  sean 30-60 min) es mejor que nada, pero no es crítico.
+El martes ya sigue ese orden (pierna → natación), bien — no hace falta
+tocar nada.
 
 Los pesos/cargas concretas los decides tú sesión a sesión (RPE), no se
 inventan aquí.
@@ -115,5 +102,6 @@ inventan aquí.
 El jueves (calidad de carrera/bici + baloncesto el mismo día) se mantiene
 igual — el atleta confirma que ya lo hace así habitualmente y no es un
 problema, a diferencia del gimnasio de pierna (ver
-`atleta/historial-y-limitaciones.md`). El miércoles pasa a incluir
-natación con el gimnasio recortado, como se explica arriba.
+`atleta/historial-y-limitaciones.md`). El miércoles vuelve a ser solo
+gimnasio (versión completa) — la natación extra que se había añadido ahí
+se retira, ver más abajo por qué.

@@ -3,6 +3,14 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Natación: se revierte la 3ª sesión, se prioriza calidad sobre frecuencia
+- El atleta aclara el diagnóstico real: nunca ha hecho series ni estructura en el agua, siempre nadado continuo al ritmo que sale. No necesita más frecuencia, necesita calidad/estructura en las sesiones que ya tiene.
+- Se revierte la sesión extra de natación del miércoles: `rutinas/fuerza.md` vuelve a la rutina completa de ese día (sin recortar), y se elimina la referencia a natación ahí.
+- Investigación: estructura estándar de sesión de natación (calentamiento con técnica → serie principal específica → vuelta a la calma), USMS y 220 Triathlon; y cómo calcular y usar el CSS (Critical Swim Speed) para pasar de RPE a ritmos reales, TrainingPeaks y MyProCoach.
+- Se reescribe la natación de `rutinas/sesiones-triatlon.md` (v3): martes pasa a ser el día aeróbico (series largas, 4x200m con poco descanso) y viernes el día de calidad/velocidad (series cortas, 8-10x50m con más descanso e intensidad) — un objetivo por sesión, no mezclados. Los 4 drills (catch-up, fingertip drag, 6-1-6, respiración bilateral) se integran en el calentamiento de cada sesión en vez de ser una sesión aparte.
+- El test CSS pasa a ser prioritario (antes era "cuando quieras") porque ahora las series ya tienen sentido con ritmo real en vez de RPE.
+- Se actualiza `plan-maestro.md`: natación vuelve a 2x/semana (martes, viernes), reformulado como "calidad, no frecuencia".
+
 ## 2026-09-30 — Check-in de las 6:30 actualizado para dar el entreno con detalle completo
 - El atleta pide que la rutina diaria también detalle el entreno específico del día, no una descripción genérica.
 - Se actualiza el trigger (trig_01Fmm3YvQ1hbSoGpiie7YxJX) para que, en el paso "qué toca hoy", saque la estructura exacta de `rutinas/sesiones-triatlon.md` (con ritmo/potencia real) y, si hay gimnasio, cada ejercicio con series/reps de `rutinas/fuerza.md` más el cue de ejecución de `rutinas/tecnica-ejercicios.md`. El objetivo: que el mensaje de las 6:30 se pueda ejecutar directamente sin tener que abrir los ficheros.

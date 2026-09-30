@@ -4,25 +4,70 @@
 > `atleta/zonas-y-metricas.md`. Natación sigue en esfuerzo percibido (RPE)
 > porque no hay zonas confirmadas — hace falta un test CSS.
 
-## Natación
+## Natación (v3 — calidad, no frecuencia, reescrito 2026-09-30)
 
-### Natación técnica (cubre tu punto más débil)
-- Calentamiento: 200-300m suave.
-- **Bloque de técnica — drills concretos** (esto es lo que hoy no haces nada), 4-6 series de 25-50m con descanso completo entre ellas, RPE 3-4:
-  - **Catch-up**: nada a crol pero de un brazo cada vez — un brazo se queda totalmente extendido delante mientras el otro completa toda la brazada, y solo empiezas la siguiente brazada cuando las dos manos se juntan delante. Mejora el deslizamiento y evita que "atropelles" la brazada.
-  - **Fingertip drag**: en tu crol normal, codo alto en la fase de recobro y arrastra ligeramente las yemas de los dedos por la superficie del agua. Fuerza a sacar el codo antes que la mano.
-  - **6-1-6 (seis patadas y giro)**: de lado (un brazo extendido delante, el otro pegado al cuerpo), da 6 patadas, gira al otro lado, 6 patadas más. Trabaja la rotación de cadera.
-  - **Respiración bilateral**: nada tu crol normal respirando cada 3 brazadas (alternando lado) en vez de siempre al mismo lado. Al principio se hace raro, es normal.
-  - Fuentes: [THEMAGIC5 — 6 Proven Freestyle Drills](https://themagic5.com/blogs/news/6-proven-drills-to-improve-your-freestyle-stroke), [USMS — Drill and Pace Sets for Triathlon](https://www.usms.org/fitness-and-training/articles-and-videos/articles/seven-effective-drill-and-pace-sets-for-triathlon-swim-training-that-wont-bore-you).
-- Bloque principal corto: 4-8x100m a esfuerzo moderado (RPE 5-6), aplicando lo trabajado en el bloque de técnica.
-- Vuelta a la calma: 100-200m suave.
-- Duración total: 30-45 min.
+**Diagnóstico del atleta, confirmado por él**: hasta ahora nada continuo,
+al ritmo que sale, completando la distancia — nunca series ni estructura.
+Eso es lo que cambia aquí, en las mismas 2 sesiones/semana (martes y
+viernes), no añadiendo una tercera. Estructura estándar de entrenamiento
+de natación — calentamiento (10-20% de la sesión, con técnica incluida) →
+serie principal (specificity: un objetivo por sesión, no mezclar
+aeróbico y velocidad) → vuelta a la calma, con ~2 min de descanso entre
+bloques — [U.S. Masters Swimming — Best Swim Workouts for
+Triathletes](https://www.usms.org/fitness-and-training/articles-and-videos/articles/best-swimming-workouts-for-triathletes),
+[220 Triathlon — Swim Interval Training for Beginners](https://www.220triathlon.com/training/training-plans/free-2-week-swim-interval-training-plan-for-beginners).
 
-### Natación continua (tu sesión actual, se mantiene)
-- 1.500-3.000m continuos o en bloques largos (ej. 3x800-1000m), RPE 5-6.
+### Martes — día aeróbico (series largas, con la pierna de gimnasio antes)
+- Calentamiento: 200m suave + drills — 4x25m alternando catch-up y
+  fingertip drag (ver descripción de los drills más abajo), 100m suave.
+- Serie principal (objetivo: resistencia aeróbica, series largas con
+  poco descanso): **4x200m con 20s de descanso**, ritmo sostenido pero
+  controlado (RPE 6-7 — deberías poder mantener el mismo ritmo en las 4).
+  Si 200m se hace muy largo al principio, empieza con 6-8x100m con 15s de
+  descanso y ve subiendo la distancia de la serie cada 2-3 semanas.
+- Vuelta a la calma: 100-150m suave.
+- Duración total: ~35-40 min (similar al tiempo que ya dedicas, pero con estructura).
 
-### Pendiente para desbloquear ritmos reales
-- Test CSS (Critical Swim Speed): 400m a tope + 10 min de descanso completo + 200m a tope. Con los dos tiempos se calcula tu ritmo umbral de natación. Se hace cuando tú quieras, no es urgente, pero en cuanto lo tengamos esta sección gana una columna de ritmo/100m real.
+### Viernes — día de calidad/velocidad (series cortas, más intensas)
+- Calentamiento: 200-300m suave + drills — 4x25m 6-1-6 (seis patadas y
+  giro) + 4x25m respiración bilateral, 100m suave progresando el ritmo.
+- Serie principal (objetivo: velocidad/umbral, series cortas con más
+  descanso): **8-10x50m con 20-25s de descanso**, a ritmo fuerte (RPE 8,
+  el que puedas repetir sin desmoronarte en las últimas series). Si te
+  sobra tiempo o te ves con margen, añade 4x25m a tope al final con
+  descanso completo.
+- Vuelta a la calma: 150-200m suave.
+- Duración total: ~35-40 min.
+
+### Los 4 drills (usarlos rotando en los calentamientos)
+- **Catch-up**: nada a crol pero de un brazo cada vez — un brazo se queda
+  totalmente extendido delante mientras el otro completa toda la brazada,
+  y solo empiezas la siguiente brazada cuando las dos manos se juntan
+  delante. Mejora el deslizamiento.
+- **Fingertip drag**: en tu crol normal, codo alto en la fase de recobro y
+  arrastra ligeramente las yemas de los dedos por la superficie del agua.
+  Fuerza a sacar el codo antes que la mano.
+- **6-1-6 (seis patadas y giro)**: de lado (un brazo extendido delante, el
+  otro pegado al cuerpo), da 6 patadas, gira al otro lado, 6 patadas más.
+  Trabaja la rotación de cadera.
+- **Respiración bilateral**: nada tu crol normal respirando cada 3
+  brazadas (alternando lado) en vez de siempre al mismo lado. Al
+  principio se hace raro, es normal.
+- Fuentes: [THEMAGIC5 — 6 Proven Freestyle Drills](https://themagic5.com/blogs/news/6-proven-drills-to-improve-your-freestyle-stroke), [USMS — Drill and Pace Sets for Triathlon](https://www.usms.org/fitness-and-training/articles-and-videos/articles/seven-effective-drill-and-pace-sets-for-triathlon-swim-training-that-wont-bore-you).
+
+### Test CSS — ahora sí, prioritario
+Con series estructuradas ya tiene mucho más sentido hacer el test cuanto
+antes, para pasar de RPE a ritmos reales por 100m:
+- Calienta bien (400m suave + drills).
+- Nada 400m a tope, apunta el tiempo.
+- Descansa 5-10 min completos.
+- Nada 200m a tope, apunta el tiempo.
+- CSS (ritmo por 100m) = (tiempo 400m − tiempo 200m en segundos) ÷ 2.
+- Con el CSS calculado, las zonas quedan: fácil/recuperación ≈ CSS +8-10s/100m (la mayoría del volumen aquí), aeróbico sostenido ≈ CSS +4-7s/100m (tu serie del martes), umbral = CSS (tu serie del viernes). Repetir el test cada 6-8 semanas.
+- Fuente: [TrainingPeaks — How to Use Critical Swim Speed Training](https://www.trainingpeaks.com/blog/how-to-use-critical-swim-speed-training/), [MyProCoach — CSS Calculator](https://www.myprocoach.net/calculators/critical-swim-speed/).
+
+En cuanto tengas el CSS, esta sección se actualiza con ritmos exactos por
+100m en vez de RPE.
 
 ## Carrera
 

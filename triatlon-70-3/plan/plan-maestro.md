@@ -110,19 +110,19 @@ Con las 13 jornadas ya conocidas, la asignación semana A/B/C del ciclo de
 fijemos las fases del plan (sigue pendiente el resto de datos, ver más
 abajo).
 
-## Semana tipo (cerrada, 2026-09-30)
+## Semana tipo (actualizada 2026-09-30)
 
-Ya no es un boceto — refleja las decisiones tomadas (rutinas de fuerza,
-frecuencia de natación 3x/semana). Nadar antes de trabajar queda
-descartado por el atleta; toda la natación va después de trabajar.
+Refleja las decisiones tomadas (rutinas de fuerza, natación 2x/semana con
+calidad en vez de 3x/semana con más frecuencia). Nadar antes de trabajar
+queda descartado por el atleta; toda la natación va después de trabajar.
 
 | Día | Bloque fijo | Uso confirmado |
 |---|---|---|
 | Lunes | Trabajo 8–17, baloncesto 22–23:30 | Gimnasio Rutina A (tren superior, ~1h15) al salir de trabajar + baloncesto |
-| Martes | Trabajo 8–17 | Gimnasio pierna + natación (ver `rutinas/fuerza.md`), tarde libre después |
-| Miércoles | Trabajo 8–17, baloncesto 22–23:30 | Natación corta + gimnasio Rutina B recortado (~45-50 min) + baloncesto |
+| Martes | Trabajo 8–17 | Gimnasio pierna + natación aeróbica estructurada (ver `rutinas/sesiones-triatlon.md`), tarde libre después |
+| Miércoles | Trabajo 8–17, baloncesto 22–23:30 | Gimnasio Rutina B completa (~1h15) + baloncesto |
 | Jueves | Trabajo 8–17, baloncesto 20–22 | Sesión de calidad carrera/bici antes de baloncesto, según luz |
-| Viernes | Trabajo 8–15 | Natación + sesión secundaria de carrera/bici, tarde con más margen |
+| Viernes | Trabajo 8–15 | Natación de calidad/velocidad estructurada + sesión secundaria de carrera/bici, tarde con más margen |
 | Sábado | Baloncesto: partido posible desde el 10-11 de octubre, día incierto | El día que no tenga partido esa semana | Sesión larga del ciclo de 3 semanas (ver regla abajo) |
 | Domingo | Baloncesto: partido posible (si se mueve del sábado) | El día que no tenga partido esa semana | Sesión larga del ciclo de 3 semanas (ver regla abajo) |
 
@@ -164,18 +164,18 @@ semana (Roadman Cycling).
 - **Enfoque por limitador** (disciplina más floja recibe más frecuencia,
   no necesariamente más volumen de golpe) — según los 14 meses de
   histórico (`atleta/evolucion-coros.md`):
-  1. **Natación — máxima prioridad**: 14 meses sin mejora de ritmo, cero
-     trabajo técnico, es la disciplina que más tiempo cuesta en la carrera
-     (ver estimación de tiempos más abajo). La literatura de nadadores de
-     triatlón (TrainingPeaks / Brad Culp) recomienda frecuencia diaria
-     para romper el estancamiento — no se aplica literal (no cabe en su
-     semana; nadar antes de trabajar no es viable, lo descarta el atleta),
-     pero sí se sube de 1-2x/semana a **3x/semana** (martes, miércoles,
-     viernes). El miércoles es la incorporación nueva: el atleta recorta
-     su gimnasio de ~1h15 a ~45-50 min ese día (ver `rutinas/fuerza.md`)
-     para meter una sesión corta de natación antes de baloncesto —
-     miércoles y no lunes, porque llega menos cargado del fin de semana.
-     Sesiones cortas (20-30 min), centradas en técnica, no en hacer metros.
+  1. **Natación — máxima prioridad, pero por calidad, no por frecuencia
+     (corregido 2026-09-30)**: 14 meses sin mejora de ritmo, cero trabajo
+     técnico ni estructura — el atleta confirma que hasta ahora ha nadado
+     siempre continuo, al ritmo que sale, sin series. Se probó primero
+     subir la frecuencia a 3x/semana (añadiendo el miércoles), pero el
+     atleta lo revierte: no necesita más natación, necesita que las
+     sesiones que ya tiene (martes y viernes) dejen de ser continuas sin
+     estructura y pasen a tener series reales. Se mantienen **2
+     sesiones/semana**, ahora con estructura estándar de entrenamiento de
+     natación (calentamiento con técnica → serie principal → vuelta a la
+     calma) — detalle completo en `rutinas/sesiones-triatlon.md`. El
+     miércoles vuelve a ser solo gimnasio, sin natación añadida.
   2. **Bici — en consolidación**: solo 4 meses de volumen real (ver
      `evolucion-coros.md`). Se mantiene la estructura ya acordada (calidad
      entre semana + rotación de fin de semana) sin añadir más días — el
