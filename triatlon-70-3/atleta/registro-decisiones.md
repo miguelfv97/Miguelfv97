@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Correcciones de material y estacionalidad
+- Rodillo: es del gimnasio, sin conexión con COROS (por eso esas sesiones solo tienen FC/duración, nunca distancia/potencia). El atleta reporta los datos a mano cuando lo usa; más probable en invierno, siempre prioriza exterior. Corregido en `atleta/perfil.md` y `atleta/evolucion-coros.md`.
+- Cinta: era su método inicial para series, ahora las hace en exterior siempre que puede; la cinta queda como alternativa de mal tiempo, no como sesión habitual. Corregido en los mismos ficheros.
+- Aguas abiertas: de octubre a finales de marzo no hay mar abierto disponible, todo pasa a piscina. Deja una ventana corta (~3-4 semanas) antes del 18 de abril de 2027 para practicar en aguas abiertas — aviso añadido a `plan/plan-maestro.md` para tenerlo en cuenta al diseñar la fase de pico/taper.
+
 ## 2026-09-30 — Histórico completo de COROS leído (~14 meses) y corrección del triatlón de Blanca
 - El atleta pide revisar toda la natación (piscina y aguas abiertas) y el histórico completo de todas las disciplinas (~14 meses de cuenta COROS) para tener su evolución completa.
 - Se leen 65 sesiones de piscina + 1 de aguas abiertas, 100+ de carrera y 51 de bici desde julio de 2025. Resumen y lectura en `atleta/evolucion-coros.md` (nuevo fichero).

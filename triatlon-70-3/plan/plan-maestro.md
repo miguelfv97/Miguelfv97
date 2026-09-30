@@ -6,6 +6,16 @@
 - **Carrera**: Ironman 70.3 Valencia, 18 de abril de 2027.
 - **Ventana disponible desde hoy (2026-09-29)**: ~29 semanas.
 
+## Aviso: ventana corta para nadar en aguas abiertas antes de la carrera
+
+Confirmado por el atleta (2026-09-30): de octubre a finales de marzo no
+hay mar abierto disponible, toda la natación es en piscina. Eso deja solo
+~3-4 semanas (finales de marzo–18 de abril de 2027) para practicar en
+aguas abiertas antes de la carrera. Al diseñar la fase de pico/taper, esa
+ventana corta hay que aprovecharla a propósito (sighting, salida en
+grupo, aclimatación al neopreno si usa) — no se puede meter antes aunque
+el plan lo pidiera.
+
 ## Fases (todavía sin fechas exactas — faltan datos, ver "Pendiente" abajo)
 
 | Fase | Semanas | Fechas | Objetivo principal |

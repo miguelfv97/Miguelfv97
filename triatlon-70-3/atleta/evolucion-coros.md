@@ -42,6 +42,13 @@ del río). Esto ya se refleja en `zonas-y-metricas.md` y `atleta/perfil.md`.
   moderado, no series de calidad.
 - **Frecuencia**: aproximadamente 1–2 sesiones/semana durante casi todo el
   periodo, sin un salto de volumen grande en ningún momento.
+- **Estacionalidad de aguas abiertas (confirmado 2026-09-30)**: de octubre
+  a finales de marzo no hay mar abierto disponible — toda la natación es
+  en piscina hasta que vuelva el calor (~abril). Para el 18 de abril de
+  2027 esto deja una ventana corta (~3-4 semanas, finales de marzo/abril)
+  para practicar específicamente en aguas abiertas antes de la carrera —
+  hay que preverlo al diseñar la fase de pico/taper, no asumir que se
+  puede meter en cualquier momento del invierno.
 
 ## Carrera
 
@@ -55,10 +62,11 @@ del río). Esto ya se refleja en `zonas-y-metricas.md` y `atleta/perfil.md`.
 - **Sesiones cortas/calidad**: ~5 km a ritmos más vivos (4:20–5:00/km),
   repartidas por todo el periodo.
 - **Cinta (treadmill) en "Cinta"**: uso habitual y regular, sesiones de
-  8–11 km a 5:00–5:40/km — dato nuevo que no habías mencionado en tu
-  horario: parece tu alternativa cuando no puedes salir a correr fuera
-  (mal tiempo, viajes). Vale la pena tenerlo en cuenta como respaldo en
-  el plan.
+  8–11 km a 5:00–5:40/km. Confirmado por el atleta (2026-09-30): al
+  principio la usaba para las series de calidad; ahora las hace en
+  exterior siempre que puede, y la cinta queda como alternativa para mal
+  tiempo. Tenerlo en cuenta como respaldo del plan, no como sesión
+  habitual.
 - **Carreras durante viajes**: Shanghái, Chengdú, Zhangjiajie, Xiangxi
   (agosto 2026); Bilbao, Valencia, La Coruña, Santa Comba (otros meses) —
   mantienes el hábito de correr incluso de viaje.
@@ -69,7 +77,13 @@ del río). Esto ya se refleja en `zonas-y-metricas.md` y `atleta/perfil.md`.
 
 - **Julio 2025 – mayo 2026**: casi exclusivamente ciclismo indoor corto
   (10–60 min, FC 97–148), claramente mantenimiento/base, no volumen real
-  de entrenamiento específico de bici.
+  de entrenamiento específico de bici. Confirmado por el atleta
+  (2026-09-30): es un rodillo/bici estática **del gimnasio, sin conexión
+  con COROS** — por eso estas sesiones solo tienen duración/FC/calorías,
+  nunca distancia ni potencia (el reloj capta lo que puede, no hay datos
+  del rodillo en sí). El atleta reporta estos datos a mano cuando los usa;
+  es previsible que se use más en invierno por el mal tiempo, aunque
+  siempre prioriza salir a rodar al exterior.
 - **Desde junio de 2026**: cambio claro a bici exterior de verdad —
   salidas de 30 a 100+ km, velocidades 20–26 km/h.
 - **Tu máximo de 100 km confirmado**: 29/08/2026, 101.00 km en 4:20:39
