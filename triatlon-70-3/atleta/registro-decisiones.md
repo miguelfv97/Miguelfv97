@@ -3,6 +3,13 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Técnica de ejercicios y sesiones con ritmos/potencias reales
+- El atleta pide el detalle específico que faltaba: qué ejercicios, cómo hacerlos, series/reps, y sesiones concretas de triatlón, investigando con expertos.
+- Investigación: técnica de sentadilla/peso muerto rumano/zancada búlgara/remo/dominadas/press (PowerliftingTechnique, TrainHeroic, Coachway, BarBend), ejecución de Y-T-W/rotación externa/dynamic hug para cuidado de hombro (NeckHump, ACE Fitness, E3 Rehab, HSS, Physitrack), sesiones de bici de 70.3 con potencia (Best Bike Split, Roadman Cycling), sesiones de carrera con ritmo (MyProCoach), drills de natación (THEMAGIC5, USMS).
+- Se crea `rutinas/tecnica-ejercicios.md`: postura, ejecución y error más común de cada ejercicio de `rutinas/fuerza.md`, con fuentes.
+- Se reescribe `rutinas/sesiones-triatlon.md` (v2): las sesiones de carrera y bici ya llevan ritmo/potencia real (usando las zonas confirmadas), se añaden sesiones nuevas (umbral específico de 70.3 en carrera y bici, fartlek progresivo, ritmo de carrera en bici al 70-78% FTP), y los drills de natación (catch-up, fingertip drag, 6-1-6, respiración bilateral) quedan explicados paso a paso en vez de solo nombrados.
+- Natación sigue sin ritmo real — pendiente de un test CSS cuando el atleta quiera hacerlo.
+
 ## 2026-09-30 — Página de fases y check-in diario a las 6:30
 - Se publica una página (Artifact) con las 5 fases del plan, semana tipo, ciclo de fin de semana y zonas de referencia: https://claude.ai/artifact/MWTK7WAevaquj7PuXn4WfL — generada a partir de `plan-maestro.md`, `rutinas/fuerza.md` y `rutinas/sesiones-triatlon.md`. Hay que regenerarla si esos ficheros cambian de forma relevante.
 - Se crea una Routine diaria a las 6:30 hora de España (trig_01Fmm3YvQ1hbSoGpiie7YxJX, cron `30 4 * * *` UTC) que revisa lo entrenado el día anterior (vía COROS), da el entreno detallado del día, recomendaciones si hace falta, pregunta por sensaciones solo si hay una señal real, y un resumen de avance una vez al mes (no a diario). Vinculada a esta misma sesión para mantener contexto e historial.
