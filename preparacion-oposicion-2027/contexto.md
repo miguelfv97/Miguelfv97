@@ -467,6 +467,15 @@ menores, evaluación con familias.
 - Formato de la programación: Arial 11, interlineado sencillo, A4.
 - Prioridad a las **fuentes oficiales** (BOE, BORM, portales de la Consejería) y
   a citarlas con su denominación exacta, número de boletín y fecha.
+- **Nivel exigido para el diseño de las UT (punto 4.2 en adelante, aún no
+  iniciado — septiembre 2026):** Pepe aspira a UT bastante más completas,
+  de mayor calidad teórica y más actuales/novedosas que su material antiguo
+  (ver §14, apartado de materiales recibidos). Ese material sirve como base
+  y banco de ideas, no como contenido a trasladar tal cual — hay que
+  actualizarlo y mejorarlo, no solo adaptarlo al formato de oposición.
+  Ahora mismo el trabajo sigue centrado en estructura y evaluación
+  criterial (reparto RA-contenidos-UT, ponderaciones); el diseño de UT en
+  detalle se aborda más adelante.
 
 ---
 
@@ -710,27 +719,32 @@ Aún no descargada aquí — la política de red de este entorno bloquea
   independiente en el IVAC-EEI: está integrada transversalmente en cada UD.
 
 **Material propio antiguo de Pepe (Habilidades Sociales, Integración
-Social, impartido en la privada hace 2-3 cursos).** Existe y ya se usó para
-construir varias UT de Habilidades Sociopersonales, pero **los archivos
-originales no están guardados en ningún repositorio** — vivían en el
-entorno de aquella sesión de trabajo, ya no accesible
-(`programacion-docente-habilidades-sociopersonales/contexto.md` §7.2 y
-§7.10 tienen la descripción narrativa, no el material). Si Pepe aún los
-conserva localmente, conviene volver a subirlos:
-- Tema "Habilidades Sociales" (curso 24-25) → encaja con las UT1-UT2 de
-  este reparto (comunicación / inteligencia emocional).
-- Tema "UT3: Resolución de conflictos y toma de decisiones" → encaja con
-  las UT8-UT9 (conflicto, negociación y mediación).
-- Tema "Dinamización del trabajo en grupo" → encaja con las UT3-UT6 (grupo,
-  comunicación grupal, dinámicas, equipo).
-- Material de "Conducción de reuniones" → descartado en Habilidades
-  Sociopersonales por falta de RA equivalente, pero **aquí sí es
-  aprovechable** para la UT7 (RA3 existe en este módulo).
-- Escala de Habilidades Sociales de Goldstein, Sprafkin, Gershaw y Klein
-  (1980) (50 ítems / 6 categorías) → instrumento real ya usado en la
-  autoevaluación de Habilidades Sociopersonales; aplicable también a las
-  UT10-UT12 (evaluación y autoevaluación de la competencia social) de este
-  módulo.
+Social, CESUR, curso 24-25) — RECIBIDO Y GUARDADO** en
+`preparacion-oposicion-2027/materiales/`. Son los apuntes teóricos
+originales (sin actividades) que ya se habían usado parcialmente para
+construir Habilidades Sociopersonales; ahora están recuperados en su
+totalidad para este módulo:
+
+| Archivo guardado | Contenido | UT nueva a la que corresponde |
+|---|---|---|
+| `UT1_antigua_Comunicacion_y_relacion_social.pdf` (36 pág.) | Proceso de comunicación (verbal/no verbal, estilos, escucha activa), habilidades sociales y fichero de 9 técnicas asertivas, mecanismos de defensa, inteligencia emocional | UT1-UT2 (RA1) |
+| `UT2_antigua_Dinamizacion_del_trabajo_en_grupo.pdf` (20 pág.) | El grupo (tipos, fases), estructura grupal (estatus, roles, liderazgo Lewin/Lippit/White, estructuras de comunicación de Leavitt), trabajo en equipo (Johnson & Johnson), dinámicas de grupo (brainstorming, Phillips 6/6, panel, mesa redonda, role playing, técnicas por categorías) | UT3-UT6 (RA2) |
+| `UT3_antigua_Resolucion_de_conflictos_y_toma_de_decisiones.pdf` (15 pág.) | Qué es un conflicto y tipos, habilidades de resolución, fases de resolución de problemas (7 pasos), mediación y negociación (tipos, estrategias de Pruitt), toma de decisiones y técnica de los Seis Sombreros de De Bono | UT8-UT9 (RA4) |
+| `UT4_antigua_Conduccion_de_reuniones.pdf` (16 pág.) | Concepto y tipos de reunión, fases (antes/durante/después), "reunionitis", técnicas de moderación (chat shows, espacio abierto, peceras, world café...), tipología de participantes conflictivos, hablar en público | UT7 (RA3) — descartado en su día en Habilidades Sociopersonales por falta de RA equivalente, aquí sí aplica directamente |
+| `UT5_antigua_Evaluacion_de_la_competencia_social.pdf` (20 pág.) | Componentes de las HHSS (conductuales, emocionales, cognitivos, personalidad), déficit en HHSS (causas y manifestaciones: timidez, bloqueo, ansiedad social...), evaluación de la competencia social: entrevista, observación, **tests validados reales** (Inventario de Asertividad de Gambrill y Richey, Inventario de Rathus —RAS—, Escala Multidimensional de Expresión Social —EMES— de V. Caballo, ISRA de Tobal y Cano, Escala de Habilidades Sociales de Gismero) y la Ventana de Johari | UT10-UT12 (RA5) — más rico de lo esperado: se pensaba que este RA no tenía material propio (a diferencia de Habilidades Sociopersonales, donde solo se contó con la escala de Goldstein) |
+
+Con esto, **los 5 RA del 0017 tienen ya material propio de partida**, algo
+que no ocurrió en Habilidades Sociopersonales (allí faltaba material para
+RA3/autoevaluación y para RA4/RA6 al no tener equivalente en Integración
+Social). Sigue pendiente adaptarlo: cambiar ejemplos/contexto de "personas
+usuarias de servicios sociales" en general a lo que pida el RD del 0017,
+revisar cobertura de cada criterio de evaluación letra a letra, y decidir
+qué complementar con IVAC-EEI o contenido nuevo.
+
+También sigue disponible la **Escala de Habilidades Sociales de Goldstein,
+Sprafkin, Gershaw y Klein (1980)** (50 ítems / 6 categorías), usada en la
+autoevaluación de Habilidades Sociopersonales — un instrumento más a
+valorar junto a los ya recibidos en la UT5 antigua para las UT10-UT12.
 
 **Candidatos a programación reciente/innovadora** (búsqueda de septiembre
 2026, pendiente de leer por el mismo bloqueo de red): IES Antonio Serna
@@ -749,5 +763,7 @@ sociales NEI2" del IES Abyla (Ceuta).
 - Descargar la programación IVAC-EEI y revisar los candidatos de
   programación reciente/innovadora en cuanto se resuelva el acceso de red
   (o Pepe suba los PDF directamente).
-- Pedir a Pepe que vuelva a subir su material antiguo de Habilidades
-  Sociales si todavía lo conserva.
+- Material antiguo de Pepe: **recibido y guardado** (ver tabla arriba, 5
+  archivos en `materiales/`). Pendiente: adaptarlo criterio a criterio al
+  0017 y decidir qué se incorpora tal cual, qué se adapta y qué se
+  descarta.
