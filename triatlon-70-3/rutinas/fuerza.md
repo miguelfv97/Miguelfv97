@@ -34,20 +34,24 @@ Después, natación como ya haces.
 | Dominadas o jalón al pecho | 2-3x6-10 | |
 | Y-T-W con banda o mancuernas ligeras | 2x10-12 por letra | Cuidado de hombro, integrado aquí en vez de un día aparte |
 
-## Miércoles (baloncesto) — Tren superior complementario, sin pierna
+## Miércoles (baloncesto) — Tren superior complementario recortado + natación
 
-Mismo enfoque que tenías (brazo/hombro), con volumen algo más moderado y
-más trabajo de rotación externa para compensar el desequilibrio que
-genera tanto empuje/natación/baloncesto (los rotadores internos se hacen
-mucho más fuertes que los externos si no se trabaja aparte).
+**Cambio confirmado (2026-09-30)**: el atleta añade aquí una sesión corta
+de natación (ver `sesiones-triatlon.md`, natación técnica) antes de
+baloncesto. Para que quepa sin alargar el día, esta rutina se recorta de
+~1h15 a ~45-50 min — menos ejercicios, no menos calidad en los que quedan.
+Orden recomendado: **natación primero** (llegas fresco para la técnica),
+gimnasio recortado después, baloncesto a las 22:00.
 
 | Ejercicio | Series x reps | Nota |
 |---|---|---|
-| Curl de bíceps | 2-3x10-12 | |
-| Press de tríceps | 2-3x10-12 | |
-| Rotación externa a 90° con banda | 2x12-15 | Cuidado de hombro |
-| Dynamic hug o low row con banda | 2x12-15 | Cuidado de hombro / equilibrio de tracción |
-| Core (opcional, ligero) | 2x | |
+| Curl de bíceps | 2x10-12 | Recortado de 2-3 a 2 series |
+| Press de tríceps | 2x10-12 | Recortado de 2-3 a 2 series |
+| Rotación externa a 90° con banda | 2x12-15 | Cuidado de hombro, se mantiene igual — es rápido y es la parte que más nos interesa mantener |
+| Dynamic hug o low row con banda | 2x12-15 | Cuidado de hombro, se mantiene igual |
+
+Se quita el core opcional de aquí (ya lo tienes en la rutina del martes) —
+es lo primero que sobra para ganar tiempo, no la rotación externa.
 
 ## Por qué este reparto
 
@@ -71,13 +75,10 @@ mucho más fuertes que los externos si no se trabaja aparte).
 Los pesos/cargas concretas los decides tú sesión a sesión (RPE), no se
 inventan aquí.
 
-## Pendiente de confirmar
-
-- ¿Esta versión sí te cuadra? Cambios respecto a lo que ya hacías: menos
-  volumen puro de empuje/hombro el miércoles, más rotación externa
-  integrada, pierna del martes más orientada a unilateral/estabilidad
-  además de fuerza básica.
+## Cerrado (2026-09-30)
 
 El jueves (calidad de carrera/bici + baloncesto el mismo día) se mantiene
 igual — el atleta confirma que ya lo hace así habitualmente y no es un
-problema, a diferencia del gimnasio de pierna (ver `atleta/historial-y-limitaciones.md`).
+problema, a diferencia del gimnasio de pierna (ver
+`atleta/historial-y-limitaciones.md`). El miércoles pasa a incluir
+natación con el gimnasio recortado, como se explica arriba.

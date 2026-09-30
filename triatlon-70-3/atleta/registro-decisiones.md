@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Corrección: nadar antes de trabajar no es viable
+- El atleta descarta la propuesta de natación antes de trabajar (lunes/miércoles 7-8h) — no es viable para él.
+- Se pregunta directamente por huecos reales. Respuesta: puede recortar el gimnasio (normalmente 1h15) y meter una sesión rápida de natación un día de baloncesto, prefiriendo miércoles (llega menos cargado que el lunes).
+- Se ajusta la frecuencia de natación de 4x a **3x/semana** (martes, miércoles, viernes). Se reescribe la rutina del miércoles en `rutinas/fuerza.md`: natación primero, gimnasio Rutina B recortado a ~45-50 min después (se quita volumen de bíceps/tríceps y el core opcional, se mantiene la rotación externa de hombro), baloncesto a las 22:00.
+- Se actualiza la "semana tipo" de `plan-maestro.md`, que tenía referencias antiguas a nadar por la mañana, para que sea coherente con esto.
+
 ## 2026-09-30 — Plan por fases cerrado, recuperación post-maratón y checkpoint sub-6:30
 - El atleta pide investigar con fuentes externas y fijar el plan por fases completo, con el objetivo del Ironman 70.3 Valencia y el objetivo secundario de bajar de 6:30h.
 - Investigación: recuperación de maratón (McMillan Running, Brooks Running, Strength Running), estructura de fases de un 70.3 (búsqueda general de planes 20 semanas base/construcción/pico/taper), enfoque de limitador/disciplina más floja y regla 80/20 (TrainingPeaks).

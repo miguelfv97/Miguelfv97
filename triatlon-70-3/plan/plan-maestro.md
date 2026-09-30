@@ -110,22 +110,19 @@ Con las 13 jornadas ya conocidas, la asignación semana A/B/C del ciclo de
 fijemos las fases del plan (sigue pendiente el resto de datos, ver más
 abajo).
 
-## Borrador de semana tipo (propuesta, NO confirmada todavía)
+## Semana tipo (cerrada, 2026-09-30)
 
-Basado en `atleta/disponibilidad-semanal.md`. Es solo un boceto de qué
-franjas podrían usarse para cada disciplina respetando los bloques fijos —
-no lleva ritmos ni cargas concretas porque las zonas (`zonas-y-metricas.md`)
-todavía no están confirmadas. No crear nada en COROS a partir de esto sin
-pasar antes por una propuesta semanal formal con fechas y aprobación
-explícita.
+Ya no es un boceto — refleja las decisiones tomadas (rutinas de fuerza,
+frecuencia de natación 3x/semana). Nadar antes de trabajar queda
+descartado por el atleta; toda la natación va después de trabajar.
 
-| Día | Bloque fijo | Hueco disponible | Uso propuesto (a validar) |
-|---|---|---|---|
-| Lunes | Trabajo 8–17, baloncesto 22–23:30 | 7–8h antes de trabajar; 17–21h | Fuerza (mantener, revisar volumen) + baloncesto |
-| Martes | Trabajo 8–17 | 7–8h antes de trabajar; 17h en adelante | Natación técnica por la mañana (piscina abre a las 7h) + sesión de bici o fuerza por la tarde |
-| Miércoles | Trabajo 8–17, baloncesto 22–23:30 | 7–8h antes; 17–21h | Igual que el lunes: fuerza + baloncesto |
-| Jueves | Trabajo 8–17, baloncesto 20–22 | 7–8h antes; 17–19h | Sesión de calidad corta (carrera o bici) antes de baloncesto, según luz |
-| Viernes | Trabajo 8–15 | Tarde libre completa | Natación (más margen que ahora) + sesión secundaria de carrera/bici |
+| Día | Bloque fijo | Uso confirmado |
+|---|---|---|
+| Lunes | Trabajo 8–17, baloncesto 22–23:30 | Gimnasio Rutina A (tren superior, ~1h15) al salir de trabajar + baloncesto |
+| Martes | Trabajo 8–17 | Gimnasio pierna + natación (ver `rutinas/fuerza.md`), tarde libre después |
+| Miércoles | Trabajo 8–17, baloncesto 22–23:30 | Natación corta + gimnasio Rutina B recortado (~45-50 min) + baloncesto |
+| Jueves | Trabajo 8–17, baloncesto 20–22 | Sesión de calidad carrera/bici antes de baloncesto, según luz |
+| Viernes | Trabajo 8–15 | Natación + sesión secundaria de carrera/bici, tarde con más margen |
 | Sábado | Baloncesto: partido posible desde el 10-11 de octubre, día incierto | El día que no tenga partido esa semana | Sesión larga del ciclo de 3 semanas (ver regla abajo) |
 | Domingo | Baloncesto: partido posible (si se mueve del sábado) | El día que no tenga partido esa semana | Sesión larga del ciclo de 3 semanas (ver regla abajo) |
 
@@ -172,12 +169,13 @@ semana (Roadman Cycling).
      (ver estimación de tiempos más abajo). La literatura de nadadores de
      triatlón (TrainingPeaks / Brad Culp) recomienda frecuencia diaria
      para romper el estancamiento — no se aplica literal (no cabe en su
-     semana), pero sí se sube de 1-2x/semana a **4x/semana** usando huecos
-     ya identificados y sin quitarle tiempo a nada más: martes (ya la
-     tiene, con pierna de gimnasio), y **lunes y miércoles por la mañana**
-     (7:00-8:00, antes de currar, antes del gimnasio de tren superior de
-     esos días) + viernes (ya contemplado, con más margen). Sesiones
-     cortas (20-30 min), centradas en técnica, no en hacer metros.
+     semana; nadar antes de trabajar no es viable, lo descarta el atleta),
+     pero sí se sube de 1-2x/semana a **3x/semana** (martes, miércoles,
+     viernes). El miércoles es la incorporación nueva: el atleta recorta
+     su gimnasio de ~1h15 a ~45-50 min ese día (ver `rutinas/fuerza.md`)
+     para meter una sesión corta de natación antes de baloncesto —
+     miércoles y no lunes, porque llega menos cargado del fin de semana.
+     Sesiones cortas (20-30 min), centradas en técnica, no en hacer metros.
   2. **Bici — en consolidación**: solo 4 meses de volumen real (ver
      `evolucion-coros.md`). Se mantiene la estructura ya acordada (calidad
      entre semana + rotación de fin de semana) sin añadir más días — el
