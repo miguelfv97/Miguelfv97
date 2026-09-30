@@ -791,8 +791,24 @@ criterios de evaluación" (RA2 tiene 10 CE, tantos como RA1 y RA4, pero
 quiere menos peso que RA5, que solo tiene 9) — si el tribunal pregunta,
 la justificación es la competencial/curricular, no el recuento de CE.
 
-**Punto 7 — distribución de los CE dentro de cada RA sobre su %** — aún no
-iniciado.
+**Punto 7 — distribución de los CE de cada RA sobre el 100% — CERRADO**
+(30/09/2026), modalidad **Opción A** (cada CE se evalúa una sola vez, en
+una única UT — sin repetirlo entre varias, a diferencia de la Opción B del
+documento de la preparadora). Tabla completa en
+`materiales/Modulo_0017_Distribucion_CE_OpcionA.docx`, en el orden de
+columnas pedido por Pepe: **RA (%) → Contenidos → UT (%) → Criterios de
+evaluación**.
+
+- **UT (%) respecto a su RA**: proporcional al nº de criterios que tiene
+  cada UT dentro del RA, redondeado a múltiplos de 5. En RA1, RA2 y RA4 la
+  proporción ya caía exacta (p. ej. RA1: UT1 60%/UT2 40%; RA4: UT8
+  50%/UT9 50%). En RA5 la proporción real era 22,2/33,3/44,4% (2, 3 y 4
+  criterios de 9); se redondeó a **20/35/45%**, la combinación de
+  múltiplos de 5 más cercana que sigue sumando 100%.
+- **% de cada criterio**: igual dentro de su RA en la medida de lo
+  posible. RA1, RA2 y RA4 (10 CE cada uno) → **10% por criterio**. RA3 y
+  RA5 (9 CE cada uno, no dividen 100 de forma exacta) → **11,1% por
+  criterio** para todos por igual, en vez de forzar una mezcla de 11/12%.
 
 ### Pendiente
 
@@ -801,7 +817,9 @@ iniciado.
   el mismo módulo transversal — ahora mismo es una cuestión menor porque ya se
   tiene el texto oficial vigente para el candidato que importa.
 - Sigue pendiente la decisión definitiva de módulo (§3).
-- Punto 7 (reparto de los CE dentro de cada RA sobre su ponderación) — ver
+- Punto 8 en adelante del documento de la preparadora (si los hay más allá
+  del punto 7) — por confirmar con Pepe / siguiente sesión con la
+  preparadora.
   arriba, siguiente paso natural.
 - Descargar la programación IVAC-EEI y revisar los candidatos de
   programación reciente/innovadora en cuanto se resuelva el acceso de red
