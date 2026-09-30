@@ -3,6 +3,10 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Check-in de las 6:30 actualizado para dar el entreno con detalle completo
+- El atleta pide que la rutina diaria también detalle el entreno específico del día, no una descripción genérica.
+- Se actualiza el trigger (trig_01Fmm3YvQ1hbSoGpiie7YxJX) para que, en el paso "qué toca hoy", saque la estructura exacta de `rutinas/sesiones-triatlon.md` (con ritmo/potencia real) y, si hay gimnasio, cada ejercicio con series/reps de `rutinas/fuerza.md` más el cue de ejecución de `rutinas/tecnica-ejercicios.md`. El objetivo: que el mensaje de las 6:30 se pueda ejecutar directamente sin tener que abrir los ficheros.
+
 ## 2026-09-30 — Técnica de ejercicios y sesiones con ritmos/potencias reales
 - El atleta pide el detalle específico que faltaba: qué ejercicios, cómo hacerlos, series/reps, y sesiones concretas de triatlón, investigando con expertos.
 - Investigación: técnica de sentadilla/peso muerto rumano/zancada búlgara/remo/dominadas/press (PowerliftingTechnique, TrainHeroic, Coachway, BarBend), ejecución de Y-T-W/rotación externa/dynamic hug para cuidado de hombro (NeckHump, ACE Fitness, E3 Rehab, HSS, Physitrack), sesiones de bici de 70.3 con potencia (Best Bike Split, Roadman Cycling), sesiones de carrera con ritmo (MyProCoach), drills de natación (THEMAGIC5, USMS).
