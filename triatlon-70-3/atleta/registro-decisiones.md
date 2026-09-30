@@ -3,6 +3,14 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-09-30 — Conector de COROS activo: zonas confirmadas, datos reales leídos
+- El atleta conecta COROS en https://claude.ai/customize/connectors (todos los permisos, OAuth). Se verifica con una llamada de solo lectura (`queryUserInfo`): perfil correcto (177cm/73kg/29 años), conector activo y autenticado.
+- **Ritmo umbral de carrera confirmado**: `queryFitnessAssessmentOverview` de COROS devuelve 4:32/km, idéntico al de las capturas de pantalla — ya no es un valor provisional, es la evaluación en vivo de COROS (VO2max 58, Running Level 84).
+- Se leen los splits reales de los dos triatlones sprint (Murcia 18/07: 1:13:04; Cullera 19/09: 1:28:27) — natación, bici y carrera desglosados, con FC. Lectura de mejora: bici más rápida (26.3→29.7 km/h) y menos FC máxima en carrera pese a ritmo similar entre julio y septiembre.
+- Se leen FC en reposo, HRV de sueño, recuperación y carga de entreno de los últimos 7-14 días: todo normal, sin señales de alarma de cara al maratón del sábado 3 de octubre. Se añade un snapshot en `plan/revisiones-semanales.md`.
+- **Importante**: el conector expone también herramientas de escritura (crear/editar/programar entrenos y planes completos) — más de lo que la app mostraba como "próximamente". No se ha usado ninguna. La escritura en COROS sigue siendo manual, solo cambiaría con aprobación explícita del atleta.
+- Se actualizan `atleta/zonas-y-metricas.md`, `atleta/perfil.md`, `triatlon-70-3/CLAUDE.md` y `plan/revisiones-semanales.md` con los datos confirmados.
+
 ## 2026-09-29 — Cómo autorizar el MCP de COROS: vía conectores de claude.ai, no solo `.mcp.json`
 - Se confirma la vía oficial para que una sesión de Claude Code en la nube (no interactiva) tenga el MCP de COROS ya autenticado: conectarlo en https://claude.ai/customize/connectors (a nivel de cuenta), y después abrir una sesión nueva — los conectores se leen al arrancar la sesión, no en caliente. Esto es más robusto que depender solo de `.mcp.json`, que sirvió para sortear el bug de endpoint regional pero no resuelve el paso de autorización interactiva por sí solo.
 - Pendiente de que el atleta lo conecte ahí. En cuanto lo haga, se abre una sesión nueva para retomar el cálculo de zonas reales a partir de los dos triatlones sprint y entrenos recientes.
