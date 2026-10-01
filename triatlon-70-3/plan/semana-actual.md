@@ -5,6 +5,20 @@
 > Ninguna se considera "programada" hasta que el atleta confirma que la
 > creó él mismo (ver `triatlon-70-3/CLAUDE.md`).
 
+## Jueves 1 y viernes 2 de octubre — últimos 2 días antes del maratón
+
+Hueco que no estaba cubierto todavía (esta tabla empezaba en el día del
+maratón). Con el maratón el sábado, estos dos días son taper puro: nada de
+series ni rodaje fuerte de pierna, aunque el jueves normal sí combina
+calidad de carrera/bici con baloncesto (ver `atleta/historial-y-limitaciones.md`)
+— esa combinación se salta solo estos dos días, se retoma la semana que viene.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Jue 1 oct | Natación — test CSS (como decidiste) | Pasar de RPE a ritmo real por 100m | 400m suave + 400m a tope + 5-10min descanso + 200m a tope + 200m suave (protocolo ya explicado) | ☐ (lo montas tú en el reloj) |
+| Jue 1 oct | Baloncesto (entreno, como siempre) | — | 20:00–22:00, sin cambios — es entreno, no partido, carga baja | — |
+| Vie 2 oct | Descanso o muy suave | Piernas frescas para el sábado | Nada de intensidad; si quieres moverte, 15-20 min caminando o movilidad ligera, nada más | — |
+
 ## Semana del 3 al 11 de octubre de 2026 — recuperación post-maratón
 
 Maratón de Mula–Caravaca el sábado 3 de octubre. Plan de recuperación
