@@ -55,14 +55,34 @@ selectivos de ingreso al Cuerpo de Profesores de Enseñanza Secundaria y otros
 
 ## 3. Módulo profesional elegido
 
-**Intervención con familias y atención a menores en riesgo social**
-- Código **0018**
-- CFGS **Educación Infantil**, **2.º curso**
+> **DECISIÓN CERRADA el 02/10/2026.** El módulo definitivo de la
+> programación es el **0017 — Habilidades sociales** (CFGS Técnico
+> Superior en Integración Social). Ficha completa en **§14**. Todo lo que
+> sigue en esta sección 3 y en las secciones 4-11 (marco normativo,
+> textos cerrados, RA del 0018, etc.) es **material histórico de la fase
+> exploratoria**, cuando el módulo de trabajo era el 0018 — se conserva
+> como registro, pero **no es la base de la entrega**. El trabajo activo
+> está a partir de §12.
+
+**Módulo definitivo: 0017 — Habilidades sociales**
+- Código **0017**
+- CFGS **Técnico Superior en Integración Social**, Orden de 21/09/2026
+  (BORM núm. 222, Anexo LXX): **155 horas** (5 h/semana)
 - Familia profesional: Servicios Socioculturales y a la Comunidad
 - Atribuido a la especialidad de Intervención Sociocomunitaria
+- Ficha oficial completa (RA, criterios, contenidos, objetivos generales
+  del ciclo): **§14**. Reparto en 12 UT, criterios y ponderación de RA:
+  también en §14.
 
-### Decisión aún abierta
-Queda pendiente la elección definitiva frente a otros módulos candidatos:
+**Módulo descartado: 0018 — Intervención con familias y atención a
+menores en riesgo social** (CFGS Educación Infantil, 2.º curso). Se
+trabajó primero por conocerlo de haberlo impartido, pero se descartó a
+favor del 0017 por el material reutilizable de Habilidades
+Sociopersonales (ver §12). El resto de esta sección 3 y las secciones
+4-11 documentan ese trabajo exploratorio sobre el 0018 — histórico.
+
+### Decisión histórica (cómo se llegó aquí)
+Quedó pendiente durante un tiempo la elección definitiva frente a otros módulos candidatos:
 - **Metodología de la intervención social** (1.º del CFGS de Integración
   Social, también atribuido a Intervención Sociocomunitaria).
 - **Habilidades sociales** (CFGS Técnico Superior en Integración Social),
