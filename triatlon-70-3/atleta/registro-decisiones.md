@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-02 — Check-in 6:30: el test CSS no se hizo, se pospone hasta después del maratón
+- Ayer (1 oct) no hay ningún registro de natación en COROS — en su lugar, una carrera de 6.02 km (5:03/km, FC 159) y una sesión de cardio GPS de ~1h (FC 144, probablemente el entreno de baloncesto). Se actualiza `plan/semana-actual.md` para reflejarlo sin dramatizar.
+- Se decide (criterio propio, no pedido explícitamente) no forzar el test CSS hoy tampoco, víspera del maratón — un esfuerzo a tope de natación no encaja con dejar las piernas/el cuerpo frescos para mañana. Se pospone a después de la semana de recuperación post-maratón, sin fecha exacta todavía (se concreta cuando encaje).
+- Métricas del día: recuperación 90% (recuperación completa estimada en 18h, es decir, lista para mañana), ratio de carga 0.90, HRV 106ms (normal), FC reposo 45bpm — nada que desaconseje el maratón de mañana, sin preguntar por sensaciones (no hay señal de alarma, solo un día con más carga de la prevista pero dentro de rango normal).
+
 ## 2026-10-01 — Check-in 6:30: hueco pre-maratón cubierto y avance mensual de septiembre
 - El check-in diario detecta que `plan/semana-actual.md` no cubría el 1 y 2 de octubre (empezaba el día del maratón). Se añade una sección con esos dos días como taper puro: hoy test CSS de natación + baloncesto (entreno normal, no partido) sin calidad de carrera/bici; mañana descanso o muy suave. La combinación habitual de calidad+baloncesto del jueves (ver `atleta/historial-y-limitaciones.md`) se salta solo estos dos días por estar a 48h del maratón, se retoma la semana que viene.
 - Es día 1 de mes: se añade a `plan/revisiones-semanales.md` un resumen de septiembre vs agosto (vía COROS) — bici sube en volumen y velocidad (223→301 km, 21.8-23.8→23.8-25.9 km/h), carrera estable (~99 km, patrón ya consolidado), natación vuelve a frecuencia normal (7 sesiones, 11.6 km) pero sin mejora de ritmo (2:32-2:45/100m plano) — confirma que el límite es calidad, no frecuencia, coherente con la reescritura de natación del día anterior.
