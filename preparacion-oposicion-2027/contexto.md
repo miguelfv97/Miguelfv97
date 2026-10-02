@@ -837,10 +837,6 @@ evaluación**.
   el mismo módulo transversal — ahora mismo es una cuestión menor porque ya se
   tiene el texto oficial vigente para el candidato que importa.
 - Sigue pendiente la decisión definitiva de módulo (§3).
-- Punto 8 en adelante del documento de la preparadora (si los hay más allá
-  del punto 7) — por confirmar con Pepe / siguiente sesión con la
-  preparadora.
-  arriba, siguiente paso natural.
 - Descargar la programación IVAC-EEI y revisar los candidatos de
   programación reciente/innovadora en cuanto se resuelva el acceso de red
   (o Pepe suba los PDF directamente).
@@ -848,3 +844,87 @@ evaluación**.
   archivos en `materiales/`). Pendiente: adaptarlo criterio a criterio al
   0017 y decidir qué se incorpora tal cual, qué se adapta y qué se
   descarta.
+
+---
+
+## 15. Segunda entrega a la preparadora — en curso (desde 02/10/2026)
+
+Puntos 1-7 de la evaluación criterial completados (ver §14). Esta segunda
+entrega aborda la primera parte de la programación didáctica propiamente
+dicha, sobre la base de un documento-guía ("TAREA_Parte_1._PD_Rita_Ros.pdf")
+que la preparadora entregó con instrucciones, ítems obligatorios y
+ejemplos (de otros módulos, no del nuestro) para cada apartado.
+
+**Índice de esta entrega** (igual al de su documento, sin las
+indicaciones/ejemplos que lo acompañan):
+1. Introducción y justificación: 1.1 Identificación del título — 1.2
+   Identificación del módulo — 1.3 Justificación de la programación — 1.4
+   Referencias legislativas — 1.5 Fuentes sociales.
+2. Contextualización: 2.1 Características del centro — 2.2 Características
+   del alumnado y de las familias — 2.3 Características e incorporación
+   del ciclo formativo en el entorno productivo del centro.
+3. Perfil profesional y curricular: 3.1 Competencia general del ciclo —
+   3.2 Competencias profesionales y para la empleabilidad — 3.3
+   Cualificaciones profesionales y unidades de competencia.
+
+**Metodología de trabajo (indicación explícita de Pepe, 02/10/2026):** no
+dar nada por hecho ni inventar datos — preguntar, investigar y verificar
+contra fuentes oficiales antes de redactar cada punto. Se trabaja un punto
+cada vez, con su supervisión.
+
+**Documento de entrega:** Pepe trabaja en Google Docs, no en este
+repositorio. Se le entrega una plantilla Word (`.docx`) por apartado o de
+conjunto, que él mismo traslada a su documento de trabajo. La plantilla
+completa de esta entrega (índice limpio + 1.1 ya redactado + resto como
+"[Pendiente de redactar]") está en
+`materiales/Plantilla_Entrega2_0017_Habilidades_Sociales.docx` — este
+repositorio puede quedar desactualizado respecto al documento real de
+Pepe en Google Docs a partir de aquí; lo que manda es lo que él tenga allí.
+
+### 1.1 Identificación del título — CERRADO (02/10/2026)
+
+Verificado contra fuentes primarias (BORM núm. 222/2026, Anexo LXX, leído
+directamente; y el "cuadro raíz" de la preparadora para Integración
+Social, que confirma todos los datos sin discrepancias):
+
+- **0017 Habilidades sociales es un módulo de 2.º curso** (no de 1º) —
+  confirmado en la tabla de secuenciación del Anexo LXX (columna "2º": 155h,
+  5h/semana) y en el cuadro raíz de la preparadora. Dato curioso: el mismo
+  código 0017 aparece también en el título de Técnico Superior en
+  Acondicionamiento Físico (Anexo I de la misma orden), pero ahí es de
+  **1.º curso, 3h/semana** — confirma que es un módulo transversal
+  reutilizado entre títulos, con distinta ubicación según el ciclo.
+- **Atribución docente a Intervención Sociocomunitaria: confirmada
+  explícitamente** por el cuadro raíz de la preparadora (columna
+  "Profesor: ISC") — ya no es una inferencia indirecta.
+- **Modalidad: presencial** (decisión de Pepe).
+- **Grado D**: RD 659/2023, de 18 de julio (Título II, grados A-E del
+  Sistema de FP) — aplica a cualquier ciclo formativo, verificado.
+- **CINE: 5b** (decisión de Pepe, corrigiendo una incoherencia del propio
+  documento de la preparadora: su tabla del 1.1 pone "Nivel 4" para
+  Grado Superior, pero su propio ejemplo del 1.2 usa "CINE-5b" para otro
+  módulo de grado superior — probablemente un resto de plantilla genérica
+  sin actualizar).
+- **MECU**: Nivel 5A (Grado Superior). **MECES**: Nivel 1. Ambos datos
+  genéricos de su plantilla, verificados como correctos para cualquier
+  Técnico Superior.
+- **Estándar de competencia asociado al módulo**: RD 1074/2012, de 13 de
+  julio, modificado por el RD 289/2023, de 18 de abril — para nuestro
+  título, **no** el RD 500/2024 que cita genéricamente su plantilla (ese
+  RD 500/2024 modifica otros títulos de grado superior, p. ej. Educación
+  Infantil/0018, no Integración Social).
+- **Dejado en blanco, a petición de Pepe**: "Modalidad de evaluación del
+  ciclo formativo en el centro" (depende del centro, aún no elegido en
+  Contextualización) y la Orden de convocatoria de la oposición (la de
+  2024 fue para la convocatoria 2025; la de la próxima convocatoria
+  probablemente no esté publicada todavía — no se inventa una fecha).
+
+### Pendiente de esta entrega
+
+- 1.2 a 1.5, todo el punto 2 (Contextualización — requiere elegir un
+  centro público real de la Región de Murcia que imparta Integración
+  Social, ver su documento §2.1) y todo el punto 3 (Perfil profesional y
+  curricular).
+- Punto 2.1 necesita decisión de Pepe: qué centro público elegir (la
+  preparadora pide usar `llegarasalto.com/guiafp` para localizar centros
+  reales de la CARM que impartan Integración Social).
