@@ -919,9 +919,28 @@ Social, que confirma todos los datos sin discrepancias):
   2024 fue para la convocatoria 2025; la de la próxima convocatoria
   probablemente no esté publicada todavía — no se inventa una fecha).
 
+### 1.2 Identificación del módulo — CERRADO (02/10/2026)
+
+Redactado siguiendo los ítems indicados por Pepe (importancia de la FP +
+RD 659/2023 CARM; código, denominación, créditos, horas totales y
+semanales). **Corrección hecha a la plantilla de la preparadora**: su
+ejemplo cita el "artículo 96" del RD 659/2023 como base de que el
+currículo se organiza incorporando módulos del Catálogo Modular — se
+verificó el texto literal en el BOE (PDF consolidado) y el **art. 96** es
+en realidad "Estructura" (parte troncal/optativa de los ciclos); el
+contenido que ella describe es el **artículo 97** ("Módulos profesionales
+de la parte troncal del currículo"). Se usa la cita correcta (art. 97) en
+la programación.
+
+- Créditos/horas: 6 ECTS / 155 horas, 5 h/semana (ya verificado en §14).
+- Horas fase centro: 155 (el 100%) — horas fase empresa: 0, porque el
+  art. 7 del RD 659/2023 establece que la fase de centro cubre el 100%
+  de los RA de cada módulo; la fase de empresa complementa pero no
+  reparte horas lectivas específicas de este módulo.
+
 ### Pendiente de esta entrega
 
-- 1.2 a 1.5, todo el punto 2 (Contextualización — requiere elegir un
+- 1.3 a 1.5, todo el punto 2 (Contextualización — requiere elegir un
   centro público real de la Región de Murcia que imparta Integración
   Social, ver su documento §2.1) y todo el punto 3 (Perfil profesional y
   curricular).
