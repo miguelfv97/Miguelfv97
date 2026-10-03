@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-03 — Check-in 6:30: día del maratón de Mula–Caravaca
+- Ayer (2 oct) sí se cumplió el "descanso muy suave": natación ligera 1.20 km (37:28, FC 130, sin intensidad) — se marca como realizado en `plan/semana-actual.md`.
+- Métricas pre-carrera: recuperación 100% ("Entreno intenso permitido", recuperación completa estimada en 0h), ratio de carga 0.83 (bajando bien de cara a hoy). Sin ninguna señal que desaconseje la carrera.
+- Hoy es el maratón (42 km, ~600 m D+) — ya en marcha según lo decidido por el atleta antes de este proyecto, no se toca nada ni se pregunta por sensaciones antes de salir.
+
 ## 2026-10-02 — Check-in 6:30: el test CSS no se hizo, se pospone hasta después del maratón
 - Ayer (1 oct) no hay ningún registro de natación en COROS — en su lugar, una carrera de 6.02 km (5:03/km, FC 159) y una sesión de cardio GPS de ~1h (FC 144, probablemente el entreno de baloncesto). Se actualiza `plan/semana-actual.md` para reflejarlo sin dramatizar.
 - Se decide (criterio propio, no pedido explícitamente) no forzar el test CSS hoy tampoco, víspera del maratón — un esfuerzo a tope de natación no encaja con dejar las piernas/el cuerpo frescos para mañana. Se pospone a después de la semana de recuperación post-maratón, sin fecha exacta todavía (se concreta cuando encaje).

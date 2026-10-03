@@ -16,7 +16,7 @@ calidad de carrera/bici con baloncesto (ver `atleta/historial-y-limitaciones.md`
 | Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
 |---|---|---|---|---|
 | Jue 1 oct | Natación — test CSS (como decidiste) | Pasar de RPE a ritmo real por 100m | **No realizado** — en vez de eso hubo una carrera de 6.02 km (5:03/km, FC 159) y una sesión de cardio GPS de ~1h (FC 144, probablemente el entreno de baloncesto). El test CSS queda pendiente, se retoma la semana que viene (después de la recuperación del maratón), no tiene sentido forzarlo justo antes de la carrera. | — |
-| Vie 2 oct | Descanso total o muy suave | Piernas frescas para el maratón de mañana | Nada de intensidad; si quieres moverte, 15-20 min caminando o movilidad ligera, nada más. **Sin test CSS hoy tampoco** — un esfuerzo a tope de natación la víspera del maratón no compensa, mejor dejarlo totalmente fresco. | — |
+| Vie 2 oct | Descanso total o muy suave | Piernas frescas para el maratón de mañana | **Realizado**: natación suave 1.20 km (37:28, FC 130, sin intensidad) — encaja bien con "muy suave", sin impacto en las piernas. | — |
 
 ## Semana del 3 al 11 de octubre de 2026 — recuperación post-maratón
 
