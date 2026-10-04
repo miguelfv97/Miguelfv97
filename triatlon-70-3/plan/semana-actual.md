@@ -26,7 +26,7 @@ COROS sin que lo confirmes.
 
 | Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
 |---|---|---|---|---|
-| Sáb 3 oct | Carrera | Maratón Mula–Caravaca (ya en marcha, no se toca) | 42 km, ~600 m D+ | — |
+| Sáb 3 oct | Carrera | **Completado**: Maratón Mula–Caravaca | 42.00 km en 4:07:59 (5:54/km, FC media 152) — ver `atleta/perfil.md` | — |
 | Dom 4 oct | Natación o bici, muy suave | Activar circulación, no entrenar | 15–30 min, sin ninguna intensidad | ☐ |
 | Lun 5 oct | Baloncesto (como siempre) | — | Sin sesión estructurada de fuerza/carrera/bici/natación añadida | — |
 | Mar 6 oct | Descanso de carrera/bici/natación | Dejar que baje el daño muscular | Nada estructurado; baloncesto no aplica este día | ☐ |

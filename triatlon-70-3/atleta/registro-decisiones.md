@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-04 — Check-in 6:30: maratón completado, arranca la recuperación
+- El atleta completó el Maratón de Mula–Caravaca (42.00 km, 4:07:59, 5:54/km, FC media 152, ~600 m D+) — se añade a `atleta/perfil.md` como mejor resultado y se marca como completado en `plan/semana-actual.md`.
+- Recuperación según COROS: 41% ("entreno ligero recomendado", recuperación completa estimada en 75h/~3 días), ratio de carga 1.44 (pico esperado tras un maratón). Todo coherente con lo ya previsto en el plan de recuperación — no hace falta ajustar nada, la sesión muy suave de hoy (natación o bici, 15-30 min sin intensidad) ya estaba pensada para esto.
+- Se pregunta por sensaciones (agujetas, molestias) porque corresponde — "después de una sesión muy dura" es justo la señal que pide la regla 4 del check-in.
+
 ## 2026-10-03 — Check-in 6:30: día del maratón de Mula–Caravaca
 - Ayer (2 oct) sí se cumplió el "descanso muy suave": natación ligera 1.20 km (37:28, FC 130, sin intensidad) — se marca como realizado en `plan/semana-actual.md`.
 - Métricas pre-carrera: recuperación 100% ("Entreno intenso permitido", recuperación completa estimada en 0h), ratio de carga 0.83 (bajando bien de cara a hoy). Sin ninguna señal que desaconseje la carrera.
