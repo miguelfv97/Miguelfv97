@@ -978,11 +978,53 @@ objeto del módulo (habilidades sociales) encaja de forma natural ahí.
 **Con esto queda cerrado el punto 1 completo (1.1-1.5) de la segunda
 entrega.**
 
+### Centro elegido para la Contextualización — CERRADO (05/10/2026)
+
+**IES Poeta Julián Andúgar (Santomera)**, centro público, imparte el
+Grado Superior de Integración Social. Decisión tomada tras comparar el
+PEC/PGA real y público de varios centros candidatos:
+
+| Centro | Calidad de la info pública |
+|---|---|
+| IES Juan Carlos I (Murcia) | PEC bloqueado en Plumier XXI (interno); solo PGA, sin datos descriptivos |
+| IES Francisco Salzillo (Alcantarilla) | Solo una "Carta de Servicios" de 2019, genérica, sin cifras |
+| IES Villa de Abarán (Abarán) | PEC/PGA real muy completo (curso 2023-24) pero algo menos actualizado |
+| **IES Poeta Julián Andúgar (Santomera)** | **PEC real y público del curso 2025-2026 — el más actualizado** |
+
+El PEC completo está guardado en
+`materiales/PEC_2025-2026_IES_Poeta_Julian_Andugar.pdf` (descargado de
+https://www.iespoetajulianandugar.es/el-centro/proyecto-de-centro/).
+
+**Datos extraídos y verificados del PEC** (para usar en 2.1-2.3):
+- Centro público, 60 años de trayectoria, en Santomera. Zona de
+  influencia: Santomera, El Siscar, La Matanza, Orilla del Azarbe,
+  Cobatillas, El Esparragal (rutas de transporte escolar propias,
+  algunas compartidas con el IES Octavio Cárpena). 8 CEIP adscritos.
+- Oferta: ESO (4 líneas, ~70% del alumnado en profundización de inglés),
+  Bachillerato (Ciencias y Tecnología, Humanidades y CC. Sociales,
+  Bachillerato de Investigación), FP de Comercio y Marketing, y
+  **Grado Superior de Educación Infantil e Integración Social**
+  (Servicios Socioculturales y a la Comunidad).
+- Comparte edificio con el Centro de Educación de Personas Adultas
+  Comarca Oriental (turno vespertino/nocturno).
+- Recursos: Aula Abierta (desde 2015-16), Aula de Compensatoria, Aula de
+  Acogida (alumnado inmigrante), cantina pequeña.
+- Más de 1.000 alumnos/as en el centro (sin desglose público por
+  ciclo/etapa).
+- Crecimiento demográfico de la zona ligado a inmigración (Europa del
+  Este, Latinoamérica, Marruecos), vinculada al sector primario
+  (recolección hortícola). Nivel socioeconómico medio/medio-bajo.
+- El PEC marca como prioridad "mantener y mejorar los contactos con las
+  empresas de los sectores relacionados con nuestros ciclos formativos"
+  — útil para 2.3, sin empresas concretas nombradas.
+- **No da** (dejar como "[X]" si se necesita, igual que su plantilla):
+  ratio alumnado/grupo, nº de profesorado, % exacto de alumnado
+  inmigrante, aulas especiales tipo ATECA/Emprendedora, ni programas
+  europeos nombrados explícitamente (solo "Programas Educativos y
+  Proyectos Europeos" en genérico — no se puede afirmar que participan
+  en Erasmus+ por nombre, no está citado así en el documento).
+
 ### Pendiente de esta entrega
 
-- Todo el punto 2 (Contextualización — requiere elegir un centro público
-  real de la Región de Murcia que imparta Integración Social, ver su
-  documento §2.1) y todo el punto 3 (Perfil profesional y curricular).
-- Punto 2.1 necesita decisión de Pepe: qué centro público elegir (la
-  preparadora pide usar `llegarasalto.com/guiafp` para localizar centros
-  reales de la CARM que impartan Integración Social).
+- Redactar 2.1, 2.2 y 2.3 (Contextualización) con el material del PEC
+  de arriba, y todo el punto 3 (Perfil profesional y curricular).
