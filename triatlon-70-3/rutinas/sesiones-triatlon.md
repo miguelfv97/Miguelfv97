@@ -1,10 +1,12 @@
 # Biblioteca de sesiones tipo (v2 — con ritmos/potencias reales)
 
-> Ritmo de carrera y potencia de bici ya usan las zonas confirmadas de
-> `atleta/zonas-y-metricas.md`. Natación sigue en esfuerzo percibido (RPE)
-> porque no hay zonas confirmadas — hace falta un test CSS.
+> Ritmo de carrera, potencia de bici y ritmo de natación ya usan las zonas
+> confirmadas de `atleta/zonas-y-metricas.md` (CSS = 2:29/100m, test del
+> 2026-10-02).
 
-## Natación (v3 — calidad, no frecuencia, reescrito 2026-09-30)
+## Natación (v4 — ritmos reales por CSS, 2026-10-05)
+
+Zonas confirmadas (CSS 2:29/100m): Fácil/recuperación 2:37-2:39/100m · Aeróbico sostenido 2:33-2:36/100m · Umbral 2:29/100m.
 
 **Diagnóstico del atleta, confirmado por él**: hasta ahora nada continuo,
 al ritmo que sale, completando la distancia — nunca series ni estructura.
@@ -21,10 +23,11 @@ Triathletes](https://www.usms.org/fitness-and-training/articles-and-videos/artic
 - Calentamiento: 200m suave + drills — 4x25m alternando catch-up y
   fingertip drag (ver descripción de los drills más abajo), 100m suave.
 - Serie principal (objetivo: resistencia aeróbica, series largas con
-  poco descanso): **4x200m con 20s de descanso**, ritmo sostenido pero
-  controlado (RPE 6-7 — deberías poder mantener el mismo ritmo en las 4).
-  Si 200m se hace muy largo al principio, empieza con 6-8x100m con 15s de
-  descanso y ve subiendo la distancia de la serie cada 2-3 semanas.
+  poco descanso): **4x200m con 20s de descanso, a 5:06-5:12 por 200m**
+  (ritmo aeróbico sostenido, 2:33-2:36/100m) — debes poder mantener el
+  mismo ritmo en las 4 repeticiones. Si 200m se hace muy largo al
+  principio, empieza con 6-8x100m a 2:33-2:36/100m con 15s de descanso y
+  ve subiendo la distancia de la serie cada 2-3 semanas.
 - Vuelta a la calma: 100-150m suave.
 - Duración total: ~35-40 min (similar al tiempo que ya dedicas, pero con estructura).
 
@@ -32,10 +35,11 @@ Triathletes](https://www.usms.org/fitness-and-training/articles-and-videos/artic
 - Calentamiento: 200-300m suave + drills — 4x25m 6-1-6 (seis patadas y
   giro) + 4x25m respiración bilateral, 100m suave progresando el ritmo.
 - Serie principal (objetivo: velocidad/umbral, series cortas con más
-  descanso): **8-10x50m con 20-25s de descanso**, a ritmo fuerte (RPE 8,
-  el que puedas repetir sin desmoronarte en las últimas series). Si te
-  sobra tiempo o te ves con margen, añade 4x25m a tope al final con
-  descanso completo.
+  descanso): **8-10x50m con 20-25s de descanso, a 1:14-1:15 por 50m**
+  (ritmo umbral, 2:29/100m) — el que puedas repetir sin desmoronarte en
+  las últimas series; si no llegas, para antes de perder la técnica. Si
+  te sobra tiempo o te ves con margen, añade 4x25m a tope (más rápido
+  que el ritmo umbral) al final con descanso completo.
 - Vuelta a la calma: 150-200m suave.
 - Duración total: ~35-40 min.
 
@@ -55,19 +59,13 @@ Triathletes](https://www.usms.org/fitness-and-training/articles-and-videos/artic
   principio se hace raro, es normal.
 - Fuentes: [THEMAGIC5 — 6 Proven Freestyle Drills](https://themagic5.com/blogs/news/6-proven-drills-to-improve-your-freestyle-stroke), [USMS — Drill and Pace Sets for Triathlon](https://www.usms.org/fitness-and-training/articles-and-videos/articles/seven-effective-drill-and-pace-sets-for-triathlon-swim-training-that-wont-bore-you).
 
-### Test CSS — ahora sí, prioritario
-Con series estructuradas ya tiene mucho más sentido hacer el test cuanto
-antes, para pasar de RPE a ritmos reales por 100m:
-- Calienta bien (400m suave + drills).
-- Nada 400m a tope, apunta el tiempo.
-- Descansa 5-10 min completos.
-- Nada 200m a tope, apunta el tiempo.
-- CSS (ritmo por 100m) = (tiempo 400m − tiempo 200m en segundos) ÷ 2.
-- Con el CSS calculado, las zonas quedan: fácil/recuperación ≈ CSS +8-10s/100m (la mayoría del volumen aquí), aeróbico sostenido ≈ CSS +4-7s/100m (tu serie del martes), umbral = CSS (tu serie del viernes). Repetir el test cada 6-8 semanas.
+### Test CSS — hecho el 2026-10-02, repetir cada 6-8 semanas
+Protocolo usado (repetir igual la próxima vez): calentamiento 400m suave
++ drills, 400m a tope (apuntar tiempo), 5-10 min de descanso completo,
+200m a tope (apuntar tiempo), vuelta a la calma. CSS (ritmo por 100m) =
+(tiempo 400m − tiempo 200m en segundos) ÷ 2 — resultado y zonas en
+`atleta/zonas-y-metricas.md`.
 - Fuente: [TrainingPeaks — How to Use Critical Swim Speed Training](https://www.trainingpeaks.com/blog/how-to-use-critical-swim-speed-training/), [MyProCoach — CSS Calculator](https://www.myprocoach.net/calculators/critical-swim-speed/).
-
-En cuanto tengas el CSS, esta sección se actualiza con ritmos exactos por
-100m en vez de RPE.
 
 ## Carrera
 

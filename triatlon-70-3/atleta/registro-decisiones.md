@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-05 — Test CSS analizado: zonas reales de natación confirmadas
+- El atleta ya había hecho el test, pero COROS lo registró con la etiqueta genérica "natación suave" (2026-10-02) — por eso el check-in de ese día no lo detectó como test. El atleta manda una captura de la actividad en COROS con el desglose por tramos (calentamiento 400m, esfuerzo 400m en 9:43.46, descanso 6:04.95, esfuerzo 200m en 4:44.76, vuelta a la calma 200m) y pide analizarlo bien.
+- Cálculo: se usa el tiempo total de cada esfuerzo (no el "ritmo medio" que muestra COROS por tramo, que parece suavizar el tiempo de viraje/pared) — CSS = (583.46s − 284.76s) ÷ 2 = 149.35 s/100m ≈ **2:29/100m**. Zonas: fácil/recuperación 2:37-2:39/100m, aeróbico sostenido 2:33-2:36/100m, umbral 2:29/100m.
+- Se actualiza `atleta/zonas-y-metricas.md` (CSS y zonas confirmadas) y `rutinas/sesiones-triatlon.md` v4 (la serie del martes pasa de RPE 6-7 a 5:06-5:12 por 200m, la del viernes de RPE 8 a 1:14-1:15 por 50m), quitando toda referencia a RPE en natación.
+- Dato interesante para el atleta: el CSS calculado (2:29/100m) es más rápido que su rango histórico sin estructura (2:17-3:36/100m, muy variable) — confirma que el problema era la falta de método, no de capacidad física.
+
 ## 2026-10-05 — Check-in 6:30: gimnasio en vez de recuperación activa el día después del maratón
 - Ayer (domingo 4, día después del maratón) tocaba natación o bici muy suave; en su lugar hubo gimnasio (52:47, 24 series, FC media 89 — esfuerzo suave, pero sigue siendo carga de fuerza). Se anota en `plan/semana-actual.md` sin dramatizar ni deshacer nada, solo como referencia para no repetirlo en la próxima recuperación post-maratón.
 - Recuperación COROS: 75% ("entreno moderado recomendado", completa estimada en 52h/~2 días). Ratio de carga bajando (1.44→1.27→1.12) tras el pico del maratón, HRV normal ambos días (99, 101ms), FC reposo 45-46bpm. Nada alarmante, pero con el gimnasio de ayer añadido y el baloncesto de hoy, se recomienda ir con cuidado en saltos/contacto hasta completar la recuperación.

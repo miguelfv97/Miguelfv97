@@ -55,14 +55,12 @@ fichero para referencia, ya no es el estado actual.
   - Entreno entre semana (cuando hay luz): 20 km a ritmo alto.
 
 ## Natación
-- Sin zonas formales ni ritmo umbral por 100 m — COROS no tiene esa
-  pantalla; haría falta un test CSS (Critical Swim Speed: 400 m + 200 m a
-  tope, descanso completo entre ambos) para calcularlo. Test programado
-  para el jueves 1 de octubre de 2026, montado por el atleta en la app de
-  COROS (el conector de escritura no soporta natación — confirmado
-  2026-09-30, `createScheduledWorkout` solo admite carrera/ciclismo/trail).
-  En cuanto lo nade, se lee el resultado por COROS (lectura sí funciona
-  para natación) y se calculan ritmos reales para `rutinas/sesiones-triatlon.md`.
+- **Test CSS confirmado (COROS, actividad del 2026-10-02 — "natación suave" mal etiquetada inicialmente, en realidad el test completo)**: 400 m en 9:43.46 (esfuerzo 1) + descanso 6:04.95 + 200 m en 4:44.76 (esfuerzo 2), usando el tiempo total de cada tramo (no el "ritmo medio" que muestra COROS por tramo, que parece suavizar el tiempo de viraje).
+  - **CSS = (583.46 s − 284.76 s) ÷ 2 = 149.35 s/100m ≈ 2:29/100m**.
+  - Recuperación/fácil: **2:37-2:39/100m** (CSS +8-10s)
+  - Aeróbico sostenido (serie del martes): **2:33-2:36/100m** (CSS +4-7s)
+  - Umbral (serie del viernes): **2:29/100m** (= CSS)
+  - Repetir el test cada 6-8 semanas para actualizar estas zonas.
 - **Dato real fiable — Cullera**: 848 m en 19:15 (≈2:16/100m, HR 121 avg).
   Es natación de competición sin entrenar técnica, no un ritmo de
   referencia ideal, pero es un esfuerzo real y comparable.
