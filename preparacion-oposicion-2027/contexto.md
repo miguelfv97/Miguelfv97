@@ -938,12 +938,51 @@ la programación.
   de los RA de cada módulo; la fase de empresa complementa pero no
   reparte horas lectivas específicas de este módulo.
 
+### 1.3 Justificación de la programación — CERRADO (05/10/2026)
+
+Redactado siguiendo los 7 puntos del guion de Pepe. **Dos correcciones a
+raíz de su revisión:**
+- Las menciones a los **Anexos VI y XIX** de la Orden de convocatoria
+  quedan marcadas en **rojo y negrita dentro del propio Word** como
+  "⚠ DUDOSO", a petición expresa de Pepe — son los anexos de la
+  convocatoria 2024/2025, sin confirmar todavía para la próxima. Buscar
+  ese marcador rojo en el documento cuando se publique la nueva
+  convocatoria y actualizar.
+- Se sustituyó "trimestres" por "**evaluaciones**" al hablar de la
+  distribución de las 12 UT, **sin concretar el número**: el calendario
+  real del alumnado de 2.º curso depende de cuándo empiece la FCT
+  (habitualmente marzo-abril), así que no se puede dar por hecho que
+  sean 3 evaluaciones hasta no tener centro y calendario reales.
+
+### 1.4 Referencias legislativas — CERRADO (05/10/2026)
+
+Normativa agrupada en las 4 categorías de la plantilla de la preparadora
+(general → FP → ciclo formativo → inclusiva), solo con normativa de
+Murcia (se descartó el bloque de ejemplo de Andalucía de su plantilla).
+Verificadas por búsqueda las tres citas de la CARM no comprobadas antes:
+Orden de 1 de junio de 2006 (objetividad en la evaluación), Decreto
+359/2009 de 30 de octubre (respuesta educativa a la diversidad) y Orden
+de 4 de junio de 2010 (Plan de Atención a la Diversidad) — las tres
+correctas.
+
+### 1.5 Fuentes sociales — CERRADO (05/10/2026)
+
+Las 4 fuentes del currículo (epistemológica, sociológica, pedagógica,
+psicológica), citando a César Coll como autor de referencia de este
+marco clásico. Adaptadas al módulo, no genéricas: la fuente
+epistemológica se liga a la psicología social/teoría de la comunicación/
+dinámica de grupos que sostienen los 5 RA; la sociológica conecta
+explícitamente con el CEDEFOP y las *soft skills*, dado que el propio
+objeto del módulo (habilidades sociales) encaja de forma natural ahí.
+
+**Con esto queda cerrado el punto 1 completo (1.1-1.5) de la segunda
+entrega.**
+
 ### Pendiente de esta entrega
 
-- 1.3 a 1.5, todo el punto 2 (Contextualización — requiere elegir un
-  centro público real de la Región de Murcia que imparta Integración
-  Social, ver su documento §2.1) y todo el punto 3 (Perfil profesional y
-  curricular).
+- Todo el punto 2 (Contextualización — requiere elegir un centro público
+  real de la Región de Murcia que imparta Integración Social, ver su
+  documento §2.1) y todo el punto 3 (Perfil profesional y curricular).
 - Punto 2.1 necesita decisión de Pepe: qué centro público elegir (la
   preparadora pide usar `llegarasalto.com/guiafp` para localizar centros
   reales de la CARM que impartan Integración Social).
