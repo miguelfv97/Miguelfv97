@@ -3,6 +3,11 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-05 — Check-in 6:30: gimnasio en vez de recuperación activa el día después del maratón
+- Ayer (domingo 4, día después del maratón) tocaba natación o bici muy suave; en su lugar hubo gimnasio (52:47, 24 series, FC media 89 — esfuerzo suave, pero sigue siendo carga de fuerza). Se anota en `plan/semana-actual.md` sin dramatizar ni deshacer nada, solo como referencia para no repetirlo en la próxima recuperación post-maratón.
+- Recuperación COROS: 75% ("entreno moderado recomendado", completa estimada en 52h/~2 días). Ratio de carga bajando (1.44→1.27→1.12) tras el pico del maratón, HRV normal ambos días (99, 101ms), FC reposo 45-46bpm. Nada alarmante, pero con el gimnasio de ayer añadido y el baloncesto de hoy, se recomienda ir con cuidado en saltos/contacto hasta completar la recuperación.
+- Se pregunta por sensaciones (agujetas, molestias) porque sigue dentro de la ventana de más carga muscular tras el maratón (día 2, pico habitual de agujetas) y se le añadió gimnasio encima.
+
 ## 2026-10-04 — Check-in 6:30: maratón completado, arranca la recuperación
 - El atleta completó el Maratón de Mula–Caravaca (42.00 km, 4:07:59, 5:54/km, FC media 152, ~600 m D+) — se añade a `atleta/perfil.md` como mejor resultado y se marca como completado en `plan/semana-actual.md`.
 - Recuperación según COROS: 41% ("entreno ligero recomendado", recuperación completa estimada en 75h/~3 días), ratio de carga 1.44 (pico esperado tras un maratón). Todo coherente con lo ya previsto en el plan de recuperación — no hace falta ajustar nada, la sesión muy suave de hoy (natación o bici, 15-30 min sin intensidad) ya estaba pensada para esto.

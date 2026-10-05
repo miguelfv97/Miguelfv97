@@ -27,7 +27,7 @@ COROS sin que lo confirmes.
 | Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
 |---|---|---|---|---|
 | Sáb 3 oct | Carrera | **Completado**: Maratón Mula–Caravaca | 42.00 km en 4:07:59 (5:54/km, FC media 152) — ver `atleta/perfil.md` | — |
-| Dom 4 oct | Natación o bici, muy suave | Activar circulación, no entrenar | 15–30 min, sin ninguna intensidad | ☐ |
+| Dom 4 oct | Natación o bici, muy suave | Activar circulación, no entrenar | **No se hizo lo previsto**: en su lugar, gimnasio 52:47 (24 series, FC media 89 — esfuerzo suave de intensidad, pero sigue siendo carga de fuerza justo el día después de un maratón, que la recuperación activa buscaba evitar). Sin cambios retroactivos, solo queda anotado para no repetirlo en el próximo post-maratón. | ☐ |
 | Lun 5 oct | Baloncesto (como siempre) | — | Sin sesión estructurada de fuerza/carrera/bici/natación añadida | — |
 | Mar 6 oct | Descanso de carrera/bici/natación | Dejar que baje el daño muscular | Nada estructurado; baloncesto no aplica este día | ☐ |
 | Mié 7 oct | Baloncesto (como siempre) | — | Sin sesión estructurada añadida | — |
