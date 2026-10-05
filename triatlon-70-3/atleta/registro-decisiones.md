@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-05 — Natación v5: dos sesiones aportadas por el atleta, sustituyen las anteriores
+- El atleta trae dos sesiones de una app/vídeo externo (capturas de pantalla, estructura tipo "Session 01"/"Session 02") y pide explicarlas al detalle e integrarlas como las sesiones fijas de martes y viernes, en vez de las que había.
+- Sesión 1 (3x400m continuo, 20-30s descanso) → martes, traducida a ritmo aeróbico sostenido (2:33-2:36/100m, 10:12-10:24 por 400m).
+- Sesión 2 (3x100m + 1x100m suave, repetido 3 veces = 12x100m por intervalo de salida) → viernes. El ritmo genérico del vídeo ("2min/100") no aplica al atleta — se traduce a un ritmo intermedio entre aeróbico sostenido y umbral (2:31-2:34/100m, salida cada 2:51-2:54), porque sostener el umbral puro (2:29/100m) 12 veces no es realista. Se avisa de que el volumen de calidad (1.200m si se hacen las 3 rondas) es muy superior al que había antes (400-500m) y se recomienda empezar por 2 rondas y construir hasta 3.
+- `rutinas/sesiones-triatlon.md` pasa a v5. Los 4 drills (catch-up, fingertip drag, 6-1-6, bilateral) quedan como opcionales, ya no obligatorios dentro de estas dos sesiones.
+
 ## 2026-10-05 — Test CSS analizado: zonas reales de natación confirmadas
 - El atleta ya había hecho el test, pero COROS lo registró con la etiqueta genérica "natación suave" (2026-10-02) — por eso el check-in de ese día no lo detectó como test. El atleta manda una captura de la actividad en COROS con el desglose por tramos (calentamiento 400m, esfuerzo 400m en 9:43.46, descanso 6:04.95, esfuerzo 200m en 4:44.76, vuelta a la calma 200m) y pide analizarlo bien.
 - Cálculo: se usa el tiempo total de cada esfuerzo (no el "ritmo medio" que muestra COROS por tramo, que parece suavizar el tiempo de viraje/pared) — CSS = (583.46s − 284.76s) ÷ 2 = 149.35 s/100m ≈ **2:29/100m**. Zonas: fácil/recuperación 2:37-2:39/100m, aeróbico sostenido 2:33-2:36/100m, umbral 2:29/100m.

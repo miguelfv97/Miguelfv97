@@ -4,46 +4,48 @@
 > confirmadas de `atleta/zonas-y-metricas.md` (CSS = 2:29/100m, test del
 > 2026-10-02).
 
-## Natación (v4 — ritmos reales por CSS, 2026-10-05)
+## Natación (v5 — sesiones de dos fuentes aportadas por el atleta, con sus ritmos reales, 2026-10-05)
 
 Zonas confirmadas (CSS 2:29/100m): Fácil/recuperación 2:37-2:39/100m · Aeróbico sostenido 2:33-2:36/100m · Umbral 2:29/100m.
 
-**Diagnóstico del atleta, confirmado por él**: hasta ahora nada continuo,
-al ritmo que sale, completando la distancia — nunca series ni estructura.
-Eso es lo que cambia aquí, en las mismas 2 sesiones/semana (martes y
-viernes), no añadiendo una tercera. Estructura estándar de entrenamiento
-de natación — calentamiento (10-20% de la sesión, con técnica incluida) →
-serie principal (specificity: un objetivo por sesión, no mezclar
-aeróbico y velocidad) → vuelta a la calma, con ~2 min de descanso entre
-bloques — [U.S. Masters Swimming — Best Swim Workouts for
-Triathletes](https://www.usms.org/fitness-and-training/articles-and-videos/articles/best-swimming-workouts-for-triathletes),
-[220 Triathlon — Swim Interval Training for Beginners](https://www.220triathlon.com/training/training-plans/free-2-week-swim-interval-training-plan-for-beginners).
+**Origen**: el atleta trajo estas dos sesiones de una app/vídeo de entrenamiento
+de natación (estructura genérica) y pidió sustituir las que había aquí
+por estas dos. Se tradujeron sus ritmos genéricos (ej. "2min/100 pace")
+a los ritmos reales del atleta (CSS confirmado 2026-10-02), el resto de
+la estructura (series, descansos, formato de intervalo) se mantiene tal
+cual la trajo. Material necesario para ambas: pull buoy y tabla (kickboard).
 
-### Martes — día aeróbico (series largas, con la pierna de gimnasio antes)
-- Calentamiento: 200m suave + drills — 4x25m alternando catch-up y
-  fingertip drag (ver descripción de los drills más abajo), 100m suave.
-- Serie principal (objetivo: resistencia aeróbica, series largas con
-  poco descanso): **4x200m con 20s de descanso, a 5:06-5:12 por 200m**
-  (ritmo aeróbico sostenido, 2:33-2:36/100m) — debes poder mantener el
-  mismo ritmo en las 4 repeticiones. Si 200m se hace muy largo al
-  principio, empieza con 6-8x100m a 2:33-2:36/100m con 15s de descanso y
-  ve subiendo la distancia de la serie cada 2-3 semanas.
-- Vuelta a la calma: 100-150m suave.
-- Duración total: ~35-40 min (similar al tiempo que ya dedicas, pero con estructura).
+### Martes — resistencia aeróbica continua (1.600m)
+- Calentamiento: 100m crol suave + 100m pull (con pull buoy, sin
+  patada, aísla el trabajo de brazada) + 2x50m kick (con tabla, solo
+  patada).
+- Serie principal: **3x400m a ritmo sostenido, 20-30s de descanso entre
+  cada 400m**, a **10:12-10:24 por 400m** (ritmo aeróbico sostenido,
+  2:33-2:36/100m) — el mismo ritmo en los tres bloques.
+- Vuelta a la calma: 50m kick suave + 50m crol suave.
+- Total: 1.600m.
 
-### Viernes — día de calidad/velocidad (series cortas, más intensas)
-- Calentamiento: 200-300m suave + drills — 4x25m 6-1-6 (seis patadas y
-  giro) + 4x25m respiración bilateral, 100m suave progresando el ritmo.
-- Serie principal (objetivo: velocidad/umbral, series cortas con más
-  descanso): **8-10x50m con 20-25s de descanso, a 1:14-1:15 por 50m**
-  (ritmo umbral, 2:29/100m) — el que puedas repetir sin desmoronarte en
-  las últimas series; si no llegas, para antes de perder la técnica. Si
-  te sobra tiempo o te ves con margen, añade 4x25m a tope (más rápido
-  que el ritmo umbral) al final con descanso completo.
-- Vuelta a la calma: 150-200m suave.
-- Duración total: ~35-40 min.
+### Viernes — intervalos de 100m por tiempo de salida (hasta 1.600m, construir el volumen)
+- Calentamiento: 100m crol suave + 50m kick suave + 4x25m con ritmo
+  creciente (1º suave, 4º fuerte-controlado), 20s de descanso entre
+  cada 25m.
+- Serie principal — bloque de **3x100m fuertes + 1x100m suave**,
+  repetido 3 veces completas (12x100m, 1.200m):
+  - 3x100m saliendo cada **2:51-2:54** (intervalo de salida: nadas al
+    ritmo objetivo y lo que sobra hasta ese tiempo es tu descanso), a
+    **2:31-2:34/100m** (ritmo intermedio entre tu aeróbico sostenido y
+    tu umbral — sostenible para repetir 100m con descanso corto; tu
+    umbral puro de 2:29/100m sería demasiado exigente mantenido 12 veces).
+  - 1x100m suave a **2:37-2:39/100m**, 30s de descanso antes de la
+    siguiente ronda.
+  - **Progresión**: empieza con 2 rondas (800m de principal) las
+    primeras 2-3 semanas y sube a las 3 rondas completas (1.200m) cuando
+    lo notes manejable — es bastante más volumen de calidad del que
+    tenías antes, mejor construirlo gradual.
+- Vuelta a la calma: 50m kick suave + 100m nado muy suave.
+- Total: hasta 1.600m (1.200m si ya haces las 3 rondas completas).
 
-### Los 4 drills (usarlos rotando en los calentamientos)
+### Los 4 drills (opcionales — puedes rotarlos dentro de los bloques de pull/kick si quieres variar la técnica, no son obligatorios en estas dos sesiones)
 - **Catch-up**: nada a crol pero de un brazo cada vez — un brazo se queda
   totalmente extendido delante mientras el otro completa toda la brazada,
   y solo empiezas la siguiente brazada cuando las dos manos se juntan
