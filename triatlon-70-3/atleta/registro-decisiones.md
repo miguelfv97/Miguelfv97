@@ -15,6 +15,16 @@
 - Se actualiza `atleta/zonas-y-metricas.md` (CSS y zonas confirmadas) y `rutinas/sesiones-triatlon.md` v4 (la serie del martes pasa de RPE 6-7 a 5:06-5:12 por 200m, la del viernes de RPE 8 a 1:14-1:15 por 50m), quitando toda referencia a RPE en natación.
 - Dato interesante para el atleta: el CSS calculado (2:29/100m) es más rápido que su rango histórico sin estructura (2:17-3:36/100m, muy variable) — confirma que el problema era la falta de método, no de capacidad física.
 
+## 2026-10-10 — Check-in 6:30: la semana de recuperación post-maratón no se siguió
+- El reloj llevaba varios días sin sincronizar (ya avisado los check-ins del 8 y 9 de octubre); al ponerse al día, aparece el registro completo de martes a viernes y confirma que **no se siguió el plan de recuperación en ningún día**:
+  - Martes 6: gimnasio 1:23:49 (27 series) + carrera 5.21km a 4:36/km (ritmo nada suave) — tocaba descanso total de carrera/bici/natación.
+  - Miércoles 7: gimnasio 1:35:21 (49 series, la sesión más voluminosa de la semana) — tocaba solo baloncesto, sin nada añadido.
+  - Jueves 8: brick completo, bici 41.52km + carrera 10.03km (esto es lo que el atleta ya había avisado el 9 de octubre) — tocaba 15-20 min de trote suave.
+  - Viernes 9: natación "Sesión 2" (la de calidad/intervalos del viernes, no la suave de recuperación) + otra carrera de 10km — tocaba 20-30 min de natación suave.
+- Se actualiza `plan/semana-actual.md` con los datos reales de cada día (sin deshacer nada, solo reflejar lo ocurrido) y se añade una nota de contexto: el ratio de carga de COROS lleva 5 días por encima de 1.0 y la recuperación a fecha de hoy (una semana después del maratón) sigue en 71% — más baja de lo esperable a estas alturas, aunque COROS no lo marca como alarmante ("Optimized" todos los días).
+- No se cambia nada del plan de fases (Base sigue empezando el 2 de noviembre) ni se penaliza retroactivamente nada — el aviso es solo para que el fin de semana (partido del sábado, descanso del domingo) se respete de verdad, dado que la semana no cumplió su función de bajar la fatiga acumulada del maratón.
+- Pendiente: el atleta nunca contestó cómo sintió las piernas tras el brick del jueves (se le preguntó el 9 de octubre) — se vuelve a preguntar en el check-in de hoy.
+
 ## 2026-10-05 — Check-in 6:30: gimnasio en vez de recuperación activa el día después del maratón
 - Ayer (domingo 4, día después del maratón) tocaba natación o bici muy suave; en su lugar hubo gimnasio (52:47, 24 series, FC media 89 — esfuerzo suave, pero sigue siendo carga de fuerza). Se anota en `plan/semana-actual.md` sin dramatizar ni deshacer nada, solo como referencia para no repetirlo en la próxima recuperación post-maratón.
 - Recuperación COROS: 75% ("entreno moderado recomendado", completa estimada en 52h/~2 días). Ratio de carga bajando (1.44→1.27→1.12) tras el pico del maratón, HRV normal ambos días (99, 101ms), FC reposo 45-46bpm. Nada alarmante, pero con el gimnasio de ayer añadido y el baloncesto de hoy, se recomienda ir con cuidado en saltos/contacto hasta completar la recuperación.
