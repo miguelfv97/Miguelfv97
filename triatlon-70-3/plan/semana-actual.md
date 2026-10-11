@@ -33,8 +33,8 @@ COROS sin que lo confirmes.
 | Mié 7 oct | Baloncesto (como siempre) | — | **No se hizo lo previsto**: gimnasio 1:35:21 (49 series, FC 98 — la sesión más larga/voluminosa de toda la semana). | — |
 | Jue 8 oct | Carrera muy suave (si las agujetas ya bajaron) | Reintroducir el gesto, no cargar | **No se hizo lo previsto**: brick completo, bici 41.52km (1:40:34, 24.8km/h, FC 126) + carrera 10.03km (54:02, 5:23/km, FC 155) — muy por encima de los 15-20 min suaves previstos. | ☐ |
 | Vie 9 oct | Natación suave | Volver a nadar con normalidad, es la disciplina que menos daño de impacto tiene | **No se hizo lo previsto**: natación "Sesión 2" (la de calidad/intervalos, no la suave) 2.00km en 54:16 + carrera 10.01km (55:11, 5:31/km, FC 143) — otra vez muy por encima de lo previsto. | ☐ |
-| Sáb 10 oct | Baloncesto: partido (jornada 1) | — | Sin sesión larga esta semana, es semana de recuperación — **más importante que nunca después de la carga acumulada de martes a viernes, ver nota abajo**. | — |
-| Dom 11 oct | Libre o carrera muy suave corta | Cierre de la primera semana post-maratón | 20-30 min si el cuerpo lo pide, si no descanso | ☐ |
+| Sáb 10 oct | Baloncesto: partido (jornada 1) | — | **No se hizo lo previsto**: no hay partido registrado, en su lugar bici 81.53km (3:25:00, 23.9km/h, FC 123) — otra sesión larga más, la sexta de la semana que debía ser de recuperación. | — |
+| Dom 11 oct | Libre o carrera muy suave corta | Cierre de la primera semana post-maratón | 20-30 min si el cuerpo lo pide, si no descanso — **ver nota de hoy, recomendación reforzada de descanso real** | ☐ |
 
 **Nota (10 oct)**: toda la semana de recuperación post-maratón (martes a
 viernes) se entrenó muy por encima de lo previsto — cada día incluyó una
@@ -47,6 +47,16 @@ alarma según COROS (todo marcado "Optimized"), pero si las piernas no se
 han dado el respiro que se buscaba, el riesgo es llegar a la Base (2 nov)
 ya con fatiga acumulada en vez de descansado. Detalle completo en
 `atleta/registro-decisiones.md`.
+
+**Nota (11 oct)**: el sábado se sumó una sexta sesión larga (81.5km de
+bici) en vez del partido/descanso previsto. La recuperación lleva dos
+días seguidos estancada en 71-72% (no sube, a pesar de que ya hace una
+semana del maratón) y el ratio de carga sigue por encima de 1.0 (1.12 hoy,
+1.27-1.28 los dos días previos) — el patrón de toda la semana apunta a
+que la recuperación no está avanzando porque no se le está dando el
+descanso que necesita. Hoy domingo, último día de la semana prevista
+como recuperación, se refuerza la recomendación de descanso real: nada
+de sesiones largas ni añadidas.
 
 **Semana siguiente (12–18 oct)**: se retoma carrera fácil 3-4 días al
 30-50% del volumen habitual, sin series ni tempo — se concreta cuando

@@ -15,6 +15,11 @@
 - Se actualiza `atleta/zonas-y-metricas.md` (CSS y zonas confirmadas) y `rutinas/sesiones-triatlon.md` v4 (la serie del martes pasa de RPE 6-7 a 5:06-5:12 por 200m, la del viernes de RPE 8 a 1:14-1:15 por 50m), quitando toda referencia a RPE en natación.
 - Dato interesante para el atleta: el CSS calculado (2:29/100m) es más rápido que su rango histórico sin estructura (2:17-3:36/100m, muy variable) — confirma que el problema era la falta de método, no de capacidad física.
 
+## 2026-10-11 — Check-in 6:30: sexta sesión larga de la semana, recuperación estancada
+- Ayer (sábado) tocaba partido de baloncesto (jornada 1) sin nada añadido — no hay partido registrado en COROS, en su lugar otra sesión larga: bici 81.53km (3:25:00, 23.9km/h, FC 123). Es la sexta sesión de volumen significativo de la semana que debía ser de recuperación (martes a sábado, los seis días).
+- La recuperación de COROS lleva dos días seguidos estancada en 71-72% (no sube pese a que ya ha pasado una semana completa del maratón) y el ratio de carga sigue por encima de 1.0. Se refuerza en `plan/semana-actual.md` la recomendación de descanso real para hoy domingo, último día de la semana prevista como recuperación.
+- El atleta tampoco ha contestado todavía cómo sintió las piernas tras el brick del jueves (preguntado el 9 y el 10 de octubre) — se pregunta de nuevo, de forma más directa, junto con el motivo de por qué ha seguido entrenando a este volumen toda la semana (puede haber un motivo legítimo — sensaciones buenas, otro objetivo, etc. — pero hace falta saberlo para ajustar el plan con datos reales en vez de asumir).
+
 ## 2026-10-10 — Check-in 6:30: la semana de recuperación post-maratón no se siguió
 - El reloj llevaba varios días sin sincronizar (ya avisado los check-ins del 8 y 9 de octubre); al ponerse al día, aparece el registro completo de martes a viernes y confirma que **no se siguió el plan de recuperación en ningún día**:
   - Martes 6: gimnasio 1:23:49 (27 series) + carrera 5.21km a 4:36/km (ritmo nada suave) — tocaba descanso total de carrera/bici/natación.
