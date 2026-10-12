@@ -15,6 +15,11 @@
 - Se actualiza `atleta/zonas-y-metricas.md` (CSS y zonas confirmadas) y `rutinas/sesiones-triatlon.md` v4 (la serie del martes pasa de RPE 6-7 a 5:06-5:12 por 200m, la del viernes de RPE 8 a 1:14-1:15 por 50m), quitando toda referencia a RPE en natación.
 - Dato interesante para el atleta: el CSS calculado (2:29/100m) es más rápido que su rango histórico sin estructura (2:17-3:36/100m, muy variable) — confirma que el problema era la falta de método, no de capacidad física.
 
+## 2026-10-12 — Check-in 6:30: el descanso del domingo funcionó, se concreta la semana de reintroducción
+- El domingo 11 sí fue descanso total (sin actividad en COROS) — la recuperación sube de 71-72% a 96% en un solo día, confirmando que el problema de la semana anterior era volumen acumulado, no una señal médica más seria.
+- Se concreta en `plan/semana-actual.md` la semana del 12-18 oct (todavía fase Transición, gimnasio sin cambios): carrera reintroducida en 3-4 sesiones cortas de 20-25 min en zona Recuperación, sin series ni tempo; la natación de calidad del viernes (intervalos) se retoma empezando por 2 rondas.
+- Sigue pendiente la respuesta del atleta sobre sensaciones de piernas y el motivo del volumen alto de la semana anterior — preguntado 3 veces (9, 10, 11 oct) sin respuesta todavía. No bloquea dar el plan de hoy porque las métricas ya están bien, pero se mantiene la pregunta abierta.
+
 ## 2026-10-11 — Check-in 6:30: sexta sesión larga de la semana, recuperación estancada
 - Ayer (sábado) tocaba partido de baloncesto (jornada 1) sin nada añadido — no hay partido registrado en COROS, en su lugar otra sesión larga: bici 81.53km (3:25:00, 23.9km/h, FC 123). Es la sexta sesión de volumen significativo de la semana que debía ser de recuperación (martes a sábado, los seis días).
 - La recuperación de COROS lleva dos días seguidos estancada en 71-72% (no sube pese a que ya ha pasado una semana completa del maratón) y el ratio de carga sigue por encima de 1.0. Se refuerza en `plan/semana-actual.md` la recomendación de descanso real para hoy domingo, último día de la semana prevista como recuperación.

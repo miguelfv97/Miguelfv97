@@ -58,6 +58,20 @@ descanso que necesita. Hoy domingo, último día de la semana prevista
 como recuperación, se refuerza la recomendación de descanso real: nada
 de sesiones largas ni añadidas.
 
-**Semana siguiente (12–18 oct)**: se retoma carrera fácil 3-4 días al
-30-50% del volumen habitual, sin series ni tempo — se concreta cuando
-lleguemos a esa semana y confirmes cómo te encuentras.
+## Semana del 12 al 18 de octubre de 2026 — reintroducción (todavía en fase Transición)
+
+El domingo 11 sí fue descanso total — la recuperación responde: sube de 71-72% a **96%** en un solo día de parar del todo. Confirma que el problema de la semana anterior era volumen, no algo más serio. Seguimos sin saber tus sensaciones de piernas/por qué el volumen alto, así que esta semana se concreta con margen de ajuste si hace falta.
+
+Gimnasio sigue igual que siempre (fase Transición = sin cambios, ver `rutinas/fuerza.md`). La novedad es la carrera: vuelve en **3-4 sesiones cortas y suaves** (no el patrón anterior de tiradas largas + series), repartidas para no concentrar todo en un día.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 12 oct | Gimnasio (tren superior) + baloncesto | Rutina normal de lunes | Ver `rutinas/fuerza.md` — sin carrera hoy | — |
+| Mar 13 oct | Gimnasio (pierna) + natación aeróbica + carrera fácil corta | Rutina normal de martes, más una carrera suave | Natación: sesión aeróbica de `rutinas/sesiones-triatlon.md`. Carrera: 20-25 min en Recuperación (>6:24/km), sin series | ☐ |
+| Mié 14 oct | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera hoy | — |
+| Jue 15 oct | Carrera fácil corta (sin la calidad habitual todavía) + baloncesto | Reintroducir volumen, no calidad | 20-25 min en Recuperación, nada de series — la sesión de calidad de jueves vuelve en Base (2 nov) | ☐ |
+| Vie 16 oct | Natación de calidad (viernes) | Retomar la sesión de intervalos | Ver `rutinas/sesiones-triatlon.md` — empezar con 2 rondas, no 3 | ☐ |
+| Sáb 17 oct | Carrera fácil corta o descanso | Según cómo llegues de la semana | 20-25 min en Recuperación si el cuerpo lo pide | ☐ |
+| Dom 18 oct | Libre | Cierre de la semana | Descanso, salvo que prefieras moverte suave | — |
+
+**Semana siguiente (19–25 oct)**: ya con la carrera reintroducida, se sube progresivamente hacia el volumen de la fase Base (empieza el 2 de noviembre) — se concreta cuando lleguemos ahí.
