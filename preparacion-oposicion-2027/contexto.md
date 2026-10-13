@@ -1024,7 +1024,61 @@ https://www.iespoetajulianandugar.es/el-centro/proyecto-de-centro/).
   Proyectos Europeos" en genérico — no se puede afirmar que participan
   en Erasmus+ por nombre, no está citado así en el documento).
 
+### 2.1 Características del centro — CERRADO (13/10/2026)
+
+Redactado en `Plantilla_Entrega2_0017_Habilidades_Sociales.docx`. Además
+de los datos del PEC ya recogidos arriba, se incorporaron tras
+investigación adicional (a petición expresa de Pepe: "si hay algún punto
+en el que falte información... intentamos sacarlo o descubrirlo"):
+
+- **Erasmus+**: confirmado en la web oficial del centro
+  (iespoetajulianandugar.es/erasmus/, NO en el PEC/PGA) — Carta Erasmus
+  de Educación Superior (ECHE) 2021-2027 y proyecto **KA131**
+  (2023-1-ES01-KA131-HED-000125597) dirigido a movilidad de alumnado y
+  profesorado de **Ciclos Formativos de Grado Superior** (incluye
+  Integración Social), destinos Irlanda/Italia/Noruega. También tiene
+  KA121/KA122 VET (FP Básica/Medio: Portugal, Malta, Alemania) y
+  movilidad escolar ESO/Bachillerato (Alemania, Lituania, Suecia, Italia,
+  Liechtenstein) — estos dos no afectan a Grado Superior.
+- **Plantilla docente real**: Orden de 3 de marzo de 2026, Consejería de
+  Educación y FP CARM, plantilla orgánica y vacantes del concurso de
+  traslados (BORM nº 54, 6/03/2026). El centro tiene 77 puestos
+  ordinarios en 28 especialidades. Figura 1 puesto de "Servicios a la
+  Comunidad" (código 0590225); **ninguno** bajo "Intervención
+  Sociocomunitaria".
+- **Hallazgo importante — especialidades distintas**: "Servicios a la
+  Comunidad" e "Intervención Sociocomunitaria" son especialidades
+  DISTINTAS y coexistentes dentro del Cuerpo de Profesores de Enseñanza
+  Secundaria (no es un cambio de nombre de la misma). Fuente: RD
+  276/2007 (BOE-A-2007-4372), Anexo V, arts. 21.2.B y 61.B.2 texto
+  consolidado — "Servicios a la Comunidad" perteneció al extinto cuerpo
+  de PTFP y se integró en el PES tras la LOMLOE, manteniendo su nombre;
+  "Intervención Sociocomunitaria" ya existía como especialidad propia y
+  separada del PES. Confirmado también con convocatorias de interinidad
+  CARM independientes para cada una (Orden 28/02/2024 "Servicios a la
+  Comunidad" y Orden 04/10/2024 "Intervención Sociocomunitaria/Inglés",
+  cada una con titulaciones de acceso distintas) y con la Resolución de
+  29/12/2025 (BOE 31/12/2025) de la convocatoria estatal de ingreso, que
+  trata ambas como especialidades separadas.
+- **Pepe confirma directamente** (no es fuente documental pública) que
+  sí hay profesorado de Intervención Sociocomunitaria en el centro,
+  tanto funcionariado de carrera como interino, pero sin cifra exacta
+  verificable.
+- **Instalaciones/recursos materiales del centro**: NO se ha encontrado
+  inventario en PEC ni PGA. Se decidió explícitamente NO usar el Anexo
+  II del RD 1074/2012 ("Aula polivalente" y "Taller de intervención
+  social", sin equipamiento detallado) como sustituto de datos reales
+  del centro — instrucción expresa de Pepe: "no debo incluir nada en la
+  programación que no sepa con seguridad". Queda marcado como pendiente.
+- **Quedan en rojo (flag) en el documento**: ratio del grupo de
+  Integración Social; número exacto de docentes de Intervención
+  Sociocomunitaria y del departamento; instalaciones/recursos del
+  centro.
+
 ### Pendiente de esta entrega
 
-- Redactar 2.1, 2.2 y 2.3 (Contextualización) con el material del PEC
-  de arriba, y todo el punto 3 (Perfil profesional y curricular).
+- Redactar 2.2 (alumnado y familias, ~2-3 páginas para el punto 2
+  completo según indicación de la preparadora) y 2.3, y todo el punto 3
+  (Perfil profesional y curricular).
+- Pepe iba a pasar aclaraciones de la preparadora sobre el 2.2 que
+  quedaron pendientes de enviar — pedir antes de redactar.
