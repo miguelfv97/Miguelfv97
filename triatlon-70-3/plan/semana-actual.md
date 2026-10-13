@@ -66,7 +66,7 @@ Gimnasio sigue igual que siempre (fase Transición = sin cambios, ver `rutinas/f
 
 | Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
 |---|---|---|---|---|
-| Lun 12 oct | Gimnasio (tren superior) + baloncesto | Rutina normal de lunes | Ver `rutinas/fuerza.md` — sin carrera hoy | — |
+| Lun 12 oct | Gimnasio (tren superior) + baloncesto | Rutina normal de lunes | **Más de lo previsto**: gimnasio 38:12 (18 series, normal) + carrera larga completa 20.15km (1:54:37, 5:41/km) — la tirada larga habitual, no el "sin carrera" de esta semana de reintroducción. | — |
 | Mar 13 oct | Gimnasio (pierna) + natación aeróbica + carrera fácil corta | Rutina normal de martes, más una carrera suave | Natación: sesión aeróbica de `rutinas/sesiones-triatlon.md`. Carrera: 20-25 min en Recuperación (>6:24/km), sin series | ☐ |
 | Mié 14 oct | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera hoy | — |
 | Jue 15 oct | Carrera fácil corta (sin la calidad habitual todavía) + baloncesto | Reintroducir volumen, no calidad | 20-25 min en Recuperación, nada de series — la sesión de calidad de jueves vuelve en Base (2 nov) | ☐ |

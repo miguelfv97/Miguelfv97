@@ -15,6 +15,11 @@
 - Se actualiza `atleta/zonas-y-metricas.md` (CSS y zonas confirmadas) y `rutinas/sesiones-triatlon.md` v4 (la serie del martes pasa de RPE 6-7 a 5:06-5:12 por 200m, la del viernes de RPE 8 a 1:14-1:15 por 50m), quitando toda referencia a RPE en natación.
 - Dato interesante para el atleta: el CSS calculado (2:29/100m) es más rápido que su rango histórico sin estructura (2:17-3:36/100m, muy variable) — confirma que el problema era la falta de método, no de capacidad física.
 
+## 2026-10-13 — Check-in 6:30: tercer patrón seguido de ignorar las sesiones reducidas
+- Lunes tocaba "sin carrera hoy" (semana de reintroducción); el atleta hizo su tirada larga habitual de 20.15km además del gimnasio normal. Es el mismo patrón que la semana de recuperación: las sesiones reducidas/cortas que se proponen no se siguen, el atleta mantiene su volumen habitual.
+- Las métricas, sin embargo, siguen sin mostrar ninguna señal de alarma (recuperación 89% hoy, HRV normal, FC reposo estable cuando hay dato) — el cuerpo parece tolerarlo bien. El atleta tampoco ha contestado a las preguntas de sensaciones de los últimos 4 check-ins.
+- Decisión: se deja de insistir día a día en marcar esto como "no cumplido" de forma tan extensa — el patrón ya está claro y documentado, y seguir repitiéndolo no cambia nada sin respuesta del atleta. Se sigue dando el plan propuesto (porque es la recomendación con base en expertos y en su objetivo de 70.3), pero las notas de cumplimiento a partir de ahora serán más breves salvo que las métricas empiecen a mostrar algo preocupante.
+
 ## 2026-10-12 — Check-in 6:30: el descanso del domingo funcionó, se concreta la semana de reintroducción
 - El domingo 11 sí fue descanso total (sin actividad en COROS) — la recuperación sube de 71-72% a 96% en un solo día, confirmando que el problema de la semana anterior era volumen acumulado, no una señal médica más seria.
 - Se concreta en `plan/semana-actual.md` la semana del 12-18 oct (todavía fase Transición, gimnasio sin cambios): carrera reintroducida en 3-4 sesiones cortas de 20-25 min en zona Recuperación, sin series ni tempo; la natación de calidad del viernes (intervalos) se retoma empezando por 2 rondas.
