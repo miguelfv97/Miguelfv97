@@ -1075,10 +1075,95 @@ en el que falte información... intentamos sacarlo o descubrirlo"):
   Sociocomunitaria y del departamento; instalaciones/recursos del
   centro.
 
+### CAMBIO DE CENTRO — de IES Poeta Julián Andúgar a IES Villa de Abarán (15/10/2026)
+
+**Motivo**: indicación de la preparadora de que la PD debe ajustarse lo
+máximo posible a la realidad, confirmando datos (como el modelo
+estándar/concentrado) con alguien del propio centro. Pepe consideró
+primero un contacto en el IES Francisco Salzillo (Alcantarilla), pero
+finalmente optó por un excompañero suyo que es **docente de IS en el
+IES Villa de Abarán** — mejor fuente posible, al ser de la propia
+especialidad.
+
+Todo lo anterior sobre el **IES Poeta Julián Andúgar queda como
+histórico/descartado** (igual que el módulo 0018 en su momento). El 2.1
+ya no se basa en ese centro.
+
+**IES Villa de Abarán (Abarán)** — código de centro 30013441, C/
+Constantino Gómez Cano nº 1, 30550 Abarán, tel. 968771026.
+
+Fuente principal: PEC + PGA combinados del curso 2025-2026 (167
+páginas), descargados vía Google Drive que facilitó el excompañero de
+Pepe (enlace:
+https://drive.google.com/file/d/1J5ixeFMH-JWORmUHMd3SeGXZRxuaKiJI/view).
+También Plan de Convivencia del centro (revisado nov. 2025), subido
+directamente por Pepe.
+
+**Datos verificados e incorporados al 2.1 (CERRADO salvo flags)**:
+- Oferta educativa: ESO, Bachillerato (Ciencias y Tecnología / Humanidades
+  y CC. Sociales), FP Básica (Electricidad y Electrónica, Administrativo),
+  CFGM (Gestión Administrativa, Atención a Personas en Situación de
+  Dependencia), **CFGS (Administración y Finanzas, Acondicionamiento
+  Físico, Integración Social)**, PFP modalidad especial (Actividades
+  Auxiliares de Almacén).
+- Matrícula: 914 alumnos/as (157 inmigrantes, 17% — mayoría marroquí,
+  también hondureña). 822 turno mañana (495 ESO + 164 Bachillerato), 92
+  turno vespertino. Edades 12-22 (FP GS a veces supera este rango).
+  Alumnado de ESO viene de 5 CEIP públicos de la localidad; los ciclos de
+  Grado Superior reciben alumnado de fuera de la localidad (comarca del
+  Valle de Ricote y Cieza).
+- Alumnado inmigrante: 157 total, 120 ESO / 4 Bach / 33 ciclos. Aula de
+  Acogida desde enero 2022, 24 alumnos este curso en dos niveles.
+- Plantilla: 99 docentes (12 a tiempo parcial) + 12 no docentes (según
+  PGA). Plantilla orgánica oficial (misma Orden de 3/03/2026 BORM núm.
+  54 usada para el centro anterior): 69 puestos ordinarios en 25
+  especialidades, de los cuales **1 puesto de Intervención
+  Sociocomunitaria (código 0590108)** — SÍ aparece esta vez, a diferencia
+  del Poeta Julián Andúgar — y 2 de Servicios a la Comunidad (código
+  0590225).
+- Contexto socioeconómico: agricultura y almacenes de manipulación de
+  fruta/verdura, empleo muy estacional (abril-julio), alta tasa de
+  empleo femenino en almacenes → parte del alumnado pasa muchas horas
+  solo en casa (dato literal del PEC, relevante para 2.2/familias).
+- **Modelo estándar confirmado por partida doble**: lo dijo el
+  excompañero de Pepe, y además se confirma objetivamente en la propia
+  tabla de plan de estudios de 2º IS de la PGA: FCT = 160h en 1º + 340h
+  en 2º (si fuera concentrado saldría 0h+500h). Ya relleno en la tabla
+  del 1.1.
+- Erasmus+: 3 proyectos de acreditación — KA121-SCH (ESO/Bach),
+  KA121-VET (FP Básica/Medio) y **KA131-HED (Carta ECHE)**, este último
+  descrito literalmente en la PGA como dirigido a "la formación del
+  profesorado de ciclos superiores y la realización de prácticas de
+  empresa del alumnado en el extranjero" — aplica a Integración Social.
+- **Hallazgo clave del Plan de Convivencia** (pág. 8): el Profesor de
+  Servicios a la Comunidad "elaborará cursos o talleres de habilidades
+  sociales como medida correctiva según establece este Plan de
+  Convivencia" — vínculo institucional real y literal entre el módulo y
+  el centro, usado en el 2.1 como justificación de pertinencia.
+- La confirmación del módulo 0017 con 5h en 2º de IS también aparece
+  reflejada en la tabla de plan de estudios de la propia PGA (consistente
+  con lo que ya teníamos).
+
+**Quedan en rojo (flag), pendientes de la respuesta del excompañero de
+Pepe**:
+- Número real de docentes del departamento (Intervención
+  Sociocomunitaria + Servicios a la Comunidad) este curso, incluyendo
+  interinos — la plantilla orgánica oficial (1+2) es solo del concurso
+  de traslados y puede no reflejar el total real.
+- % de profesorado definitivo/interino del departamento.
+- Instalaciones y recursos materiales específicos para el módulo (aula o
+  taller concreto) — ni el PEC ni la PGA los detallan.
+- (Opcional) Ratio real del grupo de 2º de IS este curso, para contrastar
+  con el perfil de 18 alumnos/as construido en el 2.2.
+
 ### Pendiente de esta entrega
 
-- Redactar 2.2 (alumnado y familias, ~2-3 páginas para el punto 2
-  completo según indicación de la preparadora) y 2.3, y todo el punto 3
-  (Perfil profesional y curricular).
-- Pepe iba a pasar aclaraciones de la preparadora sobre el 2.2 que
-  quedaron pendientes de enviar — pedir antes de redactar.
+- Esperar respuesta del excompañero de Pepe sobre los puntos anteriores
+  y actualizar el 2.1 cuando lleguen.
+- Redactar 2.3, y todo el punto 3 (Perfil profesional y curricular).
+- El 2.2 (alumnado y familias) ya está cerrado con el perfil de grupo
+  construido conjuntamente (18 alumnos/as, 13 mujeres/5 hombres, 18-22
+  años, etc.) — no depende del cambio de centro, solo se revisó la frase
+  que conecta con "el contexto sociocultural del municipio descrito en
+  el apartado anterior", que sigue siendo válida sin cambios al no
+  nombrar explícitamente la localidad anterior.
