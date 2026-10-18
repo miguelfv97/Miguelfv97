@@ -1245,8 +1245,10 @@ pidió mantener):
 - **Entidades del tercer sector**: Cáritas, Cruz Roja, ADFA (Asociación
   de Disminuidos Físicos de Abarán — la de mayor afinidad con el perfil
   TIS, confirmada también como centro de prácticas real de otras
-  titulaciones), Asociación Hogar del Pensionista, Asociación Amas de
-  Casa.
+  titulaciones). **CORRECCIÓN**: se retiraron Asociación Hogar del
+  Pensionista y Asociación de Amas de Casa — Pepe indica que nunca ha
+  mandado alumnado de prácticas a centros de ese tipo y no hay ningún
+  dato que confirme que el IES Villa de Abarán lo haga.
 - Descartado explícitamente: "AFEMCE" (está en Cieza, no en Abarán) y
   "AFAME" (no se pudo verificar que exista).
 - Dato demográfico de apoyo: Abarán 13.504 habitantes, 1 de cada 5 mayor
