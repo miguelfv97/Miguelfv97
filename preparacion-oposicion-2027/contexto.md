@@ -1172,20 +1172,21 @@ ejemplo de la guía de la preparadora). Verificado visualmente en el PDF
 del BOE (RD 289/2023, pág. 60052). Corregido en las dos menciones del
 documento (tabla 1.1 y párrafo del 1.2). Commit `3ddffd4`.
 
-### Punto 3 — Perfil profesional y curricular — BORRADOR, NO CERRADO (18/10/2026)
+### Punto 3 — Perfil profesional y curricular — CERRADO (18/10/2026)
 
-**IMPORTANTE**: Pepe señaló que redacté este punto sin pasar por el
-proceso habitual (leer las indicaciones exactas de la guía y preguntarle
-antes de redactar), a diferencia de todos los puntos anteriores. El
-contenido de abajo es un borrador verificado en el BOE, pero quedan
-DOS preguntas abiertas sin responder por Pepe:
-1. ¿Poner las 6 competencias del 3.2 en tabla (como insinúa la guía:
-   "Incluir tabla si se quiere") en vez de en lista?
-2. Para el 3.3, ¿investigar si el módulo 0017 tiene una unidad de
-   competencia (UC) concreta asociada (como el ejemplo de la guía con
-   UC2260_2 para el módulo 0213), o mantener el listado completo de las
-   6 cualificaciones del título tal como está?
-No dar el punto 3 por cerrado hasta tener respuesta.
+Las dos preguntas pendientes ya están respondidas por Pepe:
+1. **3.2 en tabla**: hecho — tabla de 2 columnas (Letra / Competencia),
+   sustituyendo la lista anterior.
+2. **3.3, UC del módulo 0017**: investigado y confirmado — el Anexo V B)
+   del RD 1074/2012 (no modificado por el RD 289/2023) NO incluye el
+   módulo 0017 entre los módulos con unidad de competencia acreditable
+   (sí lo están los módulos 0337 a 0344). Es un módulo transversal, sin
+   UC asociada — se ha dejado explícito en el documento, citando el
+   Anexo V B) y el art. 16 del RD 1074/2012 como fuente.
+
+Nota de proceso: Pepe señaló en su momento que redacté este punto sin
+pasar primero por el proceso habitual de preguntar antes de redactar —
+corregido con estas dos preguntas antes de cerrarlo definitivamente.
 
 Redactado completo y verificado directamente en el BOE (sin usar la
 guía de la preparadora como fuente del texto literal, solo como
