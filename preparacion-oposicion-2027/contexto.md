@@ -1172,7 +1172,20 @@ ejemplo de la guía de la preparadora). Verificado visualmente en el PDF
 del BOE (RD 289/2023, pág. 60052). Corregido en las dos menciones del
 documento (tabla 1.1 y párrafo del 1.2). Commit `3ddffd4`.
 
-### Punto 3 — Perfil profesional y curricular — CERRADO (18/10/2026)
+### Punto 3 — Perfil profesional y curricular — BORRADOR, NO CERRADO (18/10/2026)
+
+**IMPORTANTE**: Pepe señaló que redacté este punto sin pasar por el
+proceso habitual (leer las indicaciones exactas de la guía y preguntarle
+antes de redactar), a diferencia de todos los puntos anteriores. El
+contenido de abajo es un borrador verificado en el BOE, pero quedan
+DOS preguntas abiertas sin responder por Pepe:
+1. ¿Poner las 6 competencias del 3.2 en tabla (como insinúa la guía:
+   "Incluir tabla si se quiere") en vez de en lista?
+2. Para el 3.3, ¿investigar si el módulo 0017 tiene una unidad de
+   competencia (UC) concreta asociada (como el ejemplo de la guía con
+   UC2260_2 para el módulo 0213), o mantener el listado completo de las
+   6 cualificaciones del título tal como está?
+No dar el punto 3 por cerrado hasta tener respuesta.
 
 Redactado completo y verificado directamente en el BOE (sin usar la
 guía de la preparadora como fuente del texto literal, solo como
@@ -1214,14 +1227,43 @@ Fuentes descargadas y verificadas: RD 1074/2012 original (BOE-A-2012-10866),
 RD 289/2023 (BOE-A-2023-10395), RD 659/2023 (BOE-A-2023-16889, ojo:
 **no** es BOE-A-2023-16968, que es una orden distinta).
 
+### 2.3 Características e incorporación del ciclo en el entorno productivo — CERRADO (18/10/2026)
+
+Investigación propuesta por Pepe y confirmada por él tras revisar las
+opciones. Fuente: ficha oficial del proyecto municipal "Atención
+Integral a Personas Mayores en Situación de Vulnerabilidad" del
+Ayuntamiento de Abarán (financiado por fondos PRTR/UE, Concejalía de
+Política Social) — guardada en
+`materiales/Proyecto_Mayores_Vulnerables_Abaran.pdf`.
+
+Contenido usado (solo lo que Pepe confirmó, de las dos categorías que
+pidió mantener):
+- **Servicios públicos ya confirmados**: Servicio de Ayuda a Domicilio y
+  Centro de Día municipal para personas con discapacidad intelectual en
+  situación de dependencia, ambos mediante convenio Ayuntamiento de
+  Abarán-IMAS.
+- **Entidades del tercer sector**: Cáritas, Cruz Roja, ADFA (Asociación
+  de Disminuidos Físicos de Abarán — la de mayor afinidad con el perfil
+  TIS, confirmada también como centro de prácticas real de otras
+  titulaciones), Asociación Hogar del Pensionista, Asociación Amas de
+  Casa.
+- Descartado explícitamente: "AFEMCE" (está en Cieza, no en Abarán) y
+  "AFAME" (no se pudo verificar que exista).
+- Dato demográfico de apoyo: Abarán 13.504 habitantes, 1 de cada 5 mayor
+  de 65 años (Padrón, oct. 2021).
+- Flag en rojo: no se ha confirmado que el centro tenga colaboración
+  directa con estas entidades — son recursos reales del territorio, no
+  colaboradores confirmados del centro.
+
 ### Pendiente de esta entrega
 
+- **Punto 3 no está cerrado** — ver aviso arriba, pendiente de las 2
+  respuestas de Pepe (formato tabla 3.2, investigar UC concreta del
+  módulo 0017 para el 3.3).
 - Esperar respuesta del excompañero de Pepe sobre los puntos pendientes
   del 2.1 (número de docentes del departamento, % definitivo/interino,
   instalaciones) y actualizar cuando lleguen.
-- Redactar 2.3 (Características e incorporación del ciclo formativo en
-  el entorno productivo del centro / proyectos de aprendizaje por
-  servicio) — único punto de la entrega que queda sin redactar.
-- El 2.2 (alumnado y familias) ya está cerrado con el perfil de grupo
-  construido conjuntamente (18 alumnos/as, 13 mujeres/5 hombres, 18-22
-  años, etc.) — no depende del cambio de centro.
+- Con el 2.3 cerrado, toda la Contextualización (2.1-2.3) está redactada
+  salvo los flags pendientes del 2.1.
+- El 2.2 (alumnado y familias) sigue cerrado, no depende del cambio de
+  centro.
