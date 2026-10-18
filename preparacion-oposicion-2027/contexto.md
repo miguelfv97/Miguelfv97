@@ -1115,12 +1115,18 @@ directamente por Pepe.
 - Alumnado inmigrante: 157 total, 120 ESO / 4 Bach / 33 ciclos. Aula de
   Acogida desde enero 2022, 24 alumnos este curso en dos niveles.
 - Plantilla: 99 docentes (12 a tiempo parcial) + 12 no docentes (según
-  PGA). Plantilla orgánica oficial (misma Orden de 3/03/2026 BORM núm.
-  54 usada para el centro anterior): 69 puestos ordinarios en 25
-  especialidades, de los cuales **1 puesto de Intervención
-  Sociocomunitaria (código 0590108)** — SÍ aparece esta vez, a diferencia
-  del Poeta Julián Andúgar — y 2 de Servicios a la Comunidad (código
-  0590225).
+  PGA) — este dato se mantiene.
+- **CORRECCIÓN (18/10/2026)**: la plantilla orgánica oficial (Orden de
+  3/03/2026, BORM núm. 54) daba 69 puestos ordinarios en 25
+  especialidades, con 1 puesto de Intervención Sociocomunitaria (código
+  0590108) y 2 de Servicios a la Comunidad (código 0590225) — **Pepe ha
+  confirmado con su excompañero (docente de IS en el propio centro) que
+  estas cifras NO son oficiales ni reales**, así que se han retirado del
+  2.1. El número de docentes del departamento queda sin ninguna cifra,
+  completamente en rojo, pendiente de que el excompañero lo confirme.
+  Lección: la plantilla orgánica del concurso de traslados no es fiable
+  como fuente del número real de docentes de un departamento — no
+  volver a usarla para esto sin contrastarla.
 - Contexto socioeconómico: agricultura y almacenes de manipulación de
   fruta/verdura, empleo muy estacional (abril-julio), alta tasa de
   empleo femenino en almacenes → parte del alumnado pasa muchas horas
@@ -1147,9 +1153,9 @@ directamente por Pepe.
 **Quedan en rojo (flag), pendientes de la respuesta del excompañero de
 Pepe**:
 - Número real de docentes del departamento (Intervención
-  Sociocomunitaria + Servicios a la Comunidad) este curso, incluyendo
-  interinos — la plantilla orgánica oficial (1+2) es solo del concurso
-  de traslados y puede no reflejar el total real.
+  Sociocomunitaria + Servicios a la Comunidad) este curso — sin ninguna
+  cifra de referencia por ahora (ver corrección arriba: la plantilla
+  orgánica del BORM no es válida para esto).
 - % de profesorado definitivo/interino del departamento.
 - Instalaciones y recursos materiales específicos para el módulo (aula o
   taller concreto) — ni el PEC ni la PGA los detallan.
