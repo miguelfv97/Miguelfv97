@@ -70,8 +70,8 @@ Gimnasio sigue igual que siempre (fase Transición = sin cambios, ver `rutinas/f
 | Mar 13 oct | Gimnasio (pierna) + natación aeróbica + carrera fácil corta | Rutina normal de martes, más una carrera suave | Natación: sesión aeróbica de `rutinas/sesiones-triatlon.md`. Carrera: 20-25 min en Recuperación (>6:24/km), sin series | ☐ |
 | Mié 14 oct | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera hoy | — |
 | Jue 15 oct | Carrera fácil corta (sin la calidad habitual todavía) + baloncesto | Reintroducir volumen, no calidad | 20-25 min en Recuperación, nada de series — la sesión de calidad de jueves vuelve en Base (2 nov) | ☐ |
-| Vie 16 oct | Natación de calidad (viernes) | Retomar la sesión de intervalos | Ver `rutinas/sesiones-triatlon.md` — empezar con 2 rondas, no 3 | ☐ |
-| Sáb 17 oct | Carrera fácil corta o descanso | Según cómo llegues de la semana | 20-25 min en Recuperación si el cuerpo lo pide | ☐ |
+| Vie 16 oct | Natación de calidad (viernes) | Retomar la sesión de intervalos | **Cumplido**: 2.00km (53:01, FC 137) — igual o más volumen del mínimo pedido (2 rondas). | ☐ |
+| Sáb 17 oct | Carrera fácil corta o descanso | Según cómo llegues de la semana | **Más de lo previsto**: bici 80.75km (3:25:26, 23.6km/h) en vez de carrera corta/descanso — mismo patrón de sustituir sesiones cortas por largas. | ☐ |
 | Dom 18 oct | Libre | Cierre de la semana | Descanso, salvo que prefieras moverte suave | — |
 
 **Semana siguiente (19–25 oct)**: ya con la carrera reintroducida, se sube progresivamente hacia el volumen de la fase Base (empieza el 2 de noviembre) — se concreta cuando lleguemos ahí.
