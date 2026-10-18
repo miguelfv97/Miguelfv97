@@ -1249,8 +1249,21 @@ pidió mantener):
   Pensionista y Asociación de Amas de Casa — Pepe indica que nunca ha
   mandado alumnado de prácticas a centros de ese tipo y no hay ningún
   dato que confirme que el IES Villa de Abarán lo haga.
-- Descartado explícitamente: "AFEMCE" (está en Cieza, no en Abarán) y
-  "AFAME" (no se pudo verificar que exista).
+- Se añadió finalmente **AFEMCE** (Asociación de Familiares y Personas con
+  Enfermedad Mental de Cieza y Comarca, federada en Salud Mental Región de
+  Murcia, activa desde 1998) — Pepe pidió incluirla tras verificar que es
+  real y que el centro recibe alumnado de Cieza. Se descartó "AFAME" (no
+  se pudo verificar que exista) y la Fundación Hospital de Cieza (único
+  dato encontrado era un convenio de 2008, sin confirmar vigencia actual).
+- Se retiró también del cierre del 2.3 cualquier referencia a "Hogar del
+  Pensionista" y "Amas de Casa" (ver corrección anterior).
+- Se añadió un párrafo de cierre en el 2.3 (indicación de la preparadora,
+  con una corrección de terminología: ella dijo "minuciosa y
+  contenciosa", Pepe confirmó que era un error y se sustituyó por
+  "minuciosa y concienzuda") sobre la necesidad de elaborar la
+  programación con cuidado dado que, a través de la FP dualizada, el
+  alumnado entra en contacto directo con las personas vulnerables
+  atendidas por estas entidades.
 - Dato demográfico de apoyo: Abarán 13.504 habitantes, 1 de cada 5 mayor
   de 65 años (Padrón, oct. 2021).
 - Flag en rojo: no se ha confirmado que el centro tenga colaboración
