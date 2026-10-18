@@ -1162,14 +1162,66 @@ Pepe**:
 - (Opcional) Ratio real del grupo de 2º de IS este curso, para contrastar
   con el perfil de 18 alumnos/as construido en el 2.2.
 
+### CORRECCIÓN 1.1 — CINE-5b → CINE-P-5.5.4 (18/10/2026)
+
+Verificando el art. 4 (competencia general) para el punto 3, se comprobó
+también el art. 2 (Identificación) del RD 1074/2012 en su redacción
+dada por el RD 289/2023 (art. segundo, Uno): la referencia CINE oficial
+es **"CINE-P-5.5.4"**, no "CINE-5b" (que era lo que teníamos, tomado del
+ejemplo de la guía de la preparadora). Verificado visualmente en el PDF
+del BOE (RD 289/2023, pág. 60052). Corregido en las dos menciones del
+documento (tabla 1.1 y párrafo del 1.2). Commit `3ddffd4`.
+
+### Punto 3 — Perfil profesional y curricular — CERRADO (18/10/2026)
+
+Redactado completo y verificado directamente en el BOE (sin usar la
+guía de la preparadora como fuente del texto literal, solo como
+estructura/índice):
+
+- **3.1 Competencia general**: texto vigente verificado (RD 1074/2012
+  art. 4, redactado por RD 289/2023 art. segundo.Dos). **Importante**:
+  el texto cambió con la reforma de 2023 respecto al de 2012 que usa la
+  guía de la preparadora como ejemplo (ya no dice "implementar", añade
+  "equidad... e inclusión" y la coletilla final "con el fin de mejorar
+  su situación personal, familiar y/o social"). Se ha usado el texto
+  vigente, no el de la guía.
+- **3.2 Competencias profesionales y para la empleabilidad**: basadas en
+  el art. 5 del RD 1074/2012 (no modificado por el RD 289/2023, sigue
+  vigente el texto de 2012). Se han seleccionado solo las 6 competencias
+  (m, o, q, r, s, u) que el propio RD 289/2023 indica expresamente, en
+  las orientaciones pedagógicas del módulo 0017 (redactadas de nuevo en
+  2023), que este módulo contribuye a alcanzar — no las 23 completas.
+  **Nota de precaución**: la guía de la preparadora atribuye al art. 83
+  del RD 659/2023 una definición textual concreta ("describen el
+  conjunto de conocimientos, destrezas y competencia... que permiten
+  responder a los requerimientos del sector productivo...") que **no
+  aparece literalmente en ese artículo** — el art. 83 solo es la base
+  legal que dice que el "perfil profesional" debe incluir competencia
+  general + competencias profesionales y para la empleabilidad, sin dar
+  esa definición conceptual. No se ha usado esa frase como cita literal
+  en el documento, solo la referencia estructural correcta.
+- **3.3 Cualificaciones profesionales y unidades de competencia**:
+  listado completo y literal del art. 6 del RD 1074/2012 (redactado por
+  RD 289/2023 art. segundo.Tres) — 4 cualificaciones completas
+  (Educación de habilidades de autonomía personal y social SSC090_3,
+  Mediación comunitaria SSC324_3, Inserción laboral de personas con
+  discapacidad SSC323_3, Promoción e intervención socioeducativa con
+  personas con discapacidad SSC450_3) y 2 incompletas (Atención ACNEE en
+  centros educativos SSC444_3, Dinamización comunitaria SSC321_3), con
+  todas sus unidades de competencia.
+
+Fuentes descargadas y verificadas: RD 1074/2012 original (BOE-A-2012-10866),
+RD 289/2023 (BOE-A-2023-10395), RD 659/2023 (BOE-A-2023-16889, ojo:
+**no** es BOE-A-2023-16968, que es una orden distinta).
+
 ### Pendiente de esta entrega
 
-- Esperar respuesta del excompañero de Pepe sobre los puntos anteriores
-  y actualizar el 2.1 cuando lleguen.
-- Redactar 2.3, y todo el punto 3 (Perfil profesional y curricular).
+- Esperar respuesta del excompañero de Pepe sobre los puntos pendientes
+  del 2.1 (número de docentes del departamento, % definitivo/interino,
+  instalaciones) y actualizar cuando lleguen.
+- Redactar 2.3 (Características e incorporación del ciclo formativo en
+  el entorno productivo del centro / proyectos de aprendizaje por
+  servicio) — único punto de la entrega que queda sin redactar.
 - El 2.2 (alumnado y familias) ya está cerrado con el perfil de grupo
   construido conjuntamente (18 alumnos/as, 13 mujeres/5 hombres, 18-22
-  años, etc.) — no depende del cambio de centro, solo se revisó la frase
-  que conecta con "el contexto sociocultural del municipio descrito en
-  el apartado anterior", que sigue siendo válida sin cambios al no
-  nombrar explícitamente la localidad anterior.
+  años, etc.) — no depende del cambio de centro.
