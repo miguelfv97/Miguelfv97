@@ -1284,6 +1284,23 @@ pidió mantener):
   % definitivo/interino, instalaciones del centro) y actualizar cuando
   lleguen.
 
+### SEGUNDA ENTREGA — CONFIRMADA ENTREGADA POR PEPE (19/10/2026)
+
+Pepe ha confirmado explícitamente: **"se queda entregada esta parte"**.
+Los puntos 1 (Introducción y justificación), 2 (Contextualización) y 3
+(Perfil profesional y curricular) quedan cerrados y entregados tal como
+están en `Plantilla_Entrega2_0017_Habilidades_Sociales.docx`.
+
+Excepción explícita: los dos flags en rojo del 2.1 (número de docentes
+del departamento/especialidad, e instalaciones del centro) siguen
+pendientes de la respuesta del excompañero de Pepe en el Villa de
+Abarán — se actualizarán como una revisión posterior a esta entrega
+cuando lleguen, no bloquean la entrega ya confirmada.
+
+Próximo bloque de trabajo (aún sin empezar, fuera del índice de esta
+entrega): diseño de las Unidades de Trabajo (UT), incluyendo la tabla
+competencias-UT pedida por Pepe (ver tarea futura abajo).
+
 ### TAREA FUTURA (anotada 19/10/2026, no ejecutar todavía)
 
 Pepe ha pedido que, **más adelante, cuando se trabajen las Unidades de
