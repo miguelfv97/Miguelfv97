@@ -1273,13 +1273,22 @@ pidió mantener):
 
 ### Pendiente de esta entrega
 
-- **Punto 3 no está cerrado** — ver aviso arriba, pendiente de las 2
-  respuestas de Pepe (formato tabla 3.2, investigar UC concreta del
-  módulo 0017 para el 3.3).
-- Esperar respuesta del excompañero de Pepe sobre los puntos pendientes
-  del 2.1 (número de docentes del departamento, % definitivo/interino,
-  instalaciones) y actualizar cuando lleguen.
-- Con el 2.3 cerrado, toda la Contextualización (2.1-2.3) está redactada
-  salvo los flags pendientes del 2.1.
-- El 2.2 (alumnado y familias) sigue cerrado, no depende del cambio de
-  centro.
+- **Segunda entrega completa (puntos 1, 2 y 3) redactada** (19/10/2026).
+  Punto 3 cerrado tras resolver las 2 preguntas pendientes (tabla en el
+  3.2, UC del módulo 0017 en el 3.3 — ver más arriba) y añadir la
+  introducción genérica antes del 3.1 que Pepe pidió (sobre
+  competencias/"saber hacer"/proceso de enseñanza-aprendizaje, tomada de
+  la guía de la preparadora).
+- Único punto abierto de esta entrega: esperar respuesta del excompañero
+  de Pepe sobre el 2.1 (número de docentes del departamento,
+  % definitivo/interino, instalaciones del centro) y actualizar cuando
+  lleguen.
+
+### TAREA FUTURA (anotada 19/10/2026, no ejecutar todavía)
+
+Pepe ha pedido que, **más adelante, cuando se trabajen las Unidades de
+Trabajo (UT)**, se cree una tabla que relacione las 6 competencias
+profesionales y para la empleabilidad del 3.2 (m, o, q, r, s, u) con las
+distintas UT del módulo. No hacer esto ahora — es para una fase
+posterior de la programación (diseño de las UT), que todavía no se ha
+abordado en esta entrega.
