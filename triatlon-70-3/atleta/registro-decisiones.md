@@ -15,6 +15,12 @@
 - Se actualiza `atleta/zonas-y-metricas.md` (CSS y zonas confirmadas) y `rutinas/sesiones-triatlon.md` v4 (la serie del martes pasa de RPE 6-7 a 5:06-5:12 por 200m, la del viernes de RPE 8 a 1:14-1:15 por 50m), quitando toda referencia a RPE en natación.
 - Dato interesante para el atleta: el CSS calculado (2:29/100m) es más rápido que su rango histórico sin estructura (2:17-3:36/100m, muy variable) — confirma que el problema era la falta de método, no de capacidad física.
 
+## 2026-10-19 — Check-in 6:30: se concreta la semana del 19-25 oct, aflora el conflicto del 24 de octubre
+- El contenedor de esta sesión arrancó con un checkout local desincronizado del repo (una rama con el mismo nombre pero historial de commits completamente distinto, sin ninguno de los ficheros del proyecto) — se corrige con `git reset --hard origin/claude/ironman-training-analysis-vr7mdh` antes de continuar. Ningún trabajo se perdió, todo seguía bien en remoto.
+- Ayer (domingo) volvió a haber carrera larga (20.07km) en vez de descanso — mismo patrón, anotado sin extenderse más.
+- Se concreta la semana 19-25 oct en `plan/semana-actual.md`: según `plan-maestro.md`, esta semana ya toca "progresión gradual de vuelta a volumen normal" (sin series/tempo todavía) — se ajusta el plan escrito para dejar de marcar como "no cumplido" algo que el propio plan maestro ya preveía para esta altura del calendario.
+- Aflora el conflicto ya anotado en `plan-maestro.md`: sábado 24 de octubre, social ride (70km) choca con el partido de baloncesto (jornada 3 confirmada, 17:00). Se deja como pendiente de decisión del atleta, con las 3 opciones ya planteadas en plan-maestro.md.
+
 ## 2026-10-13 — Check-in 6:30: tercer patrón seguido de ignorar las sesiones reducidas
 - Lunes tocaba "sin carrera hoy" (semana de reintroducción); el atleta hizo su tirada larga habitual de 20.15km además del gimnasio normal. Es el mismo patrón que la semana de recuperación: las sesiones reducidas/cortas que se proponen no se siguen, el atleta mantiene su volumen habitual.
 - Las métricas, sin embargo, siguen sin mostrar ninguna señal de alarma (recuperación 89% hoy, HRV normal, FC reposo estable cuando hay dato) — el cuerpo parece tolerarlo bien. El atleta tampoco ha contestado a las preguntas de sensaciones de los últimos 4 check-ins.

@@ -72,6 +72,37 @@ Gimnasio sigue igual que siempre (fase Transición = sin cambios, ver `rutinas/f
 | Jue 15 oct | Carrera fácil corta (sin la calidad habitual todavía) + baloncesto | Reintroducir volumen, no calidad | 20-25 min en Recuperación, nada de series — la sesión de calidad de jueves vuelve en Base (2 nov) | ☐ |
 | Vie 16 oct | Natación de calidad (viernes) | Retomar la sesión de intervalos | **Cumplido**: 2.00km (53:01, FC 137) — igual o más volumen del mínimo pedido (2 rondas). | ☐ |
 | Sáb 17 oct | Carrera fácil corta o descanso | Según cómo llegues de la semana | **Más de lo previsto**: bici 80.75km (3:25:26, 23.6km/h) en vez de carrera corta/descanso — mismo patrón de sustituir sesiones cortas por largas. | ☐ |
-| Dom 18 oct | Libre | Cierre de la semana | Descanso, salvo que prefieras moverte suave | — |
+| Dom 18 oct | Libre | Cierre de la semana | **Más de lo previsto**: carrera 20.07km (1:51:21, 5:33/km) en vez de descanso — mismo patrón. | — |
 
-**Semana siguiente (19–25 oct)**: ya con la carrera reintroducida, se sube progresivamente hacia el volumen de la fase Base (empieza el 2 de noviembre) — se concreta cuando lleguemos ahí.
+## Semana del 19 al 25 de octubre de 2026 — vuelta a volumen normal (todavía fase Transición)
+
+Según `plan/plan-maestro.md`, esta semana y la siguiente (hasta el 1 nov) son de
+"progresión gradual de vuelta a volumen normal" — **sin series ni tempo en
+carrera todavía**, pero ya sin el límite artificial de 20-25 min que tenía
+la semana pasada. En la práctica esto ya coincide bastante con lo que has
+estado haciendo (tiradas largas continuas, sin series) — se ajusta el plan
+escrito a esto en vez de seguir marcando como "no cumplido" algo que el
+propio plan maestro ya preveía para esta altura.
+
+Gimnasio sigue igual (fase Transición, ver `rutinas/fuerza.md`). Natación:
+la sesión de calidad del viernes sube a 3 rondas si las 2 de la semana
+pasada fueron bien.
+
+**Pendiente de decidir — sábado 24 de octubre**: choca el social ride (70km,
+~700m D+) con el partido de baloncesto (jornada 3, vs Bar de las Artes CB
+El Carmen, 17:00). Opciones de `plan-maestro.md`: (a) ride a ritmo
+controlado con margen amplio antes del partido, (b) saltarse el ride y
+hacer la tirada larga el domingo en su lugar, (c) ver si hay margen para
+no jugar esa jornada. Decide el atleta, no se asume nada.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 19 oct | Gimnasio (tren superior) + baloncesto | Rutina normal de lunes | Ver `rutinas/fuerza.md`. Carrera opcional, sin series, al ritmo que el cuerpo pida | — |
+| Mar 20 oct | Gimnasio (pierna) + natación aeróbica + carrera | Rutina normal de martes | Natación: sesión aeróbica de `rutinas/sesiones-triatlon.md`. Carrera: Recuperación o Resistencia Aeróbica, sin series | ☐ |
+| Mié 21 oct | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera estructurada | — |
+| Jue 22 oct | Carrera (todavía sin series/tempo) + baloncesto | Seguir ganando volumen, no calidad | Recuperación o Resistencia Aeróbica — la calidad real vuelve en Base (2 nov) | ☐ |
+| Vie 23 oct | Natación de calidad (viernes) | Subir a 3 rondas si las 2 de la semana pasada fueron bien | Ver `rutinas/sesiones-triatlon.md` | ☐ |
+| Sáb 24 oct | **Pendiente de decisión** (ver nota arriba) | — | — | — |
+| Dom 25 oct | Según lo que pase el sábado | — | — | — |
+
+**Semana siguiente (26 oct–1 nov)**: última semana de fase Transición antes de que arranque Base el 2 de noviembre — se concreta cuando lleguemos ahí.
