@@ -1,0 +1,1757 @@
+{
+  "season": "2026/2027",
+  "competition": "LaLiga (Primera División)",
+  "source": "https://futbolweb.net/calendario-laliga-2026-2027",
+  "fetched": "2026-08-28",
+  "note": "La fecha de cada jornada es la fecha nominal (normalmente el domingo principal); los partidos de una jornada se reparten entre viernes y domingo/miercoles segun el caso. Para horarios exactos de kickoff usar la API de Biwenger (/competitions/la-liga/data -> activeEvents), que solo expone la jornada activa/proxima, no el calendario completo. La numeracion de jornada aqui coincide con la de Biwenger (verificado cruzando los partidos de la Jornada 3: Racing vs Elche, Real Madrid vs Malaga, etc. coinciden). Nombres de equipo normalizados para coincidir exactamente con los que usa la API de Biwenger (Atlético, Deportivo, Rayo Vallecano).",
+  "rounds": [
+    {
+      "round": 1,
+      "date": "2026-08-16",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Getafe"
+        },
+        {
+          "home": "Atlético",
+          "away": "Málaga"
+        },
+        {
+          "home": "Celta",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Elche"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Levante"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Athletic"
+        },
+        {
+          "home": "Racing",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Valencia",
+          "away": "Betis"
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "date": "2026-08-23",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Atlético",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Betis",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Elche",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Getafe",
+          "away": "Racing"
+        },
+        {
+          "home": "Málaga",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Levante"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Alavés"
+        },
+        {
+          "home": "Valencia",
+          "away": "Celta"
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "date": "2026-08-30",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Celta",
+          "away": "Athletic"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Valencia"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Levante",
+          "away": "Betis"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Getafe"
+        },
+        {
+          "home": "Racing",
+          "away": "Elche"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Málaga"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Atlético"
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "date": "2026-09-06",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Athletic",
+          "away": "Atlético"
+        },
+        {
+          "home": "Betis",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Elche",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Getafe",
+          "away": "Celta"
+        },
+        {
+          "home": "Málaga",
+          "away": "Levante"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Racing"
+        },
+        {
+          "home": "Valencia",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Deportivo"
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "date": "2026-09-13",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Elche"
+        },
+        {
+          "home": "Celta",
+          "away": "Málaga"
+        },
+        {
+          "home": "Getafe",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Levante",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Racing",
+          "away": "Alavés"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Atlético"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Valencia"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Betis"
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "date": "2026-09-16",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Valencia"
+        },
+        {
+          "home": "Atlético",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Betis",
+          "away": "Getafe"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Elche",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Racing"
+        },
+        {
+          "home": "Levante",
+          "away": "Athletic"
+        },
+        {
+          "home": "Málaga",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Celta"
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "date": "2026-09-20",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Alavés"
+        },
+        {
+          "home": "Atlético",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Celta",
+          "away": "Racing"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Betis"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Elche"
+        },
+        {
+          "home": "Getafe",
+          "away": "Málaga"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Valencia",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Levante"
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "date": "2026-10-11",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Atlético"
+        },
+        {
+          "home": "Betis",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Elche",
+          "away": "Celta"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Getafe"
+        },
+        {
+          "home": "Levante",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Málaga",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Racing",
+          "away": "Valencia"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Athletic"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Deportivo"
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "date": "2026-10-18",
+      "matches": [
+        {
+          "home": "Betis",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Celta",
+          "away": "Alavés"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Levante"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Atlético"
+        },
+        {
+          "home": "Getafe",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Málaga",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Racing"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Valencia",
+          "away": "Athletic"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Elche"
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "date": "2026-10-25",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Málaga"
+        },
+        {
+          "home": "Athletic",
+          "away": "Getafe"
+        },
+        {
+          "home": "Atlético",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Celta",
+          "away": "Betis"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Racing",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Elche"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Levante"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Valencia",
+          "away": "Villarreal"
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "date": "2026-11-01",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Betis",
+          "away": "Málaga"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Elche",
+          "away": "Valencia"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Alavés"
+        },
+        {
+          "home": "Getafe",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Levante",
+          "away": "Atlético"
+        },
+        {
+          "home": "Racing",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Celta"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Espanyol"
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "date": "2026-11-08",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Celta",
+          "away": "Levante"
+        },
+        {
+          "home": "Elche",
+          "away": "Betis"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Málaga",
+          "away": "Racing"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Athletic"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Alavés"
+        },
+        {
+          "home": "Valencia",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Getafe"
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "date": "2026-11-22",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Athletic",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Getafe",
+          "away": "Atlético"
+        },
+        {
+          "home": "Levante",
+          "away": "Elche"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Málaga"
+        },
+        {
+          "home": "Racing",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Valencia"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Celta"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Betis"
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "date": "2026-11-29",
+      "matches": [
+        {
+          "home": "Betis",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Celta",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Elche",
+          "away": "Atlético"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Getafe"
+        },
+        {
+          "home": "Levante",
+          "away": "Racing"
+        },
+        {
+          "home": "Málaga",
+          "away": "Athletic"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Alavés"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Valencia",
+          "away": "Osasuna"
+        }
+      ]
+    },
+    {
+      "round": 15,
+      "date": "2026-12-06",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Athletic",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Atlético",
+          "away": "Betis"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Celta"
+        },
+        {
+          "home": "Getafe",
+          "away": "Valencia"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Elche"
+        },
+        {
+          "home": "Racing",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Levante"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Málaga"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Real Sociedad"
+        }
+      ]
+    },
+    {
+      "round": 16,
+      "date": "2026-12-13",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Valencia"
+        },
+        {
+          "home": "Betis",
+          "away": "Racing"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Athletic"
+        },
+        {
+          "home": "Elche",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Celta"
+        },
+        {
+          "home": "Levante",
+          "away": "Alavés"
+        },
+        {
+          "home": "Málaga",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Getafe"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Rayo Vallecano"
+        }
+      ]
+    },
+    {
+      "round": 17,
+      "date": "2026-12-20",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Elche"
+        },
+        {
+          "home": "Athletic",
+          "away": "Betis"
+        },
+        {
+          "home": "Celta",
+          "away": "Atlético"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Getafe",
+          "away": "Levante"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Málaga"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Racing"
+        },
+        {
+          "home": "Valencia",
+          "away": "Espanyol"
+        }
+      ]
+    },
+    {
+      "round": 18,
+      "date": "2027-01-03",
+      "matches": [
+        {
+          "home": "Betis",
+          "away": "Alavés"
+        },
+        {
+          "home": "Celta",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Levante",
+          "away": "Valencia"
+        },
+        {
+          "home": "Málaga",
+          "away": "Elche"
+        },
+        {
+          "home": "Racing",
+          "away": "Athletic"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Atlético"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Getafe"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Sevilla"
+        }
+      ]
+    },
+    {
+      "round": 19,
+      "date": "2027-01-10",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Athletic",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Atlético",
+          "away": "Racing"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Elche",
+          "away": "Getafe"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Betis"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Levante"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Celta"
+        },
+        {
+          "home": "Valencia",
+          "away": "Málaga"
+        }
+      ]
+    },
+    {
+      "round": 20,
+      "date": "2027-01-17",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Betis",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Celta",
+          "away": "Valencia"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Elche"
+        },
+        {
+          "home": "Getafe",
+          "away": "Athletic"
+        },
+        {
+          "home": "Levante",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Málaga",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Racing",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Alavés"
+        }
+      ]
+    },
+    {
+      "round": 21,
+      "date": "2027-01-24",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Athletic",
+          "away": "Levante"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Atlético"
+        },
+        {
+          "home": "Elche",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Getafe",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Racing",
+          "away": "Celta"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Betis"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Málaga"
+        },
+        {
+          "home": "Valencia",
+          "away": "Sevilla"
+        }
+      ]
+    },
+    {
+      "round": 22,
+      "date": "2027-01-31",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Betis",
+          "away": "Elche"
+        },
+        {
+          "home": "Celta",
+          "away": "Getafe"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Valencia"
+        },
+        {
+          "home": "Levante",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Málaga",
+          "away": "Alavés"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Athletic"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Racing"
+        }
+      ]
+    },
+    {
+      "round": 23,
+      "date": "2027-02-07",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Celta"
+        },
+        {
+          "home": "Athletic",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Betis",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Málaga"
+        },
+        {
+          "home": "Elche",
+          "away": "Levante"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Atlético"
+        },
+        {
+          "home": "Getafe",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Valencia",
+          "away": "Racing"
+        }
+      ]
+    },
+    {
+      "round": 24,
+      "date": "2027-02-14",
+      "matches": [
+        {
+          "home": "Celta",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Elche",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Levante",
+          "away": "Málaga"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Atlético"
+        },
+        {
+          "home": "Racing",
+          "away": "Getafe"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Athletic"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Betis"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Valencia",
+          "away": "Alavés"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Barcelona"
+        }
+      ]
+    },
+    {
+      "round": 25,
+      "date": "2027-02-21",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Racing"
+        },
+        {
+          "home": "Athletic",
+          "away": "Celta"
+        },
+        {
+          "home": "Atlético",
+          "away": "Elche"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Levante"
+        },
+        {
+          "home": "Málaga",
+          "away": "Betis"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Getafe"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Valencia"
+        }
+      ]
+    },
+    {
+      "round": 26,
+      "date": "2027-02-28",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Betis",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Celta",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Getafe",
+          "away": "Alavés"
+        },
+        {
+          "home": "Levante",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Málaga",
+          "away": "Atlético"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Racing",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Valencia"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Elche"
+        }
+      ]
+    },
+    {
+      "round": 27,
+      "date": "2027-03-07",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Athletic"
+        },
+        {
+          "home": "Atlético",
+          "away": "Celta"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Getafe"
+        },
+        {
+          "home": "Elche",
+          "away": "Málaga"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Racing"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Betis"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Valencia",
+          "away": "Levante"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Real Madrid"
+        }
+      ]
+    },
+    {
+      "round": 28,
+      "date": "2027-03-14",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Athletic",
+          "away": "Valencia"
+        },
+        {
+          "home": "Betis",
+          "away": "Levante"
+        },
+        {
+          "home": "Elche",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Getafe",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Málaga",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Celta"
+        },
+        {
+          "home": "Racing",
+          "away": "Atlético"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Espanyol"
+        }
+      ]
+    },
+    {
+      "round": 29,
+      "date": "2027-03-21",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Getafe"
+        },
+        {
+          "home": "Celta",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Athletic"
+        },
+        {
+          "home": "Levante",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Racing",
+          "away": "Betis"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Alavés"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Elche"
+        },
+        {
+          "home": "Valencia",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Málaga"
+        }
+      ]
+    },
+    {
+      "round": 30,
+      "date": "2027-04-04",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Racing"
+        },
+        {
+          "home": "Betis",
+          "away": "Celta"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Elche",
+          "away": "Alavés"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Getafe",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Levante",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Málaga",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Atlético"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Valencia"
+        }
+      ]
+    },
+    {
+      "round": 31,
+      "date": "2027-04-11",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Betis"
+        },
+        {
+          "home": "Atlético",
+          "away": "Levante"
+        },
+        {
+          "home": "Celta",
+          "away": "Elche"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Málaga"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Racing",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Valencia",
+          "away": "Getafe"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Athletic"
+        }
+      ]
+    },
+    {
+      "round": 32,
+      "date": "2027-04-18",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Atlético",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Betis",
+          "away": "Athletic"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Celta"
+        },
+        {
+          "home": "Elche",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Getafe",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Levante",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Málaga",
+          "away": "Valencia"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Racing"
+        }
+      ]
+    },
+    {
+      "round": 33,
+      "date": "2027-04-21",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Celta",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Getafe",
+          "away": "Betis"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Alavés"
+        },
+        {
+          "home": "Racing",
+          "away": "Málaga"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Elche"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Levante"
+        },
+        {
+          "home": "Valencia",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Atlético"
+        }
+      ]
+    },
+    {
+      "round": 34,
+      "date": "2027-05-02",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Alavés"
+        },
+        {
+          "home": "Betis",
+          "away": "Valencia"
+        },
+        {
+          "home": "Celta",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Racing"
+        },
+        {
+          "home": "Elche",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Osasuna"
+        },
+        {
+          "home": "Levante",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Málaga",
+          "away": "Getafe"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Villarreal"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Athletic"
+        }
+      ]
+    },
+    {
+      "round": 35,
+      "date": "2027-05-09",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Levante"
+        },
+        {
+          "home": "Athletic",
+          "away": "Málaga"
+        },
+        {
+          "home": "Betis",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Getafe",
+          "away": "Elche"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Racing",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Valencia",
+          "away": "Atlético"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Celta"
+        }
+      ]
+    },
+    {
+      "round": 36,
+      "date": "2027-05-16",
+      "matches": [
+        {
+          "home": "Atlético",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Alavés"
+        },
+        {
+          "home": "Elche",
+          "away": "Athletic"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Valencia"
+        },
+        {
+          "home": "Levante",
+          "away": "Getafe"
+        },
+        {
+          "home": "Málaga",
+          "away": "Celta"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Betis"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Racing"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Villarreal"
+        }
+      ]
+    },
+    {
+      "round": 37,
+      "date": "2027-05-23",
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Real Madrid"
+        },
+        {
+          "home": "Atlético",
+          "away": "Athletic"
+        },
+        {
+          "home": "Celta",
+          "away": "Real Sociedad"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Espanyol"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Málaga"
+        },
+        {
+          "home": "Racing",
+          "away": "Levante"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Betis"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Getafe"
+        },
+        {
+          "home": "Valencia",
+          "away": "Elche"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Osasuna"
+        }
+      ]
+    },
+    {
+      "round": 38,
+      "date": "2027-05-30",
+      "matches": [
+        {
+          "home": "Athletic",
+          "away": "Rayo Vallecano"
+        },
+        {
+          "home": "Betis",
+          "away": "Atlético"
+        },
+        {
+          "home": "Elche",
+          "away": "Racing"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Alavés"
+        },
+        {
+          "home": "Getafe",
+          "away": "Barcelona"
+        },
+        {
+          "home": "Levante",
+          "away": "Celta"
+        },
+        {
+          "home": "Málaga",
+          "away": "Sevilla"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Valencia"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Deportivo"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Villarreal"
+        }
+      ]
+    }
+  ]
+}
