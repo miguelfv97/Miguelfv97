@@ -1309,3 +1309,27 @@ profesionales y para la empleabilidad del 3.2 (m, o, q, r, s, u) con las
 distintas UT del módulo. No hacer esto ahora — es para una fase
 posterior de la programación (diseño de las UT), que todavía no se ha
 abordado en esta entrega.
+
+### 2.4 Hilo conductor (OPCIONAL) — DECIDIDO: "La caja de herramientas" (22/10/2026)
+
+El punto 2.4 del índice de la preparadora ("Hilo conductor") es
+opcional y su propia guía dice "Aspirantes nuevos no lo recomiendo".
+Aun así, Pepe quiso explorarlo. Le propuse 3 opciones (Tuckman/ciclo de
+vida del equipo, trayectoria profesional de un TIS en un proyecto de
+intervención, caja de herramientas). Pepe eligió proponerle a su
+preparadora las opciones 2 y 3, con modificaciones propias:
+
+- **Opción elegida y confirmada por la preparadora: "La caja de
+  herramientas"**. Origen real: inspirada en el profesor Juan Sáez
+  (asignatura "El educador social. Profesionalización y deontología",
+  Universidad de Murcia), que usaba este recurso en sus clases. Cada UT
+  es una "herramienta" que se añade a la caja/maletín profesional del
+  alumnado, haciendo ver que deben construir progresivamente un perfil
+  competencial completo.
+- **Añadido de la preparadora**: incorporar un trabajo o producto final
+  en cada UT, de forma que todos los productos finales de las distintas
+  UT tengan relación entre sí (coherencia narrativa del hilo conductor
+  a través de los productos/trabajos finales, no solo del concepto).
+- Pendiente para la fase de diseño de las UT (aún no iniciada en esta
+  entrega): concretar qué "herramienta" representa cada UT y diseñar el
+  producto final de cada una, conectado con las demás.
