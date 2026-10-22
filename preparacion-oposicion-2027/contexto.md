@@ -576,6 +576,32 @@ su implantación era obligatoria como muy tarde en el curso 2024-2025, así que
 en 2026/2027 el texto de 2023 es el vigente. **Ya no queda nada pendiente de
 cotejo para este módulo** (a diferencia del 0018, donde seguía abierto).
 
+### ⚠ PRINCIPIO RECTOR DEL MÓDULO (confirmado por Pepe, 22/10/2026) — aplicar en TODO el desarrollo futuro
+
+**El módulo trabaja las habilidades sociales DEL PROPIO ALUMNO como futuro
+profesional técnico — NO le enseña a intervenir/trabajar habilidades sociales
+CON los distintos colectivos a los que atenderá en su futura práctica
+profesional.** Es decir: el foco es el desarrollo personal/profesional del
+alumno (cómo se comunica, cómo se integra y funciona en un equipo de trabajo,
+cómo dirige sus propias reuniones, cómo gestiona sus propios conflictos
+laborales), no técnicas de intervención social dirigidas a las personas
+usuarias.
+
+Esto es coherente con las propias orientaciones pedagógicas del módulo (RD
+289/2023): "contiene la formación necesaria para que el alumno adquiera las
+habilidades sociales necesarias para desarrollar una profesión de ayuda e
+interactuar adecuadamente en sus relaciones profesionales con otras
+personas" — el foco es el alumno como profesional, no el colectivo
+destinatario de su intervención.
+
+**Aplicar este principio a todo lo que se diseñe a partir de ahora**: UT,
+actividades, hilo conductor (caja de herramientas: las "herramientas" son
+para el propio desempeño profesional del alumno — p. ej. dinamización de
+grupos = integrarse/funcionar en su propio equipo de trabajo, NO dinamizar
+a un colectivo de usuarios; gestión de conflictos = conflictos en su propio
+entorno laboral, NO conflictos entre las personas atendidas), evaluación,
+etc. Revisar que ninguna propuesta futura se desvíe de esto.
+
 ### Identificación
 
 - **Código: 0017.**
