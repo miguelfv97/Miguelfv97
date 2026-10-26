@@ -3,6 +3,12 @@
 > Un apunte por cada cambio relevante en el plan: qué cambió, por qué, y con
 > qué datos se justificó. Orden cronológico, más reciente arriba.
 
+## 2026-10-26 — Check-in 6:30: brick del domingo, recuperación cae a "Fatigued" justo antes de Base
+- Sábado 24 (día del conflicto social ride/partido): solo gimnasio registrado en COROS (40:45, 17 series) — ni ride ni partido aparecen, sin confirmar qué pasó realmente.
+- Domingo 25: brick grande — bici 81.01km (3:21:13, 24.2km/h) + carrera 10.53km (53:12, 5:03/km, FC media 166, nada suave). Parece que el social ride se trasladó al domingo con una carrera dura detrás, en vez de las opciones (a)/(b)/(c) planteadas.
+- Recuperación de COROS cae a **53% ("Fatigued")** hoy lunes, 62h estimadas para completarse — la señal de fatiga más clara desde el maratón. Justo la semana antes de que arranque la fase Base (2 nov).
+- Se concreta `plan/semana-actual.md` día a día en vez de fijar toda la semana de golpe: hoy se recomienda bajar carga (gimnasio suave o descanso, sin carrera) para intentar llegar a Base sin fatiga arrastrada.
+
 ## 2026-10-05 — Natación v5: dos sesiones aportadas por el atleta, sustituyen las anteriores
 - El atleta trae dos sesiones de una app/vídeo externo (capturas de pantalla, estructura tipo "Session 01"/"Session 02") y pide explicarlas al detalle e integrarlas como las sesiones fijas de martes y viernes, en vez de las que había.
 - Sesión 1 (3x400m continuo, 20-30s descanso) → martes, traducida a ritmo aeróbico sostenido (2:33-2:36/100m, 10:12-10:24 por 400m).

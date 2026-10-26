@@ -102,7 +102,20 @@ no jugar esa jornada. Decide el atleta, no se asume nada.
 | Mié 21 oct | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera estructurada | — |
 | Jue 22 oct | Carrera (todavía sin series/tempo) + baloncesto | Seguir ganando volumen, no calidad | Recuperación o Resistencia Aeróbica — la calidad real vuelve en Base (2 nov) | ☐ |
 | Vie 23 oct | Natación de calidad (viernes) | Subir a 3 rondas si las 2 de la semana pasada fueron bien | Ver `rutinas/sesiones-triatlon.md` | ☐ |
-| Sáb 24 oct | **Pendiente de decisión** (ver nota arriba) | — | — | — |
-| Dom 25 oct | Según lo que pase el sábado | — | — | — |
+| Sáb 24 oct | **Pendiente de decisión** (ver nota arriba) | — | **Solo gimnasio registrado** (40:45, 17 series) — ni ride ni partido aparecen en COROS, sin confirmar qué pasó realmente. | — |
+| Dom 25 oct | Según lo que pase el sábado | — | **Brick grande**: bici 81.01km (3:21:13, 24.2km/h) + carrera 10.53km (53:12, 5:03/km, FC media 166 — ritmo/esfuerzo nada suave). Parece que el social ride se movió al domingo, con una carrera dura detrás. | — |
 
-**Semana siguiente (26 oct–1 nov)**: última semana de fase Transición antes de que arranque Base el 2 de noviembre — se concreta cuando lleguemos ahí.
+## Semana del 26 octubre al 1 de noviembre de 2026 — última semana de Transición
+
+**Señal real a vigilar**: tras el brick del domingo, la recuperación de COROS
+cae a **53% ("Fatigued")**, con 62h estimadas para estar completo — la
+señal más clara de fatiga real desde el maratón. No es nada alarmante por
+sí solo (un fin de semana duro lo explica), pero es justo la semana antes
+de que arranque la fase Base (2 nov) — tiene sentido entrar en esa fase
+descansado, no arrastrando fatiga. Por eso, esta semana se concreta día a
+día según cómo responda la recuperación, en vez de fijar todo de golpe —
+empezando por bajar la carga de hoy.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 26 oct | Gimnasio suave o descanso + baloncesto | Dejar que baje la fatiga del fin de semana | Si haces gimnasio, baja el volumen/peso de lo normal; sin carrera hoy | — |
