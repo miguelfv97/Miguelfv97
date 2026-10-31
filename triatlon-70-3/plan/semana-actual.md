@@ -118,4 +118,9 @@ empezando por bajar la carga de hoy.
 
 | Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
 |---|---|---|---|---|
-| Lun 26 oct | Gimnasio suave o descanso + baloncesto | Dejar que baje la fatiga del fin de semana | Si haces gimnasio, baja el volumen/peso de lo normal; sin carrera hoy | — |
+| Lun 26 oct | Gimnasio suave o descanso + baloncesto | Dejar que baje la fatiga del fin de semana | **Más de lo sugerido**: gimnasio 1:31:59 (40 series) — recuperación respondió bien igualmente (82% al día siguiente). | — |
+| Mar 27 oct | Gimnasio (pierna) + natación aeróbica | Rutina normal de martes | **Cumplido**: natación 1.60km (41:55) + gimnasio 58:27 (21 series). | ☐ |
+| Mié 28 oct | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | **Cumplido**: gimnasio 1:11:19 (40 series). | — |
+| Jue 29 oct | Carrera (sin series) + baloncesto | Seguir ganando volumen | **No se hizo lo previsto**: solo gimnasio (49:58, 24 series) — el jueves no lleva gimnasio normalmente. | ☐ |
+| Vie 30 oct | Natación de calidad (3 rondas) | Último entreno de calidad antes de Base | COROS no estaba disponible en el check-in de hoy (31 oct) para verificar — pendiente de confirmar. | ☐ |
+| Sáb 31 oct | Último día de fase Transición | Llegar fresco al inicio de Base (2 nov) | Según cómo se sienta el atleta — sin sesión larga nueva, prioridad descanso/ligero | — |
