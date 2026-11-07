@@ -124,3 +124,25 @@ empezando por bajar la carga de hoy.
 | Jue 29 oct | Carrera (sin series) + baloncesto | Seguir ganando volumen | **No se hizo lo previsto**: solo gimnasio (49:58, 24 series) — el jueves no lleva gimnasio normalmente. | ☐ |
 | Vie 30 oct | Natación de calidad (3 rondas) | Último entreno de calidad antes de Base | COROS no estaba disponible en el check-in de hoy (31 oct) para verificar — pendiente de confirmar. | ☐ |
 | Sáb 31 oct | Último día de fase Transición | Llegar fresco al inicio de Base (2 nov) | Según cómo se sienta el atleta — sin sesión larga nueva, prioridad descanso/ligero | — |
+
+## Semana del 2 al 8 de noviembre de 2026 — primera semana de la fase Base
+
+**Nota importante**: COROS lleva caído desde el 31 de octubre (conector sin
+autorizar) — todos los check-ins de esta semana se han dado sin poder
+verificar cumplimiento real ni recuperación/carga. Pendiente de revisar en
+cuanto vuelva a conectar.
+
+**Arranca el ciclo de 3 semanas del fin de semana** (ver `plan-maestro.md`)
+— nunca se había asignado una letra A/B/C concreta a ninguna semana
+todavía, así que se empieza de cero en **Semana A** esta primera semana de
+Base.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 2 nov | Gimnasio Rutina A (tren superior) + baloncesto | Día 1 de Base | Ver `rutinas/fuerza.md` | — |
+| Mar 3 nov | Gimnasio (pierna) + natación aeróbica | Rutina normal de martes | 3x400m a 2:33-2:36/100m | ☐ |
+| Mié 4 nov | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | — | — |
+| Jue 5 nov | Series de calidad + baloncesto | Primera calidad real desde antes del maratón | 6x1000m progresivos (Potencia Aeróbica→Umbral→Resistencia Anaeróbica) | ☐ |
+| Vie 6 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
+| Sáb 7 nov | Baloncesto: partido (jornada 4, CB Fuente Álamo, fuera, 19:15) | Día de partido, a cero | Sin entreno estructurado | — |
+| Dom 8 nov | **Semana A — bici larga continua** | Volumen y resistencia específica de bici | Sin carrera después; progresión suave en distancia/desnivel desde el máximo ya probado (101km) | ☐ |
