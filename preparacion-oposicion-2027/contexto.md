@@ -1428,11 +1428,26 @@ según sus propias orientaciones pedagógicas: **m), o), q), r), s), t), w)**
 re-confirmadas aquí. Preparada para relacionarse con las UT más adelante
 en el 4.3, tal como pidió la preparadora ("cuadro bonito y vistoso").
 
-### Pendiente de esta tercera entrega
+### CORRECCIÓN DE ESTILO IMPORTANTE (12/11/2026) — aplicar siempre
 
-- 4.2 Objetivos del módulo/RA (tabla RA + ponderación — ya tenemos los 5
-  RA y sus ponderaciones de la "evaluación criterial" de antes, solo
-  falta formatearlo como pide esta guía).
+Pepe avisa que en la corrección de la segunda entrega la preparadora
+insistió mucho en que NO se debe repetir información en distintos
+párrafos -- llegó a haber datos triplicados en menos de 10 párrafos
+seguidos. Revisar siempre los borradores por redundancia antes de
+enviarlos, especialmente al enlazar secciones que tratan temas
+relacionados (objetivos generales / RA / objetivos didácticos, etc.).
+
+### Punto 4.2 — Objetivos del módulo/RA (CERRADO para la parte de texto, 12/11/2026)
+
+Definición de RA con CEDEFOP (2004) -- confirmado con Pepe que el año es
+2004, no 2024 (fue un lapsus suyo al escribirlo, verificado contra el
+texto literal de la guía de la preparadora). Frase introductoria breve,
+sin repetir la teoría de niveles ya explicada en la introducción del
+punto 4. La tabla de RA + ponderación la inserta Pepe directamente (ya
+la teníamos hecha de la "evaluación criterial" anterior) -- se dejó un
+hueco marcado en gris en el documento.
+
+### Pendiente de esta tercera entrega
 - 4.3 Interrelación objetivos-UT (tabla RA-UT-OGC-CPE — la preparadora
   avisa que puede ser solo un esbozo, a modificar cuando se diseñen las
   UT de verdad).
