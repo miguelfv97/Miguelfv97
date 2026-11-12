@@ -146,3 +146,24 @@ Base.
 | Vie 6 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
 | Sáb 7 nov | Baloncesto: partido (jornada 4, CB Fuente Álamo, fuera, 19:15) | Día de partido, a cero | Sin entreno estructurado | — |
 | Dom 8 nov | **Semana A — bici larga continua** | Volumen y resistencia específica de bici | Sin carrera después; progresión suave en distancia/desnivel desde el máximo ya probado (101km) | ☐ |
+
+## Semana del 9 al 15 de noviembre de 2026 — segunda semana de la fase Base
+
+**COROS sigue caído** (desde el 31 de octubre, 13º día hoy) — Lunes a
+miércoles de esta semana se han dado igual que siempre (gimnasio +
+baloncesto / natación), pero sin poder confirmar cumplimiento real ni
+recuperación/carga. Se revisará en bloque en cuanto vuelva a conectar.
+
+**Semana B del ciclo de 3 semanas**: la jornada 5 de baloncesto (sábado 14
+nov, vs CD Jesuitinas Murcia, 17:00) deja el domingo 15 libre — toca
+carrera larga continua.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 9 nov | Gimnasio Rutina A (tren superior) + baloncesto | Rutina normal de lunes | Ver `rutinas/fuerza.md` — sin confirmar vía COROS (caído) | — |
+| Mar 10 nov | Gimnasio (pierna) + natación aeróbica | Rutina normal de martes | 3x400m a 2:33-2:36/100m — sin confirmar vía COROS (caído) | ☐ |
+| Mié 11 nov | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera estructurada — sin confirmar vía COROS (caído) | — |
+| Jue 12 nov | Series de calidad + baloncesto | Segunda semana de calidad en Base | 6x1000m progresivos (Potencia Aeróbica→Umbral→Resistencia Anaeróbica) | ☐ |
+| Vie 13 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
+| Sáb 14 nov | Baloncesto: partido (jornada 5, CD Jesuitinas Murcia, 17:00) | Día de partido, a cero | Sin entreno estructurado | — |
+| Dom 15 nov | **Semana B — carrera larga continua** | Volumen específico de carrera | Resistencia Aeróbica (5:25-6:24/km), progresión suave sobre el patrón de ~20km ya consolidado | ☐ |
