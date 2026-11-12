@@ -1,0 +1,19 @@
+{
+  "name": "coros-daily-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Consulta la API no oficial de Coros y genera un analisis de la actividad reciente.",
+  "type": "module",
+  "scripts": {
+    "analyze": "node scripts/coros-analysis.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@nyt87/crs-connect": "^0.1.7"
+  },
+  "overrides": {
+    "axios": "^1.20.0"
+  }
+}
