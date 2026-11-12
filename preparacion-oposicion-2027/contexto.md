@@ -1359,3 +1359,88 @@ preparadora las opciones 2 y 3, con modificaciones propias:
 - Pendiente para la fase de diseño de las UT (aún no iniciada en esta
   entrega): concretar qué "herramienta" representa cada UT y diseñar el
   producto final de cada una, conectado con las demás.
+
+## 16. TERCERA ENTREGA — Objetivos y Contenidos (en curso desde 12/11/2026)
+
+Pepe sigue teniendo pendientes correcciones de la preparadora sobre la
+segunda entrega (sin resolver todavía), pero por indicación suya pasamos
+a trabajar en paralelo la tercera entrega mientras él ve los vídeos
+explicativos de la preparadora y me va pasando notas.
+
+**Documentos guía recibidos** (ya no están en disco por reinicio del
+contenedor, pero su contenido ya está volcado e incorporado en el
+documento de trabajo):
+- "Parte 2. PD Objetivos y contenidos" — punto 4 OBJETIVOS (4.1
+  Selección/justificación/contextualización de objetivos generales, 4.2
+  Objetivos del módulo/RA, 4.3 Interrelación objetivos-UT). ~3 hojas.
+- "PARTE 3. PD Contenidos" — punto 5 CONTENIDOS (5.1 Contenidos del
+  módulo, 5.2 Contenidos didácticos, 5.3 Contenidos profesionales
+  transversales, 5.4 Interdisciplinariedad). Introduce normativa nueva
+  a verificar: Orden de 21/09/2026 art. 3.3 (contenidos del Anexo I del
+  RD estatal pasan a ser orientativos, no vinculantes), LOMLOE art. 42.3,
+  LO 3/2022 art. 11, RD 659/2023 art. 12, Orden 21/09/2026 arts. 3-4, y
+  una referencia sin verificar todavía: "Decreto n.º 13/2026, de 5 de
+  marzo, art. 98" — **pendiente de verificar que existe y dice lo que el
+  documento de la preparadora afirma**.
+
+**Nuevo documento de trabajo**: `materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx`
+(formato: Arial 11, interlineado simple, según nota de la preparadora —
+distinto fichero del de la segunda entrega).
+
+### Punto 4 — Introducción (CERRADA, 12/11/2026)
+
+Redactada con dos citas académicas verificadas (no literales palabra por
+palabra, pero sí ideas reales y documentadas de cada autor):
+- **Art. 6.1 LOE (modificada por LOMLOE)** — verificado literalmente
+  contra el BOE: "objetivos" es el primer elemento citado en la
+  definición de currículo, y en FP los RA también forman parte de él.
+  **Corrección importante**: el ejemplo de la guía de la preparadora cita
+  el art. 6.2 para esto, que es incorrecto — el apartado correcto es el
+  **6.1** (el 6.2 trata de otra cosa: orientación general del currículo
+  hacia el desarrollo educativo). Pepe lo confirmó y se usa el 6.1.
+- **Coll (1987), *Psicología y currículum*** — objetivos como
+  capacidades. Autor usado también en el punto 1.5 de la segunda entrega
+  (fuentes del currículo), así que es coherente dentro de la PD.
+  Elegido en vez del "Coll (2023)" sin verificar que usaba el ejemplo
+  de la preparadora, a petición expresa de Pepe (no quería la misma cita
+  que ella).
+- **Bolívar (2010), *Competencias básicas* (Wolters Kluwer)** — segundo
+  autor, más moderno, centrado en competencias: los objetivos como
+  elemento operativo hacia las competencias. Elegido tras descartar a
+  Mager (1962, por ser menos "moderno" según pidió Pepe).
+- Incluye desarrollo breve de características de los objetivos
+  (pertinente, factible, claro, evaluable) y la jerarquización en 4
+  niveles (fines/objetivos generales FP —LO 3/2022, solo nombrada—,
+  objetivos generales del ciclo —RD 1074/2012 art. 9—, objetivos del
+  módulo/RA, objetivos didácticos de las 12 UT).
+- Lleva una sección de "Referencias (APA 7.ª ed.)" al final del
+  documento con las entradas completas de Coll y Bolívar, con nota de
+  que la editorial de Coll (1987, Laia) convendría confirmarla si se
+  tiene el ejemplar físico.
+
+### Punto 4.1 — Selección/justificación/contextualización de objetivos generales (CERRADO, 12/11/2026)
+
+Tabla clara (formato igual al usado para las competencias del 3.2 de la
+segunda entrega: Letra + texto completo) con los **7 objetivos generales
+del ciclo** (art. 9, RD 1074/2012) a los que el módulo 0017 contribuye
+según sus propias orientaciones pedagógicas: **m), o), q), r), s), t), w)**
+— mismas letras ya verificadas en la segunda entrega (punto 3.2) y
+re-confirmadas aquí. Preparada para relacionarse con las UT más adelante
+en el 4.3, tal como pidió la preparadora ("cuadro bonito y vistoso").
+
+### Pendiente de esta tercera entrega
+
+- 4.2 Objetivos del módulo/RA (tabla RA + ponderación — ya tenemos los 5
+  RA y sus ponderaciones de la "evaluación criterial" de antes, solo
+  falta formatearlo como pide esta guía).
+- 4.3 Interrelación objetivos-UT (tabla RA-UT-OGC-CPE — la preparadora
+  avisa que puede ser solo un esbozo, a modificar cuando se diseñen las
+  UT de verdad).
+- Todo el punto 5 (Contenidos) — sin empezar. Pendiente verificar la
+  normativa nueva mencionada arriba antes de redactar nada (en especial
+  el "Decreto n.º 13/2026" que no hemos visto nunca).
+- Seguir esperando que Pepe comparta más notas de los vídeos antes de
+  seguir avanzando (trabajamos paso a paso, sin adelantarnos).
+- Las correcciones pendientes de la preparadora sobre la **segunda
+  entrega** (ver §15) siguen sin resolver — Pepe decidió aparcarlas
+  temporalmente para avanzar con esta tercera entrega en paralelo.
