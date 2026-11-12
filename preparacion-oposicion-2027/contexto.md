@@ -1447,10 +1447,44 @@ punto 4. La tabla de RA + ponderación la inserta Pepe directamente (ya
 la teníamos hecha de la "evaluación criterial" anterior) -- se dejó un
 hueco marcado en gris en el documento.
 
+### Ponderación UT dentro de cada RA — CORREGIDA por la preparadora (12/11/2026)
+
+Pepe compartió `Correccion_Preparadora_Evaluacion_Criterial.docx` (feedback
+de la preparadora sobre la primera entrega, "evaluación criterial").
+Contiene los porcentajes DEFINITIVOS de UT dentro de cada RA (más
+simples que los calculados originalmente a partir del nº de CE por UT):
+
+- RA1 (20%): UT1 50% / UT2 50%
+- RA2 (15%): UT3 25% / UT4 25% / UT5 25% / UT6 25%
+- RA3 (15%): UT7 100%
+- RA4 (20%): UT8 50% / UT9 50%
+- RA5 (30%): UT10 33,33% / UT11 33,33% / UT12 33,33%
+
+**Usar siempre estos porcentajes de ahora en adelante**, no los que
+pudieran aparecer en notas anteriores de esta sesión (p. ej. "22,2/33,3/
+44,4%" para RA5 era un cálculo previo, ya superado por esta corrección).
+
+### Punto 4.3 — Interrelación objetivos-UT (CERRADO salvo 1 duda a la preparadora, 12/11/2026)
+
+Tabla con celdas de RA combinadas verticalmente (agrupando visualmente
+sus UT), usando los porcentajes corregidos de arriba. Columnas OGC y CPE:
+se repite el mismo conjunto completo de letras en todas las filas (m,o,
+q,r,s,t,w para OGC; m,o,q,r,s,u para CPE), marcado en rojo explicando
+que el RD 1074/2012 no desglosa esta relación por RA, solo para el
+módulo completo — **pendiente de una pregunta enviada a la preparadora**
+sobre si prefiere que hagamos un reparto diferenciado propio por RA en
+su lugar.
+
+**RA marcado para la FEM: RA5** (Evalúa los procesos de grupo y la
+propia competencia social para el desarrollo de sus funciones
+profesionales) — elegido por ser el único RA que menciona explícitamente
+el desarrollo de funciones profesionales, pese a que el currículo oficial
+asigna 0 horas de fase de empresa a este módulo (155h, 155 en centro).
+Confirmado por Pepe.
+
 ### Pendiente de esta tercera entrega
-- 4.3 Interrelación objetivos-UT (tabla RA-UT-OGC-CPE — la preparadora
-  avisa que puede ser solo un esbozo, a modificar cuando se diseñen las
-  UT de verdad).
+- Esperar respuesta de la preparadora sobre el reparto OGC/CPE por RA
+  (correo ya redactado, pendiente de que Pepe lo envíe).
 - Todo el punto 5 (Contenidos) — sin empezar. Pendiente verificar la
   normativa nueva mencionada arriba antes de redactar nada (en especial
   el "Decreto n.º 13/2026" que no hemos visto nunca).
