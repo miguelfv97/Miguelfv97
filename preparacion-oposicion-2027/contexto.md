@@ -1677,15 +1677,57 @@ Redactado siguiendo el guion de Pepe. Estructura final:
 - Referencia añadida: Delors, J. (Coord.). (1996). *La educación
   encierra un tesoro.* Santillana/UNESCO.
 
+### Punto 5.4 — Interdisciplinariedad (BORRADOR, pendiente de que Pepe confirme, 13/11/2026)
+
+Redactado siguiendo el guion de Pepe. Propuesta: conectar 0017 con el
+módulo **1710. Itinerario personal para la empleabilidad II** (2º curso,
+código nuevo, heredero de Empresa e Iniciativa Emprendedora). Verificado
+en RD 659/2023 art. 98 (finalidad: habilidades transversales/madurez
+profesional del propio alumno, no intervención) y su RA2 ("Aplica
+estrategias relacionadas con las competencias personales, sociales y
+emocionales para el empleo" — CE sobre toma de decisiones en equipo,
+liderazgo compartido, comunicación, gestión emocional, conflictos).
+Reparto propuesto: 0017 desarrolla la técnica/teoría, 1710 la aplica al
+itinerario de empleabilidad del alumno. Tabla "CONTENIDOS
+INTERMODULARES" incluida.
+
+**Tres dudas en rojo/cursiva (tono informal, para que las lea y corrija
+la preparadora), incluidas dentro del propio apartado**:
+1. Si el criterio "mismo curso (2º)" es realmente el más importante, o
+   si merecería la pena plantear un módulo de 1º curso aunque no
+   coincida en el tiempo lectivo.
+2. Si debería reflejarse ya aquí el hilo conductor de la "caja de
+   herramientas", o se deja para el diseño de las UT.
+3. Si el profesorado de IPE —verificado que corresponde a una
+   especialidad distinta (Empresa e Iniciativa Emprendedora/Formación y
+   Orientación Laboral, no Integración Social/Servicios a la
+   Comunidad)— significa que la interdisciplinariedad sería entre
+   departamentos distintos, y si eso es válido o ella se refiere solo a
+   coordinación dentro del mismo departamento.
+
+**Análisis de alternativas de 1º curso** (comentado en el chat, no
+incluido en el documento): se valoraron 1709 (Itinerario I — mismo
+enfoque self-focused que 1710, pero contenido real centrado en PRL/
+derechos laborales, poco solape con habilidades sociales) y 0342
+Promoción de la autonomía personal (fortísimo solape de vocabulario —su
+RA1 literalmente "elabora programas de entrenamiento de habilidades de
+autonomía personal y social, seleccionando las técnicas propias de la
+intervención"— pero contradice el principio rector de 0017, ya que es
+puramente de intervención con usuarios, no de habilidades del propio
+alumno). Ninguna de las dos es claramente mejor que 1710; se mantiene
+1710 como propuesta principal.
+
+**Pendiente**: Pepe tiene que confirmar si el 5.4 queda cerrado tal cual
+está (con las 3 dudas) o si quiere ajustar algo antes de darlo por
+definitivo.
+
 ### Pendiente de esta tercera entrega
-- 5.4 Interdisciplinariedad — sin empezar, pendiente del guion
-  específico de Pepe (ya tenemos el texto completo de la preparadora en
-  el §16 de más arriba).
-- Seguir esperando que Pepe comparta más notas de los vídeos antes de
-  seguir avanzando (trabajamos paso a paso, sin adelantarnos).
-- Las correcciones pendientes de la preparadora sobre la **segunda
-  entrega** (ver §15) siguen sin resolver — Pepe decidió aparcarlas
-  temporalmente para avanzar con esta tercera entrega en paralelo.
+- Confirmación final de Pepe sobre el 5.4 (ver arriba) para cerrar todo
+  el punto 5.
+- Pepe ha decidido retomar ahora, antes de hacer la entrega, las
+  **correcciones pendientes de la preparadora sobre la segunda
+  entrega** (ver §15), que van a ir aplicándose una a una a partir de
+  este momento.
 
 ## 17. Persistencia de documentos — convención a partir de 13/11/2026
 
