@@ -1617,17 +1617,70 @@ de la preparadora: aprendizaje-servicio para mejorar el entorno/barrio.
 Tabla simple: "CONTENIDOS INTERMODULARES" con columna MP (otro módulo) y
 explicación de por qué/cómo se relacionan los contenidos.
 
+### Verificación de la normativa del 5.3 (13/11/2026) — 2 errores más de la preparadora detectados
+
+- ✅ **Decreto n.º 13/2026, de 5 de marzo** (BORM núm. 59, 12/03/2026,
+  "Ordenación de la FP de Grado D y E en la CARM", 103 artículos):
+  EXISTE. Su **art. 98 "Autonomía de los centros"**, punto 4, dice
+  literalmente: *"La metodología didáctica que se empleará en el
+  desarrollo de las actividades promoverá la integración de los
+  contenidos científicos, tecnológicos y organizativos, potenciará el
+  aprendizaje autónomo y el trabajo en equipo, fomentará el desarrollo
+  de las habilidades sociales necesarias para desempeñar la actividad
+  laboral, la igualdad y evitará cualquier tipo de discriminación...".*
+  Coincide exactamente con las 4 viñetas de la preparadora. **Correcto,
+  solo en prosa en vez de lista.**
+- ✅ **LO 3/2020 (LOMLOE), Preámbulo**: confirmadas literalmente las "5
+  líneas generales" (derechos de la infancia; igualdad de
+  género/coeducación; enfoque transversal de éxito educativo; Agenda
+  2030; cambio digital), en ese orden. **Correcto.**
+- ❌ **LO 3/2022, "art. 11"**: ERROR. El art. 11 regula el Catálogo
+  Nacional de Ofertas de FP (nada que ver). El contenido correcto
+  (igualdad efectiva, no discriminación, sostenibilidad ambiental,
+  digitalización) está en el **art. 3 "Principios generales"**, letras
+  h), i), j), l). "Corresponsabilidad" no aparece como principio con
+  ese nombre en ese listado. **Pepe confirmó: usar art. 3.**
+- ❌ **RD 659/2023, "art. 12"**: ERROR. El art. 12 regula "Tipos y
+  estructura de los módulos profesionales" (nada que ver). Búsqueda en
+  todo el texto del RD de "cultura de prevención de riesgos laborales",
+  "consumo responsable", "transición ecológica" y "derechos
+  fundamentales": **no aparecen en ningún artículo**. Ese contenido
+  coincide de hecho con el art. 4.3 de la Orden 21/09/2026 (CARM), ya
+  citado en el 5.1. **Pepe decidió: descartar RD 659/2023 en el 5.3,
+  usar solo LO 3/2022 art. 3 para la normativa estatal.**
+
+Iban ya 4 errores de cita/artículo de la preparadora detectados y
+corregidos en esta sesión: LOE art. 6.2→6.1, LOMLOE art. 42.3
+(descartado), LO 3/2022 art. 11→3, RD 659/2023 art. 12 (descartado).
+**Patrón claro: confiar siempre en la verificación directa de la fuente
+primaria antes de usar cualquier cita que dé, por fiable que parezca.**
+
+### Punto 5.3 — Contenidos profesionales transversales (CERRADO, 13/11/2026)
+
+Redactado siguiendo el guion de Pepe. Estructura final:
+- Párrafo 1 (introducción): Informe Delors (1996) — aprender a convivir
+  y a ser — vinculado a los valores específicos del módulo (ética
+  profesional, empatía, asertividad, trabajo en equipo).
+- Párrafo 2 (fundamentación legislativa general): Preámbulo LOMLOE, las
+  5 líneas generales (ver verificación arriba).
+- Párrafo 3 (concreción en normativa FP): LO 3/2022 art. 3 (estatal,
+  corregido); Orden 21/09/2026 arts. 3-4 (CARM, remisión breve al 5.1
+  sin repetir texto); Decreto 13/2026 art. 98 (metodología docente
+  autonómica, verificado).
+- Tabla de 8 valores transversales (Valor | Importancia para el
+  módulo), de forma genérica para las 12 UT sin reparto específico:
+  Igualdad de género, No discriminación, Agenda 2030 (ODS 3,4,5,10,16 —
+  cambiados respecto al ejemplo de la preparadora para ajustarse mejor
+  a este módulo), Ética profesional, Empatía, Asertividad, Trabajo en
+  equipo, Resolución pacífica de conflictos (propuesta propia, ligada
+  al RA4). Acordada con Pepe.
+- Referencia añadida: Delors, J. (Coord.). (1996). *La educación
+  encierra un tesoro.* Santillana/UNESCO.
+
 ### Pendiente de esta tercera entrega
-- 5.3 Contenidos profesionales transversales, 5.4 Interdisciplinariedad
-  — sin empezar, pendientes del guion específico de Pepe para cada
-  apartado (ya tenemos el texto completo de la preparadora arriba, pero
-  seguimos su método de pedirle a Pepe las indicaciones concretas antes
-  de redactar).
-- Verificar antes de usarla la normativa nueva del 5.3 que aún no se ha
-  comprobado: LO 3/2022 art. 11, RD 659/2023 art. 12, y sobre todo el
-  "Decreto n.º 13/2026, de 5 de marzo, art. 98" que no hemos visto nunca
-  y no está confirmado que exista — máxima prioridad de verificación
-  antes de redactar el 5.3.
+- 5.4 Interdisciplinariedad — sin empezar, pendiente del guion
+  específico de Pepe (ya tenemos el texto completo de la preparadora en
+  el §16 de más arriba).
 - Seguir esperando que Pepe comparta más notas de los vídeos antes de
   seguir avanzando (trabajamos paso a paso, sin adelantarnos).
 - Las correcciones pendientes de la preparadora sobre la **segunda
