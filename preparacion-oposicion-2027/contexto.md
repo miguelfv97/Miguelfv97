@@ -1633,3 +1633,31 @@ explicación de por qué/cómo se relacionan los contenidos.
 - Las correcciones pendientes de la preparadora sobre la **segunda
   entrega** (ver §15) siguen sin resolver — Pepe decidió aparcarlas
   temporalmente para avanzar con esta tercera entrega en paralelo.
+
+## 17. Persistencia de documentos — convención a partir de 13/11/2026
+
+**Problema detectado por Pepe**: los documentos que sube al chat (PDF,
+Word) viven en una carpeta temporal de la conversación, no en el
+repositorio. Cuando el contenedor se reinicia (inactividad, varios días
+sin usar la sesión), esa carpeta desaparece y hay que pedirle a Pepe que
+vuelva a subir archivos que ya había compartido — pérdida de tiempo que
+él señaló expresamente.
+
+**Convención a partir de ahora**: todo documento que Pepe suba al chat
+se copia de inmediato a `preparacion-oposicion-2027/documentos_preparadora/`
+y se commitea. Así queda en GitHub para siempre, independientemente de
+los reinicios del contenedor.
+
+**Inventario actual de `documentos_preparadora/`**:
+- `PARTE_2_PD_Objetivos_y_contenidos.pdf` — guion de la preparadora para
+  el punto 4 (Objetivos), ya usado y cerrado.
+- `PARTE_3_PD_Contenidos.pdf` — guion de la preparadora para el punto 5
+  (Contenidos); su texto íntegro para 5.3 y 5.4 ya está además
+  transcrito en el §16 de este documento.
+- `EVALUACION_CRITERIAL.pdf` — documento de la primera entrega
+  (evaluación criterial), reenviado por Pepe el 13/11/2026; **pendiente
+  de revisar si aporta algo nuevo** respecto a lo ya incorporado vía
+  `Correccion_Preparadora_Evaluacion_Criterial.docx` (ver §16).
+- `BASES_REGULADORAS_CONVOCATORIA.pdf` (60 páginas) — bases de la
+  convocatoria de la oposición; reenviado por Pepe el 13/11/2026;
+  **pendiente de revisar**, no se ha usado todavía en este documento.
