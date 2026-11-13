@@ -1530,14 +1530,104 @@ Redactado y confirmado por Pepe ("todo correcto"). Estructura final:
 - Referencias añadidas: Zabala, A. (1995). *La práctica educativa: Cómo
   enseñar.* Graó.
 
+### Punto 5.2 — Contenidos didácticos (CERRADO, 13/11/2026)
+
+Redactado siguiendo el guion de Pepe. Estructura final:
+- Párrafo 1: los contenidos del módulo (5.1) se concretan y distribuyen
+  en contenidos didácticos a lo largo de las 12 UT.
+- Lista de 9 criterios de concreción (tal cual los da la preparadora):
+  relevancia social; proximidad a la experiencia/sector empresarial;
+  recogen aspectos fundamentales del módulo; promueven curiosidad/
+  interés/motivación; ajustados al desarrollo cognitivo/ideas previas;
+  importancia social/cultural/laboral; polivalencia e
+  interdisciplinariedad; formulación abierta y flexible; actualidad y
+  novedad.
+- **Corrección de cita**: la preparadora atribuye estos criterios a
+  "Binaburo Iturbide (1995)". Verificado: ese año corresponde a un
+  capítulo suyo sobre ética/filosofía moral (no relacionado). La obra
+  que sí trata expresamente de elaborar unidades didácticas es de 2007,
+  en coautoría con Gijón Puerta: *Cómo elaborar unidades didácticas en
+  enseñanza secundaria* (Fundación ECOEM). Pepe confirmó: "cambia a
+  2007". **Usar siempre esta referencia: Binaburo Iturbide, J. A., y
+  Gijón Puerta, J. (2007).**
+- Nota sobre color azul = contenidos vinculados a FEM: aclarado que en
+  este módulo (0h FCT propias) se aplicará a los contenidos del RA5
+  (vinculado a FCT en el 4.3), no a una franja horaria del módulo.
+- Nota sobre negrita = contenidos imprescindibles (refuerzo/
+  recuperación) vs. contenidos de ampliación.
+
+### Nuevo documento — Referencias bibliográficas acumuladas (13/11/2026)
+
+Pepe indicó que NO está guardando las referencias APA en su documento
+plantilla todavía. Se crea `materiales/Referencias_Bibliograficas_Acumuladas.docx`
+como documento vivo: acumula, por orden de aparición, todas las
+referencias APA 7.ª ed. de cada entrega (actualmente: Coll 1987, Bolívar
+2010, Kennedy et al. 2007 del punto 4; Zabala 1995, Binaburo Iturbide y
+Gijón Puerta 2007 del punto 5). Incluye también un apartado señalando
+las menciones de la **segunda entrega** sin año/referencia completa
+(Piaget, Knowles, CEDEFOP, informe Delors/UNESCO) — pendiente de que
+Pepe decida si se completan o se dejan como menciones contextuales.
+**A partir de ahora, cada vez que añadamos una cita nueva a cualquier
+entrega, hay que añadirla también a este documento acumulador y
+commitearlo junto con el resto.**
+
+### Guion completo de la preparadora para 5.3 y 5.4 (de "PARTE_3._PD_Contenidos.pdf", recuperado 13/11/2026)
+
+Guardado aquí íntegro para no perderlo si se vuelve a reiniciar el
+contenedor (el PDF original no persiste):
+
+**5.3. Contenidos profesionales transversales** (asociados al perfil
+profesional y a las CPE). Ítems que debe llevar el punto:
+1. Introducción al punto (ejemplo de la preparadora cita el Informe
+   Delors, 1996, sobre "aprender a convivir y aprender a ser").
+2. Fundamentarlo en la legislación: Preámbulo de la LO 3/2020 (que
+   modifica la LOE) — 5 líneas generales (derechos de la infancia,
+   igualdad de género/coeducación, enfoque transversal de éxito
+   educativo, desarrollo sostenible/Agenda 2030, cambio digital/TIC).
+3. Concretar en la legislación de la FP:
+   - Estatal: LO 3/2022 art. 11 (principios pedagógicos: igualdad
+     efectiva, no discriminación, sostenibilidad ambiental,
+     digitalización ética, corresponsabilidad) — **sin verificar
+     todavía**.
+   - Estatal: RD 659/2023 art. 12 (PRL, consumo responsable, transición
+     ecológica, derechos fundamentales) — **sin verificar todavía**.
+   - CARM: Orden 21/09/2026 y Orden 25/09/2026, arts. 3 y 4 (ya
+     verificados en el 5.1 para el art. 3.3 y el art. 4 completo).
+   - **"Metodología docente autonómica": art. 98 del Decreto n.º
+     13/2026, de 5 de marzo** — cita textual de la preparadora:
+     "las actividades de aula deben: unir teoría/técnica/organización;
+     fomentar aprendizaje autónomo y trabajo en equipo; desarrollar
+     habilidades sociales; promover igualdad real". **NUNCA VERIFICADO
+     — no sabemos si este decreto existe ni si dice esto. Hay que
+     comprobarlo antes de usarlo.**
+4. Incorporar valores transversales asociados al perfil profesional:
+   listado de ejemplos (resolución pacífica de conflictos,
+   sostenibilidad, digitalización, igualdad de género, innovación,
+   trabajo cooperativo, salud/prevención burn-out, PRL, accesibilidad
+   universal, Agenda 2030...) — elegir algunos y justificar por qué
+   importan para este módulo. También se puede enlazar con el proyecto
+   educativo de centro (coherencia con lo ya descrito en el punto 2 de
+   Villa de Abarán). Ejemplo de tabla: Nombre del valor | Importancia
+   para el módulo (su ejemplo desarrolla Igualdad de género, Agenda
+   2030 con ODS 3/4/5/12/13/16, y Trabajo cooperativo).
+
+**5.4. Interdisciplinariedad**: conectar el módulo con otros módulos del
+ciclo de Integración Social, con coordinación de departamento. Ejemplo
+de la preparadora: aprendizaje-servicio para mejorar el entorno/barrio.
+Tabla simple: "CONTENIDOS INTERMODULARES" con columna MP (otro módulo) y
+explicación de por qué/cómo se relacionan los contenidos.
+
 ### Pendiente de esta tercera entrega
-- 5.2 Contenidos didácticos, 5.3 Contenidos profesionales transversales,
-  5.4 Interdisciplinariedad — sin empezar, pendientes del guion de Pepe
-  para cada apartado (siguiendo el documento "PARTE 3. PD Contenidos").
-- Verificar antes de usarla la normativa nueva mencionada arriba que
-  aún no se ha comprobado: LO 3/2022 art. 11, RD 659/2023 art. 12, y
-  sobre todo el "Decreto n.º 13/2026, de 5 de marzo, art. 98" que no
-  hemos visto nunca y no está confirmado que exista.
+- 5.3 Contenidos profesionales transversales, 5.4 Interdisciplinariedad
+  — sin empezar, pendientes del guion específico de Pepe para cada
+  apartado (ya tenemos el texto completo de la preparadora arriba, pero
+  seguimos su método de pedirle a Pepe las indicaciones concretas antes
+  de redactar).
+- Verificar antes de usarla la normativa nueva del 5.3 que aún no se ha
+  comprobado: LO 3/2022 art. 11, RD 659/2023 art. 12, y sobre todo el
+  "Decreto n.º 13/2026, de 5 de marzo, art. 98" que no hemos visto nunca
+  y no está confirmado que exista — máxima prioridad de verificación
+  antes de redactar el 5.3.
 - Seguir esperando que Pepe comparta más notas de los vídeos antes de
   seguir avanzando (trabajamos paso a paso, sin adelantarnos).
 - Las correcciones pendientes de la preparadora sobre la **segunda
