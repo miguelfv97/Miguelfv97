@@ -1505,10 +1505,39 @@ el desarrollo de funciones profesionales, pese a que el currículo oficial
 asigna 0 horas de fase de empresa a este módulo (155h, 155 en centro).
 Confirmado por Pepe.
 
+### Punto 5.1 — Contenidos del módulo (CERRADO, 13/11/2026)
+
+Redactado y confirmado por Pepe ("todo correcto"). Estructura final:
+- Párrafo 1: concepto de contenido (Zabala, 1995 — *La práctica
+  educativa: cómo enseñar*, Graó — clasificación conceptual/
+  procedimental/actitudinal) + art. 3.3 Orden 21/09/2026 (contenidos del
+  Anexo I = orientativos, determinación del equipo docente) + enlace con
+  la proyección práctica/FEM a través del RA5 (ya vinculado a FCT en el
+  4.3).
+- Párrafo 2: adaptación al tejido productivo y contexto sociocultural.
+  **Verificado y descartado el art. 42.3 LOMLOE/LOE** (habla de
+  digitalización/emprendimiento/sostenibilidad, no de tejido productivo
+  ni contexto sociocultural — no encajaba). En su lugar, usado el **art.
+  4 de la misma Orden 21/09/2026** ("Adaptación al entorno
+  socio-productivo", apdos. 1 y 2), mucho más pertinente y verificado
+  literalmente contra el BORM. Elección justificada a Pepe y aceptada.
+  Enlaza con el perfil del IES Villa de Abarán (punto 2).
+- Párrafo 3 + tabla: 5 bloques de contenidos (uno por RA), con el texto
+  íntegro ya verificado del Anexo I del RD 1074/2012 (mod. RD 289/2023),
+  sin citar ninguna orden derogada, tal y como pidió Pepe. Nota de
+  cierre: los bloques son un punto de partida, ajustable al diseñar las
+  UT.
+- Referencias añadidas: Zabala, A. (1995). *La práctica educativa: Cómo
+  enseñar.* Graó.
+
 ### Pendiente de esta tercera entrega
-- Todo el punto 5 (Contenidos) — sin empezar. Pendiente verificar la
-  normativa nueva mencionada arriba antes de redactar nada (en especial
-  el "Decreto n.º 13/2026" que no hemos visto nunca).
+- 5.2 Contenidos didácticos, 5.3 Contenidos profesionales transversales,
+  5.4 Interdisciplinariedad — sin empezar, pendientes del guion de Pepe
+  para cada apartado (siguiendo el documento "PARTE 3. PD Contenidos").
+- Verificar antes de usarla la normativa nueva mencionada arriba que
+  aún no se ha comprobado: LO 3/2022 art. 11, RD 659/2023 art. 12, y
+  sobre todo el "Decreto n.º 13/2026, de 5 de marzo, art. 98" que no
+  hemos visto nunca y no está confirmado que exista.
 - Seguir esperando que Pepe comparta más notas de los vídeos antes de
   seguir avanzando (trabajamos paso a paso, sin adelantarnos).
 - Las correcciones pendientes de la preparadora sobre la **segunda
