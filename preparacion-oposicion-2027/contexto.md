@@ -1464,16 +1464,39 @@ simples que los calculados originalmente a partir del nº de CE por UT):
 pudieran aparecer en notas anteriores de esta sesión (p. ej. "22,2/33,3/
 44,4%" para RA5 era un cálculo previo, ya superado por esta corrección).
 
-### Punto 4.3 — Interrelación objetivos-UT (CERRADO salvo 1 duda a la preparadora, 12/11/2026)
+### Punto 4.3 — Interrelación objetivos-UT (CERRADO, 13/11/2026)
 
-Tabla con celdas de RA combinadas verticalmente (agrupando visualmente
-sus UT), usando los porcentajes corregidos de arriba. Columnas OGC y CPE:
-se repite el mismo conjunto completo de letras en todas las filas (m,o,
-q,r,s,t,w para OGC; m,o,q,r,s,u para CPE), marcado en rojo explicando
-que el RD 1074/2012 no desglosa esta relación por RA, solo para el
-módulo completo — **pendiente de una pregunta enviada a la preparadora**
-sobre si prefiere que hagamos un reparto diferenciado propio por RA en
-su lugar.
+La preparadora respondió al correo (verbatim): *"No existe una relación,
+la tienes que hacer tú según consideres. Una distribución por RA con
+sentido común, esta relación es propia y personal, cada uno pone lo que
+quiere con criterio y organización."* Queda confirmado que el desglose
+OGC/CPE por RA es una propuesta propia del autor, no una relación
+normativa — así se indica en el documento (nota en cursiva, no en rojo,
+ya que no es una incertidumbre sino una decisión metodológica explícita
+y autorizada).
+
+Reparto final acordado con Pepe (cada letra usada una sola vez, salvo
+la excepción señalada):
+
+| RA | OGC | CPE |
+|---|---|---|
+| RA1 — Comunicación e IE | o), t) | o), s) |
+| RA2 — Dinamización de grupos | q), s) | r) |
+| RA3 — Conducción de reuniones | r) | s) *(repetida, ver nota)* |
+| RA4 — Gestión de conflictos | m) | m), q) |
+| RA5 — Evalúa procesos de grupo/competencia social | w) | u) |
+
+Nota: la CPE q) se trasladó de RA3 a RA4 a petición de Pepe (mejor
+encaje con gestión de conflictos). Para no dejar RA3 sin CPE propia, se
+repite la s) ("Comunicarse con sus iguales, superiores, clientes...
+transmitiendo la información") en RA1 y RA3, por su doble pertinencia a
+la comunicación y a la conducción de reuniones — única letra repetida
+en toda la tabla.
+
+Tabla con celdas de RA, Ponderación RA, OGC y CPE combinadas
+verticalmente (agrupando visualmente las UT de cada RA), mostrando el
+texto completo de cada letra (ya no solo el código), usando los
+porcentajes corregidos de arriba.
 
 **RA marcado para la FEM: RA5** (Evalúa los procesos de grupo y la
 propia competencia social para el desarrollo de sus funciones
@@ -1483,8 +1506,6 @@ asigna 0 horas de fase de empresa a este módulo (155h, 155 en centro).
 Confirmado por Pepe.
 
 ### Pendiente de esta tercera entrega
-- Esperar respuesta de la preparadora sobre el reparto OGC/CPE por RA
-  (correo ya redactado, pendiente de que Pepe lo envíe).
 - Todo el punto 5 (Contenidos) — sin empezar. Pendiente verificar la
   normativa nueva mencionada arriba antes de redactar nada (en especial
   el "Decreto n.º 13/2026" que no hemos visto nunca).
