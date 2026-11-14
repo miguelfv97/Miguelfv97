@@ -935,10 +935,12 @@ Social, que confirma todos los datos sin discrepancias):
   genéricos de su plantilla, verificados como correctos para cualquier
   Técnico Superior.
 - **Estándar de competencia asociado al módulo**: RD 1074/2012, de 13 de
-  julio, modificado por el RD 289/2023, de 18 de abril — para nuestro
-  título, **no** el RD 500/2024 que cita genéricamente su plantilla (ese
-  RD 500/2024 modifica otros títulos de grado superior, p. ej. Educación
-  Infantil/0018, no Integración Social).
+  julio, modificado por el RD 289/2023, de 18 de abril (Anexo I,
+  currículo). ⚠ **CORREGIDO el 14/11/2026** (ver §18): esta nota decía
+  que el RD 500/2024 "no aplica a nuestro título" — **era un error**.
+  El RD 500/2024 sí modifica el RD 1074/2012, pero solo su Anexo III
+  (especialidades del profesorado), no el Anexo I. Ambos RD se citan
+  ahora en el 1.4.
 - **Dejado en blanco, a petición de Pepe**: "Modalidad de evaluación del
   ciclo formativo en el centro" (depende del centro, aún no elegido en
   Contextualización) y la Orden de convocatoria de la oposición (la de
@@ -1823,6 +1825,57 @@ distinga a simple vista.
   ejemplo real de la preparadora), no 4. Reescritos en prosa con el
   mismo estilo ordinal pedido por Pepe, separando de nuevo LOMLOE del
   RD+Orden de currículo.
+
+**Segunda ronda de correcciones — puntos 1.4 y 1.5 (14/11/2026)**:
+
+- **1.4, normativa FP**: sustituida la Resolución de 5/07/2024 por la
+  **Resolución de 4 de agosto de 2026** (instrucciones inicio de curso
+  2026-2027, BORM 197/27-08-2026 — ya verificada antes, en el 1.3).
+  Añadida la **Orden de 28 de julio de 2026** (evaluación grados D/E,
+  BORM 175/31-07-2026) junto a la Orden de 1/06/2006, verificada por
+  búsqueda (existe, objeto confirmado).
+- **1.4, normativa del Ciclo Formativo** — ⚠ **CORRECCIÓN IMPORTANTE A
+  UNA NOTA PROPIA ANTERIOR**: en el §1.1 CERRADO de este documento
+  (sesión muy anterior) se afirmaba que el *RD 500/2024 "no aplica a
+  nuestro título, modifica otros títulos como Educación Infantil"*.
+  **Esto era un error.** Verificado línea por línea contra el texto
+  oficial del BOE (BOE-A-2024-10685): el RD 500/2024 modifica el RD
+  1074/2012 en su modificación nº 48 de la lista ("Cuarenta y ocho. En
+  el Real Decreto 1074/2012... se incluye como anexo III el que figura
+  como anexo XLIX..."). **Sí nos afecta**, pero solo a su **Anexo III**
+  (especialidades del profesorado / atribución docente) — el Anexo I
+  (currículo: RA, CE, contenidos, orientaciones pedagógicas) lo sigue
+  modificando únicamente el RD 289/2023. Ahora se citan las 3 normas
+  por separado: RD 1074/2012 (base) + RD 289/2023 (con su título oficial
+  completo: *"por el que se actualizan los títulos... de Técnico
+  Superior en Integración Social y Técnico Superior en Mediación
+  Comunicativa..."*) + RD 500/2024 (nuevo).
+- **1.5**: eliminado el párrafo "No podemos perder de vista la
+  importancia de la Formación Profesional..." (redundante con la
+  introducción del 1.2; decisión propia, sin indicación adicional de la
+  preparadora más allá de "no lo entiendo").
+- **1.5, cita de Coll**: pasada a formato APA in-text: "Siguiendo a Coll
+  (1987)...".
+- **1.5, UNESCO/Delors — error de fuente localizado y corregido**: el
+  título correcto del informe es **"Reimaginar juntos nuestros futuros:
+  un nuevo contrato social para la educación" (UNESCO, 2021)**, no
+  "Reinventar juntos nuestros futuros" (de ahí que a la preparadora no
+  le sonara). Corregido también "aprender a estar" → **"aprender a
+  convivir"** (el pilar real de Delors, 1996; "aprender a estar" no es
+  uno de los 4 pilares). Eliminada la "quinta metacompetencia aprender a
+  cuidar y transformar": no se ha podido verificar que sea un pilar
+  oficial de la UNESCO (solo aparece en blogs/fuentes secundarias no
+  citables), así que se descarta en vez de arriesgarse a dejar algo sin
+  verificar.
+- **1.5, sospecha de "esto suena a IA"**: no se cambia la estructura
+  clásica de las 4 fuentes (Coll, 1987), pero se ancla Pedagógica y
+  Psicológica a contenido más específico del módulo (carácter
+  procedimental/actitudinal; andragogía, ya usada en 2.2) para reducir
+  el tono genérico, dejando explícito que todo el esquema sigue a Coll.
+- Referencias añadidas al acumulador: Delors (1996) y UNESCO (2021), con
+  nota de que Coll y Delors ya aparecen en otros puntos (no duplicar en
+  la lista final). Resuelta y marcada como tal la antigua mención
+  pendiente sobre el informe UNESCO mal citado.
 
 **Pendiente de resolver con Pepe**:
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
