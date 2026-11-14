@@ -1877,7 +1877,44 @@ distinga a simple vista.
   la lista final). Resuelta y marcada como tal la antigua mención
   pendiente sobre el informe UNESCO mal citado.
 
+**Tercera ronda de correcciones — puntos 2.1 y 2.2 (14/11/2026)**:
+
+- **⚠ CRITERIO NUEVO, APLICA A TODA LA PD EN ADELANTE**: la preparadora
+  no quiere que se nombre el centro como "IES Villa de Abarán". Verificado
+  geográficamente: Abarán pertenece a la comarca de la **Vega Alta del
+  Segura** (no al Valle de Ricote propiamente, aunque es literalmente "la
+  entrada norte" a ese valle — ambas referencias son compatibles).
+  **Fórmula acordada con Pepe y ya aplicada**: *"un instituto de
+  Educación Secundaria situado en la comarca de la Vega Alta del Segura,
+  a orillas del río Segura, en la entrada al Valle de Ricote"* en la
+  primera mención (2.1); después, simplemente "el centro"/"el instituto".
+  Sustituidas las 2 apariciones existentes (2.1 y 2.3).
+  **Alcance de la anonimización, decisión propia**: solo se oculta el
+  **nombre del centro**, no el topónimo "Abarán" en sí, que se mantiene
+  en el resto del punto 2 (habitantes, Ayuntamiento, ADFA, economía
+  local, etc.) por tratarse de datos del municipio, no del centro.
+  Pendiente de que Pepe confirme si la preparadora quiere ir más allá.
+- **2.1**: quitada la referencia explícita a "la Programación General
+  Anual del curso 2025-2026" (la PD es para el curso actual).
+- **2.1, profesorado**: reestructurado con la estructura exacta que pide
+  la preparadora (total centro / total departamento / aprox. por
+  especialidad / % definitivo vs. interino), con los 3 últimos datos en
+  rojo como pendientes de confirmación del centro (seguimos sin
+  respuesta del contacto de Pepe).
+- **2.2, primer párrafo**: reestructurado y acortado (quitada la
+  enumeración "lista" de rasgos de la andragogía que sonaba generada por
+  IA), manteniendo la referencia a Knowles.
+- **2.2, alumnado extranjero**: sustituido "es minoritaria" (sin datos)
+  por una nota en rojo pendiente de confirmar el número exacto para
+  este grupo de 18 alumnos, aportando como contexto el dato real
+  verificado a nivel de todo el centro (17% alumnado inmigrante,
+  mayoritariamente marroquí, según la PGA 2025-26 — dato de centro, no
+  de PGA nueva, por eso no se cita la fuente explícitamente en el texto).
+
 **Pendiente de resolver con Pepe**:
+- Confirmar si la anonimización del centro debe extenderse también al
+  topónimo "Abarán" en el resto del punto 2, o si se queda como está
+  (solo el nombre del centro).
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - Pepe sigue dando correcciones de la preparadora una a una — continuar
