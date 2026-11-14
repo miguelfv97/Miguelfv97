@@ -1911,10 +1911,19 @@ distinga a simple vista.
   mayoritariamente marroquí, según la PGA 2025-26 — dato de centro, no
   de PGA nueva, por eso no se cita la fuente explícitamente en el texto).
 
+**RESUELTO (14/11/2026)**: Pepe confirmó que también quiere ocultar el
+topónimo "Abarán", no solo el nombre del centro. Eliminadas las 4
+apariciones restantes (todas en el 2.3): "el municipio de Abarán" →
+"el municipio"; "el Ayuntamiento de Abarán" → "el Ayuntamiento"; "Abarán
+cuenta con 13.504 habitantes" → "el municipio cuenta con..."; y
+"Asociación de Disminuidos Físicos de Abarán (ADFA)" → generalizada a
+"una asociación local de atención a personas con discapacidad física"
+(se quita también el nombre/siglas de la entidad, ya que su propio
+nombre oficial delataba el municipio). **Confirmado: 0 apariciones de
+"Abarán" en todo el documento.** Criterio para el resto de la PD: no
+nombrar ni el centro ni el municipio en ningún punto futuro.
+
 **Pendiente de resolver con Pepe**:
-- Confirmar si la anonimización del centro debe extenderse también al
-  topónimo "Abarán" en el resto del punto 2, o si se queda como está
-  (solo el nombre del centro).
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - Pepe sigue dando correcciones de la preparadora una a una — continuar
