@@ -1807,17 +1807,20 @@ distinga a simple vista.
   1.3-párrafo final): eliminadas las menciones de 1.1 y del párrafo de
   niveles, mantenida solo la del párrafo de cierre del 1.3.
 
+**Resuelto (14/11/2026)**:
+- **Formato del cuadro 1.1**: Pepe decidió (tras dudar entre la opción 3
+  "preguntar a la preparadora" y rectificar) quedarse con la **opción
+  2: mismo formato vertical que el original y que propone la
+  preparadora, pero comprimido** — sin la fila vacía de "modalidad de
+  evaluación" y con la cita del estándar de competencia acortada (ya
+  completa en el párrafo de arriba). Se descarta el diseño horizontal
+  que se había probado.
+- **Niveles de concreción del 1.3**: quedan en **5** (como en el
+  ejemplo real de la preparadora), no 4. Reescritos en prosa con el
+  mismo estilo ordinal pedido por Pepe, separando de nuevo LOMLOE del
+  RD+Orden de currículo.
+
 **Pendiente de resolver con Pepe**:
-- **Formato del cuadro 1.1**: Pepe pidió probar un diseño horizontal (ya
-  entregado, 4 columnas x 2 bloques en vez de 9 filas apiladas). OJO:
-  verificado que el propio ejemplo de la preparadora en
-  `TAREA_Parte_1_PD_Rita_Ros.pdf` usa el formato **vertical** (igual al
-  original), no horizontal — su comentario "dale otro formato" sigue sin
-  una interpretación clara. Pepe debe decidir entre quedarse con el
-  horizontal, volver al vertical recortado, o preguntarle directamente a
-  la preparadora.
-- Confirmar si los niveles de concreción deben quedar en 4 o volver a 5
-  (ver arriba).
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - Pepe sigue dando correcciones de la preparadora una a una — continuar
