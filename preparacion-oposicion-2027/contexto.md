@@ -1986,16 +1986,16 @@ trabajo — este es ahora el texto de referencia real.**
   aplicabilidad práctica inmediata de lo aprendido y se motiva
   especialmente por su proyección profesional").
 - Párrafo del alumnado extranjero: coincide exactamente con lo acordado.
-- ⚠ **Detectado un cabo suelto**: queda **una mención de "Abarán" sin
-  anonimizar** en el 2.3 — "la Asociación de Disminuidos Físicos de
-  Abarán (ADFA)". Las otras tres correcciones de esa misma ronda sí
-  están aplicadas (municipio, Ayuntamiento, población). Pepe lo aplicó
-  a mano antes de que yo hiciera esa corrección puntual sobre ADFA, así
-  que se quedó fuera. Señalado a Pepe para la próxima revisión.
+- **"Abarán" en el nombre de ADFA: decisión intencionada de Pepe, no un
+  descuido.** Queda esa única mención ("la Asociación de Disminuidos
+  Físicos de Abarán, ADFA") porque, según su criterio, no equivale a
+  decir dónde está el instituto — es el nombre propio de una entidad
+  externa, igual que se nombran Cruz Roja, Cáritas o AFEMCE (que
+  incluye "Cieza" en su propio nombre). La anonimización se limita a
+  las afirmaciones directas sobre la ubicación del centro/municipio,
+  no a los nombres propios de terceras entidades que lo contengan.
 
 ### Pendiente
-- Que Pepe decida si corrige ya la mención de ADFA/Abarán que quedó
-  suelta, o lo deja para la próxima ronda con la preparadora.
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - A la espera de la siguiente corrección/feedback de la preparadora
