@@ -1971,9 +1971,31 @@ correcciones/cambios a hacer.
 (puntos 1-3, segunda entrega) con sus comentarios, previsiblemente
 durante esta semana.
 
+### RESUELTO (14/11/2026) — documento final real recibido y registrado
+
+Pepe compartió el documento real y completo que entregó a la
+preparadora (`Plantilla_PROGRAMACIÓN_DIDÁCTICA_PEPE-3entrega.docx` —
+"3entrega" se refiere a la 3.ª versión/revisión de esta misma entrega,
+no a la tercera entrega de puntos 4-5). **Guardado tal cual en
+`materiales/Plantilla_PD_Unificada.docx`, sustituyendo nuestra copia de
+trabajo — este es ahora el texto de referencia real.**
+
+- **Opción elegida para el párrafo de andragogía del 2.2: la B**
+  ("...lo que condiciona el enfoque metodológico de esta programación
+  hacia un alumnado que aporta su propia experiencia, busca la
+  aplicabilidad práctica inmediata de lo aprendido y se motiva
+  especialmente por su proyección profesional").
+- Párrafo del alumnado extranjero: coincide exactamente con lo acordado.
+- ⚠ **Detectado un cabo suelto**: queda **una mención de "Abarán" sin
+  anonimizar** en el 2.3 — "la Asociación de Disminuidos Físicos de
+  Abarán (ADFA)". Las otras tres correcciones de esa misma ronda sí
+  están aplicadas (municipio, Ayuntamiento, población). Pepe lo aplicó
+  a mano antes de que yo hiciera esa corrección puntual sobre ADFA, así
+  que se quedó fuera. Señalado a Pepe para la próxima revisión.
+
 ### Pendiente
-- Sincronizar en el repo los 2 cambios del 2.2 en cuanto Pepe diga qué
-  opción de andragogía usó.
+- Que Pepe decida si corrige ya la mención de ADFA/Abarán que quedó
+  suelta, o lo deja para la próxima ronda con la preparadora.
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - A la espera de la siguiente corrección/feedback de la preparadora
