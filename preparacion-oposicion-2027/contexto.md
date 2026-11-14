@@ -1949,17 +1949,33 @@ nombrar ni el centro ni el municipio en ningún punto futuro.
 - El 3.4 (hilo conductor, ya redactado con la metáfora de "la caja de
   herramientas") queda intacto, verificado tras el recorte.
 
-**Pendientes de confirmación de Pepe (sin aplicar todavía)**:
-- **2.2, primer párrafo**: Pepe rechazó la versión con "andragogía
-  (Knowles)" explícita; se le dieron 3 propuestas alternativas sin citar
-  teoría por su nombre (opciones A/B/C) — **todavía no ha elegido
-  ninguna**.
-- **2.2, alumnado extranjero**: ya tiene redacción acordada y lista
-  (6 alumnos/as: 3 marroquíes, 1 peruano, 1 ecuatoriano, 1 ucraniana;
-  sin dificultades de idioma) para sustituir el aviso en rojo — **lista
-  para aplicar en cuanto Pepe dé el OK junto con la opción del párrafo
-  de andragogía** (pidió aplicar ambos cambios juntos).
+## 19. SEGUNDA ENTREGA — correcciones aplicadas y reentregada (14/11/2026)
+
+**Pepe confirma: entrega de correcciones realizada.** Aplicó él mismo,
+a mano y directamente sobre su documento, los dos últimos cambios
+pendientes del 2.2 (el párrafo sin mencionar andragogía/Knowles —
+copiando una de las opciones A/B/C que le dimos en el chat, sin
+especificar cuál— y el párrafo del alumnado extranjero con los datos
+reales: 6 alumnos/as, 3 marroquíes, 1 peruano, 1 ecuatoriano, 1
+ucraniana, sin dificultades de idioma). **Pendiente**: preguntarle a
+Pepe qué opción (A/B/C) usó para sincronizar `Plantilla_PD_Unificada.docx`
+del repositorio con el texto realmente entregado (el repo se quedó sin
+esos dos cambios, ya que los aplicó fuera de esta conversación).
+
+Pepe añade que la ronda anterior de correcciones de la preparadora
+también incluía **varios comentarios positivos** (sin cambios asociados)
+que no nos ha ido trasladando por no ser accionables — solo nos pasó las
+correcciones/cambios a hacer.
+
+**Estado**: a la espera de que la preparadora devuelva esta entrega
+(puntos 1-3, segunda entrega) con sus comentarios, previsiblemente
+durante esta semana.
+
+### Pendiente
+- Sincronizar en el repo los 2 cambios del 2.2 en cuanto Pepe diga qué
+  opción de andragogía usó.
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
-- Pepe sigue dando correcciones de la preparadora una a una — continuar
-  según las vaya mandando.
+- A la espera de la siguiente corrección/feedback de la preparadora
+  (segunda entrega) o de que Pepe retome la tercera entrega (puntos 4-5,
+  objetivos y contenidos — ver §16-18).
