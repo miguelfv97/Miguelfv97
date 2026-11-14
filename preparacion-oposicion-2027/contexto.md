@@ -1756,3 +1756,69 @@ los reinicios del contenedor.
 - `BASES_REGULADORAS_CONVOCATORIA.pdf` (60 páginas) — bases de la
   convocatoria de la oposición; reenviado por Pepe el 13/11/2026;
   **pendiente de revisar**, no se ha usado todavía en este documento.
+- `TAREA_Parte_1_PD_Rita_Ros.pdf` — documento guía original de la
+  preparadora para los puntos 1-3 (segunda entrega), recuperado el
+  14/11/2026. Contiene sus ejemplos y plantillas de cuadro para 1.1 y
+  1.2, su guion de niveles de concreción (1.3, en su ejemplo son 5
+  puntos: LOMLOE / RD+Orden de currículo / PEC-PGA-Memoria / Programación
+  Docente / Alumnado-ACNEAE) y el resto de puntos 1-3.
+
+## 18. Documento maestro unificado y correcciones de la preparadora (desde 13/11/2026)
+
+Pepe unificó él mismo los puntos 1-3 en un documento de trabajo
+(`materiales/Plantilla_PD_Unificada.docx`, en Google Docs originalmente)
+y empezó a pasar las correcciones pendientes de la preparadora sobre la
+segunda entrega. **Convención acordada**: cada corrección se aplica
+directamente sobre este documento, marcada en **azul** (no rojo, que
+queda reservado para dudas/citas sin verificar) para que Pepe la
+distinga a simple vista.
+
+**Correcciones ya aplicadas** (14/11/2026):
+- **155 horas (5h/semana) del 1.1**: verificado que sigue siendo
+  correcto (Anexo LXX, Orden 21/09/2026). Verificado además que esas 5h
+  son **horas de docencia presencial real** (RD 659/2023 art. 12.3.d:
+  "la duración mínima en la modalidad presencial" es uno de los
+  elementos del currículo básico de cualquier módulo profesional) — no
+  una cifra administrativa.
+- **1.2, párrafo duplicado**: recortada la frase que repetía
+  familia profesional/CINE/MECES, ya presentes en el cuadro del 1.1.
+- **1.2, cuadro reducido**: acortada la descripción larga de
+  "DENOMINACIÓN" a solo "Habilidades sociales.", corregido el resto
+  "0 (?) / Pendiente" (ya resuelto hace semanas: 0h FCT, 100% fase
+  centro) a "0", y reducida la fuente de la tabla a 10pt.
+- **1.3, párrafo inicial**: recortada la mención repetida al "Cuerpo de
+  Profesores de Enseñanza Secundaria... fase de oposición", que ya
+  aparecía en el 1.1.
+- **1.3, niveles de concreción**: reescritos en prosa (antes en viñetas,
+  para no confundirse con los puntos del índice), consolidados en 4
+  niveles según la frase de ejemplo de Pepe ("el primer nivel es...,
+  ...el cuarto nivel es..."). **Pendiente de confirmar**: el documento
+  original de la preparadora (`TAREA_Parte_1_PD_Rita_Ros.pdf`, recién
+  recuperado) muestra 5 niveles en su propio ejemplo (separa LOMLOE del
+  RD+Orden); si la frase de Pepe era solo de estilo y no un recuento
+  exacto, habría que volver a separarlos.
+- **1.3, párrafo de la FEM**: reescrito con datos verificados (Resolución
+  de 4 de agosto de 2026, instrucciones de inicio de curso: FEM régimen
+  general grado superior = 80-160h en 1º / 340-420h en 2º). **No existe
+  una fecha exacta fijada a nivel regional** — depende de la PGA de cada
+  centro; no se inventa un mes concreto para Villa de Abarán (solo
+  teníamos su PGA de 2025-26, no la actual).
+- **1.3, último párrafo** (repetido 3 veces: 1.1, 1.3-párrafo niveles,
+  1.3-párrafo final): eliminadas las menciones de 1.1 y del párrafo de
+  niveles, mantenida solo la del párrafo de cierre del 1.3.
+
+**Pendiente de resolver con Pepe**:
+- **Formato del cuadro 1.1**: Pepe pidió probar un diseño horizontal (ya
+  entregado, 4 columnas x 2 bloques en vez de 9 filas apiladas). OJO:
+  verificado que el propio ejemplo de la preparadora en
+  `TAREA_Parte_1_PD_Rita_Ros.pdf` usa el formato **vertical** (igual al
+  original), no horizontal — su comentario "dale otro formato" sigue sin
+  una interpretación clara. Pepe debe decidir entre quedarse con el
+  horizontal, volver al vertical recortado, o preguntarle directamente a
+  la preparadora.
+- Confirmar si los niveles de concreción deben quedar en 4 o volver a 5
+  (ver arriba).
+- Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
+  por si aportan algo nuevo (todavía no revisados a fondo).
+- Pepe sigue dando correcciones de la preparadora una a una — continuar
+  según las vaya mandando.
