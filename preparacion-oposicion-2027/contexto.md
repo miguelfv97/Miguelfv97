@@ -1923,7 +1923,42 @@ nombre oficial delataba el municipio). **Confirmado: 0 apariciones de
 "Abarán" en todo el documento.** Criterio para el resto de la PD: no
 nombrar ni el centro ni el municipio en ningún punto futuro.
 
-**Pendiente de resolver con Pepe**:
+**Cuarta ronda — punto 3.3, cambio normativo importante (14/11/2026)**:
+
+- ⚠ **Hallazgo clave**: el **Real Decreto 69/2025, de 4 de febrero**
+  (BOE-A-2025-2039) deroga el RD 1128/2003 (antiguo Catálogo Nacional de
+  Cualificaciones Profesionales, CNCP) y crea el **Catálogo Nacional de
+  Estándares de Competencias Profesionales (CNECP)**, arts. 5-6. Su
+  disposición adicional primera asimila automáticamente las antiguas
+  "unidades de competencia" a los nuevos "estándares de competencia
+  profesional" (ECP). El enlace que dio la preparadora
+  (incual.educacion.gob.es/bdc) muestra hoy literalmente "El Catálogo
+  (CNECP)", confirmándolo.
+- **3.3 reescrito completo**: título renombrado a "Cualificaciones
+  profesionales y estándares de competencia (ECP)"; primer párrafo
+  actualizado citando el CNECP y el RD 69/2025 en vez del CNCP/RD
+  1128/2003; **eliminado por completo el bloque "Cualificaciones
+  profesionales completas/incompletas"** (listaba cualificaciones de
+  todo el título, no específicas del módulo 0017 — la preparadora pidió
+  quitarlo si el módulo no tiene ECP asociado, y 0017 no lo tiene,
+  confirmado desde hace semanas vía Anexo V B del RD 1074/2012);
+  **confirmado y mantenido** (ya no en rojo, sino en azul) el párrafo
+  final que afirma que 0017 no corresponde a ningún ECP concreto y
+  complementa el título de forma global — es la respuesta correcta a
+  sus dos indicaciones, que apuntaban al mismo hecho.
+- El 3.4 (hilo conductor, ya redactado con la metáfora de "la caja de
+  herramientas") queda intacto, verificado tras el recorte.
+
+**Pendientes de confirmación de Pepe (sin aplicar todavía)**:
+- **2.2, primer párrafo**: Pepe rechazó la versión con "andragogía
+  (Knowles)" explícita; se le dieron 3 propuestas alternativas sin citar
+  teoría por su nombre (opciones A/B/C) — **todavía no ha elegido
+  ninguna**.
+- **2.2, alumnado extranjero**: ya tiene redacción acordada y lista
+  (6 alumnos/as: 3 marroquíes, 1 peruano, 1 ecuatoriano, 1 ucraniana;
+  sin dificultades de idioma) para sustituir el aviso en rojo — **lista
+  para aplicar en cuanto Pepe dé el OK junto con la opción del párrafo
+  de andragogía** (pidió aplicar ambos cambios juntos).
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - Pepe sigue dando correcciones de la preparadora una a una — continuar
