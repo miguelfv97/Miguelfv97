@@ -1811,10 +1811,14 @@ distinga a simple vista.
 - **Formato del cuadro 1.1**: Pepe decidió (tras dudar entre la opción 3
   "preguntar a la preparadora" y rectificar) quedarse con la **opción
   2: mismo formato vertical que el original y que propone la
-  preparadora, pero comprimido** — sin la fila vacía de "modalidad de
-  evaluación" y con la cita del estándar de competencia acortada (ya
-  completa en el párrafo de arriba). Se descarta el diseño horizontal
-  que se había probado.
+  preparadora, pero comprimido** — con la cita del estándar de
+  competencia acortada (ya completa en el párrafo de arriba). Se
+  descarta el diseño horizontal que se había probado.
+  **CORRECCIÓN (14/11/2026): la fila "MODALIDAD DE EVALUACIÓN DEL CICLO
+  FORMATIVO EN EL CENTRO" se queda en la tabla** (Pepe la necesita, es
+  un campo obligatorio de la plantilla de la preparadora) — sigue en
+  rojo con "Pendiente" hasta que Pepe sepa qué modalidad usa el IES
+  Villa de Abarán (modelo estándar o concentrado, A o B).
 - **Niveles de concreción del 1.3**: quedan en **5** (como en el
   ejemplo real de la preparadora), no 4. Reescritos en prosa con el
   mismo estilo ordinal pedido por Pepe, separando de nuevo LOMLOE del
