@@ -167,3 +167,23 @@ carrera larga continua.
 | Vie 13 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
 | Sáb 14 nov | Baloncesto: partido (jornada 5, CD Jesuitinas Murcia, 17:00) | Día de partido, a cero | Sin entreno estructurado | — |
 | Dom 15 nov | **Semana B — carrera larga continua** | Volumen específico de carrera | Resistencia Aeróbica (5:25-6:24/km), progresión suave sobre el patrón de ~20km ya consolidado | ☐ |
+
+## Semana del 16 al 22 de noviembre de 2026 — tercera semana de la fase Base
+
+**COROS sigue caído** (desde el 31 de octubre, 17º día hoy) — seguimos sin
+poder confirmar cumplimiento real ni recuperación/carga en ningún día de
+esta semana.
+
+**Semana C del ciclo de 3 semanas**: la jornada 6 de baloncesto (sábado 21
+nov, vs CD Ubarchena, fuera, 19:00) deja el domingo 22 libre — toca brick
+(bici moderada-larga + carrera corta).
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 16 nov | Gimnasio Rutina A (tren superior) + baloncesto | Rutina normal de lunes | Ver `rutinas/fuerza.md` — sin confirmar vía COROS (caído) | — |
+| Mar 17 nov | Gimnasio (pierna) + natación aeróbica | Rutina normal de martes | 3x400m a 2:33-2:36/100m — sin confirmar vía COROS (caído) | ☐ |
+| Mié 18 nov | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera estructurada — sin confirmar vía COROS (caído) | — |
+| Jue 19 nov | Series de calidad + baloncesto | Tercera semana de calidad en Base | 6x1000m progresivos (Potencia Aeróbica→Umbral→Resistencia Anaeróbica) | ☐ |
+| Vie 20 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
+| Sáb 21 nov | Baloncesto: partido (jornada 6, CD Ubarchena, fuera, 19:00) | Día de partido, a cero | Sin entreno estructurado | — |
+| Dom 22 nov | **Semana C — brick** | Transición y piernas cansadas | Bici moderada-larga (Resistencia Aeróbica-Potencia Aeróbica) + transición rápida + carrera corta suave (Recuperación/Resistencia Aeróbica, 10-20 min) | ☐ |
