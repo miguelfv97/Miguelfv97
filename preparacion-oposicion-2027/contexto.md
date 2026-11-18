@@ -2233,12 +2233,42 @@ decisiones, la segunda a elección de Pepe:
   ninguna información (solo las dos notas de color, aplazadas a
   propósito).
 
+### 21.6 — Punto 5.2 (antiguo 5.3), "Contenidos profesionales transversales": evitar comprometerse a repartirlos por UT antes de tiempo
+
+La preparadora señaló el párrafo previo a la tabla de valores
+transversales (igualdad de género, no discriminación, Agenda 2030,
+ética profesional, empatía, asertividad, trabajo en equipo, resolución
+pacífica de conflictos): "Si dejas esto así debes de incluirlos en
+todas las UT y decir cada uno de ellos como lo aplicas en las
+actividades, quizás sea mucho jaleo".
+
+El texto original decía que estos contenidos "se trabajarán de forma
+constante a lo largo de las doce Unidades de Trabajo —sin asignarlos a
+ninguna en particular—", lo que obligaría a justificar, UT por UT, la
+aplicación de los 8 valores en actividades concretas. Pepe propuso no
+comprometerse a eso todavía y dejarlo para cuando se diseñen las UT,
+cuadrándolo con los contenidos y bloques ya fijados en el 5.1.
+
+**Aplicado**: la frase se simplifica a "De acuerdo con este marco, los
+contenidos transversales que debe trabajar este módulo son los
+siguientes:", y se añade, justo antes de la tabla, en rojo/negrita/
+cursiva (mismo formato que las dudas del 5.4 original, ahora 5.3):
+
+> "[Su aplicación concreta en actividades, así como su distribución por
+> Unidades de Trabajo, se especificará al diseñar estas últimas,
+> tomando como referencia los contenidos y bloques ya establecidos en
+> el apartado 5.1.]"
+
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - **Barrido completo de anonimización pendiente en
   `Plantilla_Entrega3_0017_Habilidades_Sociales.docx`** (puntos 4-5):
   solo se ha revisado el entorno del 5.1 hasta ahora.
+- **Al diseñar las UT**, además de las notas de color del punto 21.5,
+  concretar también el reparto de los 8 valores transversales del
+  punto 5.2 por Unidad de Trabajo y su aplicación en actividades (nota
+  roja del punto 21.6).
 - **Recuperar, al redactar las Unidades de Trabajo**, las dos notas de
   color aplazadas del antiguo 5.2: contenidos en azul = vinculados al
   RA5/FEM; contenidos en negrita = imprescindibles (refuerzo/
