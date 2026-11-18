@@ -1998,6 +1998,81 @@ trabajo — este es ahora el texto de referencia real.**
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
-- A la espera de la siguiente corrección/feedback de la preparadora
-  (segunda entrega) o de que Pepe retome la tercera entrega (puntos 4-5,
-  objetivos y contenidos — ver §16-18).
+
+## 20. Últimos detalles de la SEGUNDA ENTREGA, cerrados (18/11/2026)
+
+Llegó la corrección de la **tercera entrega** (puntos 4-5), pero antes
+de entrar con ella Pepe señaló un par de detalles pendientes que la
+preparadora seguía marcando sobre la segunda entrega (puntos 1-3), ya
+sobre el documento real `Plantilla_PD_Unificada.docx`
+("...PEPE-3entrega.docx").
+
+### 20.1 — Punto 1.5, bullet "Sociológica": recorte por repetición
+
+La preparadora señaló dos veces el mismo párrafo:
+> "...un planteamiento que el informe de la UNESCO «Reimaginar juntos
+> nuestros futuros: un nuevo contrato social para la educación» (2021)
+> actualiza para los retos educativos del siglo XXI. Esta fuente
+> resulta especialmente pertinente en un módulo como el que nos ocupa,
+> cuyo propio objeto de estudio, las habilidades sociales, se encuadra
+> dentro de las denominadas soft skills que el CEDEFOP (Centro Europeo
+> para el Desarrollo de la Formación Profesional) señala como
+> imprescindibles para los profesionales del siglo XXI."
+
+Comentario textual: "pon esto de otra forma, sois muchos los que habéis
+puesto esto" — es decir, no es una repetición interna del documento,
+sino un párrafo muy usado por otros opositores en sus propias entregas.
+
+Pepe advirtió que una propuesta inicial de reformular citando de nuevo
+el art. 5 del RD 1074/2012 (competencias profesionales) habría repetido
+contenido ya presente en el punto 3.2 — se descartó por eso. Decisión
+final de Pepe: **cortar el párrafo sin más**, eliminando también la
+mención al informe UNESCO (2021) por el mismo motivo (otro contenido
+muy repetido entre compañeros). Texto final del bullet:
+
+> "Sociológica: recoge las características de la sociedad y los
+> aspectos fundamentales de su organización y dinámica, así como las
+> demandas sociales al sistema educativo. Siguiendo a Delors (1996),
+> conviene dirigir los procesos de enseñanza hacia los cuatro pilares
+> del desarrollo ciudadano (aprender a conocer, aprender a hacer,
+> aprender a convivir y aprender a ser)."
+
+Aplicado en azul (0070C0) en `materiales/Plantilla_PD_Unificada.docx`.
+En `materiales/Referencias_Bibliograficas_Acumuladas.docx` se retiró la
+entrada de UNESCO (2021) del punto 1.5 (Delors 1996 se mantiene, sigue
+citado); se actualizó la nota de "Menciones sin referencia APA
+completa" marcando también CEDEFOP como retirado/resuelto (ya no
+aparece en el texto, no necesita cita).
+
+### 20.2 — Punto 2.3: frase puente antes de los dos bloques de recursos
+
+La preparadora señaló que el párrafo "A nivel de comunidad, el
+municipio cuenta con una red de servicios y entidades sociales reales y
+documentadas que constituyen un entorno productivo y asociativo
+especialmente pertinente para el perfil profesional del Técnico
+Superior en Integración Social." daba un salto brusco a los dos bloques
+siguientes (**Servicios de responsabilidad pública** / **Entidades del
+tercer sector presentes en el municipio**), sin anunciarlos antes.
+
+Se añadió, a continuación del párrafo citado, en azul (0070C0):
+
+> "Esta red se articula, por un lado, en torno a los servicios de
+> responsabilidad pública que atienden a la población en situación de
+> dependencia o vulnerabilidad y, por otro, en torno a las entidades
+> del tercer sector que complementan dicha atención desde la iniciativa
+> social. A continuación se describen ambos tipos de recursos."
+
+Pepe confirmó ("Genial, incluida") que ya la incorporó él mismo a mano
+en su documento real.
+
+**Con esto se dan por cerradas todas las correcciones pendientes de la
+segunda entrega.** A partir de aquí, Pepe pasa a relayar las
+correcciones de la tercera entrega (puntos 4-5, objetivos y
+contenidos), ya recibidas de la preparadora.
+
+### Pendiente
+- Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
+  por si aportan algo nuevo (todavía no revisados a fondo).
+- Recibir y aplicar las correcciones de la preparadora sobre la tercera
+  entrega (puntos 4-5), incluyendo posible resolución de las tres dudas
+  planteadas en el punto 5.4 (ver §16).
