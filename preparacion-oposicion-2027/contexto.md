@@ -2195,12 +2195,57 @@ documento de la tercera entrega por si quedan más menciones sin
 anonimizar (no se ha hecho un barrido completo todavía, solo se
 detectó esta al pasar por la zona).
 
+### 21.5 — Punto 5.2 señalado entero: fusión de 5.1+5.2 y aplazamiento de la nota de colores
+
+La preparadora señaló todo el punto 5.2 ("Contenidos didácticos") con:
+"Puedes subir esto a contenidos y unificar el apartado de contenidos
+con didácticos y así puedes señalar lo que dices en el último párrafo
+si quieres aquí también o dejarlo para las UT como quieras". Dos
+decisiones, la segunda a elección de Pepe:
+
+1. **Fusionar 5.1 ("Contenidos del módulo") y 5.2 ("Contenidos
+   didácticos") en un solo apartado.** Decisión de Pepe: **sí,
+   fusionar.**
+2. **Las dos notas del último párrafo de 5.2** (contenidos en azul =
+   vinculados al RA5/FEM; contenidos en negrita = imprescindibles vs.
+   ampliación) — **dejarlas para cuando se redacten las Unidades de
+   Trabajo**, que es donde esos colores se aplicarán por primera vez.
+   Decisión de Pepe: **aplazarlas.**
+
+**Aplicado en `materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx`**:
+- Eliminado el encabezado "5.2. Contenidos didácticos".
+- La última frase de 5.1 ("...en función de las necesidades didácticas
+  concretas de cada Unidad.") se amplía con: "Dichos contenidos se
+  concretarán y distribuirán, de forma pormenorizada, en los
+  contenidos didácticos de cada una de las doce Unidades de Trabajo,
+  siguiendo los criterios adaptados de Binaburo Iturbide y Gijón Puerta
+  (2007) que se recogen a continuación:", seguida directamente de la
+  lista de 9 criterios (sin cambios).
+- Eliminados los dos párrafos de azul/negrita del final de 5.2 (ver
+  pendiente abajo: hay que recuperarlos al redactar las UT).
+- **Renumerado**: "5.3. Contenidos profesionales transversales" → 5.2,
+  "5.4. Interdisciplinariedad" → 5.3. Verificado que no quedaba ninguna
+  otra referencia cruzada a "5.3"/"5.4" en el resto del documento.
+- Enviado a Pepe como documento independiente
+  (`Punto_5_1-5.3_fusionado.docx`, apaisado por la tabla) con el
+  apartado 5 completo ya fusionado y renumerado, para copiar y pegar.
+  Verificado frase por frase contra el original que no se perdía
+  ninguna información (solo las dos notas de color, aplazadas a
+  propósito).
+
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
 - **Barrido completo de anonimización pendiente en
   `Plantilla_Entrega3_0017_Habilidades_Sociales.docx`** (puntos 4-5):
   solo se ha revisado el entorno del 5.1 hasta ahora.
+- **Recuperar, al redactar las Unidades de Trabajo**, las dos notas de
+  color aplazadas del antiguo 5.2: contenidos en azul = vinculados al
+  RA5/FEM; contenidos en negrita = imprescindibles (refuerzo/
+  recuperación) vs. contenidos de ampliación. Texto original disponible
+  en §21.5 y en el historial de este documento (commit anterior a esta
+  fusión).
 - Seguir recibiendo y aplicando el resto de correcciones de la
   preparadora sobre la tercera entrega (puntos 4-5), incluyendo posible
-  resolución de las tres dudas planteadas en el punto 5.4 (ver §16).
+  resolución de las tres dudas planteadas en el punto 5.4 (ver §16; la
+  numeración antigua "5.4" ahora es "5.3" tras esta fusión).
