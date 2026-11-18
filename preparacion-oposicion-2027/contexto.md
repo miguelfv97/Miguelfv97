@@ -2259,6 +2259,63 @@ cursiva (mismo formato que las dudas del 5.4 original, ahora 5.3):
 > tomando como referencia los contenidos y bloques ya establecidos en
 > el apartado 5.1.]"
 
+### 21.7 — Punto 5.3 (antiguo 5.4), "Interdisciplinariedad": reestructura completa
+
+La preparadora: "lo que planteas está bien pero debes de concretar
+dentro de esos RA con qué UT y actuaciones te coordinas. Luego, creo
+que seguro que habrá alguno de 1º y de 2º con los que tengas también
+alguna relación más... o en el caso de los de primero que te sirvan de
+base para ampliar algo". Y, sobre la duda del departamento de IPE:
+"aunque sea del departamento de FOL, se refiere a interdisciplinariedad
+dentro del mismo ciclo y con compañeros docentes que impartan en el
+mismo ciclo".
+
+Decisiones de Pepe: descartar la opción de buscar otro módulo de 2º
+además de 1710; combinar la concreción con 1710 (coordinación
+simultánea, misma anualidad) con la relación con un módulo de 1º
+(0342, relación secuencial/de base, no simultánea — sin necesidad de
+especificar UT/actuación conjunta, porque el módulo ya ha terminado
+cuando empieza 0017). Pepe confirma, por conocimiento directo de la
+CARM, que **0342 (Promoción de la autonomía personal) es de 1º
+curso**. Añade que, aun siendo relación secuencial, **habrá que
+coordinarse con el docente de 0342** para delimitar contenidos y
+enfoque compartido, evitando solapamientos.
+
+**Verificado en el RD 1074/2012 (texto cacheado, `/tmp/rd1074_2012.txt`)**
+antes de usarlo: el RA1 de 0342 dice literalmente "Elabora programas de
+entrenamiento de habilidades de autonomía personal y social,
+seleccionando las técnicas propias de la intervención" — coincide con
+la nota previa (§16). Su atribución docente es Intervención
+Sociocomunitaria (la misma especialidad de Pepe) — dato adicional no
+usado en el texto final, pero relevante: a diferencia de 1710 (otro
+departamento), con 0342 sí habría coincidencia de departamento.
+
+**Aplicado en `materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx`**:
+- Nuevo párrafo de concreción con 1710: propone situar la coordinación
+  en la **Unidad de Trabajo 6** (última del bloque RA2, Dinamización
+  del trabajo en grupo), mediante una dinámica de grupo de simulación
+  de un proceso de selección de personal (tipo *assessment center*),
+  con reparto de roles entre ambos módulos. Marcado como ajustable al
+  diseñar las UT en detalle.
+- Nueva fila en la tabla "CONTENIDOS INTERMODULARES" para 0342 (1º
+  curso).
+- Nuevo párrafo explicando la relación con 0342: RA1 citado
+  literalmente, el cambio de enfoque (intervención con personas
+  usuarias → desempeño profesional propio del alumnado) y la necesidad
+  de coordinarse con su profesorado para delimitar contenidos.
+- **Eliminada la duda 1** (criterio 2º vs. 1º curso) — resuelta al
+  combinar ambas relaciones.
+- **Eliminada la duda 3** (departamento del profesorado de IPE) —
+  resuelta verbalmente por la preparadora (mismo ciclo, no mismo
+  departamento); Pepe decidió **no añadir ningún párrafo explicativo
+  al documento**, solo quitar la pregunta.
+- **Se mantiene la duda 2** (si mencionar aquí el hilo conductor de la
+  "caja de herramientas" o dejarlo para las UT) — sigue sin respuesta
+  de la preparadora, pendiente.
+
+Con esto queda resuelta toda la corrección de la preparadora sobre la
+tercera entrega recibida hasta ahora, salvo la duda 2 pendiente.
+
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
@@ -2266,9 +2323,14 @@ cursiva (mismo formato que las dudas del 5.4 original, ahora 5.3):
   `Plantilla_Entrega3_0017_Habilidades_Sociales.docx`** (puntos 4-5):
   solo se ha revisado el entorno del 5.1 hasta ahora.
 - **Al diseñar las UT**, además de las notas de color del punto 21.5,
-  concretar también el reparto de los 8 valores transversales del
+  concretar también: el reparto de los 8 valores transversales del
   punto 5.2 por Unidad de Trabajo y su aplicación en actividades (nota
-  roja del punto 21.6).
+  roja del punto 21.6); la dinámica de selección de personal
+  coordinada con 1710 en la UT6 propuesta (punto 21.7, ajustable); la
+  coordinación efectiva con el profesorado de 0342 (punto 21.7).
+- **Duda 2 del antiguo 5.4 (ahora 5.3), sin resolver**: si mencionar ya
+  en el apartado de interdisciplinariedad el hilo conductor de la
+  "caja de herramientas", o dejarlo para el diseño de las UT.
 - **Recuperar, al redactar las Unidades de Trabajo**, las dos notas de
   color aplazadas del antiguo 5.2: contenidos en azul = vinculados al
   RA5/FEM; contenidos en negrita = imprescindibles (refuerzo/
