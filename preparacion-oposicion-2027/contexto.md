@@ -2337,6 +2337,23 @@ Con esto queda resuelta toda la corrección de la preparadora sobre la
 tercera entrega recibida hasta ahora, y las tres dudas originales del
 5.3 (antiguo 5.4) están cerradas.
 
+### 21.8 — Corrección de terminología: FCT ya no se llama así, es FEM
+
+Pepe señaló que, bajo el párrafo de la tabla del 4.3, el documento
+decía "la fase de Formación en el Centro de Trabajo (FCT/FEM)" — pero
+FCT es la denominación antigua; preguntó cuál es el nombre exacto
+actual. Ya lo teníamos verificado con fuente oficial en el punto 1.3
+de `Plantilla_PD_Unificada.docx` (Resolución de 4 de agosto de 2026,
+instrucciones de inicio de curso): el nombre correcto es **"fase de
+Formación en Empresa u Organismo equiparado (FEM)"**, no "fase
+empresa" ni FCT.
+
+Corregido en `Plantilla_Entrega3_0017_Habilidades_Sociales.docx`: "Se
+ha asignado la fase de Formación en el Centro de Trabajo (FCT/FEM) al
+RA5..." → "Se ha asignado la fase de Formación en Empresa u Organismo
+equiparado (FEM) al RA5...". Comprobado que no quedaba ninguna otra
+mención a "FCT" en el resto del documento.
+
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
