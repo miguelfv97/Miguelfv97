@@ -2292,13 +2292,27 @@ departamento), con 0342 sí habría coincidencia de departamento.
 
 **Aplicado en `materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx`**:
 - Nuevo párrafo de concreción con 1710: propone situar la coordinación
-  en la **Unidad de Trabajo 6** (última del bloque RA2, Dinamización
-  del trabajo en grupo), mediante una dinámica de grupo de simulación
-  de un proceso de selección de personal, con reparto de roles entre
-  ambos módulos. Marcado como ajustable al diseñar las UT en detalle.
-  **Corrección de Pepe (18/11/2026)**: se quitó "tipo assessment
-  center" del texto por ser un término en inglés innecesario, dejando
-  solo la formulación en castellano.
+  en la **Unidad de Trabajo 5 (Dinámicas de grupo y liderazgo)**,
+  dentro del bloque dedicado al RA2 (Dinamización del trabajo en
+  grupo), mediante una dinámica de grupo de simulación de un proceso
+  de selección de personal, con reparto de roles entre ambos módulos.
+  Marcado como ajustable al diseñar las UT en detalle.
+  **Correcciones de Pepe (18/11/2026)**:
+  1. Se quitó "tipo assessment center" del texto por ser un término en
+     inglés innecesario, dejando solo la formulación en castellano.
+  2. **Corrección de UT**: la propuesta inicial decía "Unidad de
+     Trabajo 6, última de las dedicadas al RA2" — una suposición sin
+     comprobar el contenido real de las UT. Pepe preguntó si de verdad
+     era la UT6 la que mejor encajaba. Revisando los nombres reales de
+     las 4 UT del bloque RA2 (`Modulo_0017_Reparto_Contenidos_RA_UT.docx`):
+     UT3 "El grupo: tipos, estructura y desarrollo", UT4 "Comunicación
+     grupal: estilos y barreras", UT5 "Dinámicas de grupo y
+     liderazgo", UT6 "El equipo de trabajo: cohesión y motivación".
+     Una simulación de proceso de selección de personal es,
+     literalmente, una técnica de dinámica de grupo que evalúa entre
+     otras cosas el liderazgo — encaja mucho mejor en la **UT5**, no
+     en la UT6. Corregido; UT5 sigue perteneciendo al RA2 (es la
+     tercera de las cuatro, no la última).
 - Nueva fila en la tabla "CONTENIDOS INTERMODULARES" para 0342 (1º
   curso).
 - Nuevo párrafo explicando la relación con 0342: RA1 citado
