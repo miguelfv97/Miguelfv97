@@ -2073,6 +2073,72 @@ contenidos), ya recibidas de la preparadora.
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
-- Recibir y aplicar las correcciones de la preparadora sobre la tercera
-  entrega (puntos 4-5), incluyendo posible resolución de las tres dudas
-  planteadas en el punto 5.4 (ver §16).
+
+## 21. TERCERA ENTREGA — correcciones de la preparadora, puntos 4-5 (desde 18/11/2026)
+
+Llegó la corrección de la preparadora sobre la tercera entrega. Pepe la
+va destilando y pasándonos las correcciones concretas (los ajustes de
+estilo menores — comas, comillas — los resuelve él mismo sin necesidad
+de relayarlos).
+
+### 21.1 — Duda de Pepe (no una corrección): la referencia "(ver apartado X)" en la intro del punto 4
+
+La preparadora señaló, en la frase de la introducción del punto 4
+("...vinculados a la mediación, las habilidades sociales, la
+creatividad y la innovación, la toma de decisiones, el liderazgo y la
+comunicación en el trabajo en grupo, y la cultura de la calidad."),
+que se añadiera entre paréntesis "(ver apartado X de la PD)". Pepe
+preguntó si era un hueco para rellenar en el futuro o si ya había un
+apartado que lo desarrollara.
+
+**Resuelto por verificación directa del documento**: el propio punto
+**4.1** ("Selección/justificación/contextualización de objetivos
+generales"), que viene justo a continuación dentro del mismo punto 4,
+contiene la tabla con el texto literal completo de esas mismas siete
+letras (m, o, q, r, s, t, w) del art. 9 del RD 1074/2012 — confirmado
+letra por letra contra el XML del documento. No es un hueco pendiente:
+la referencia correcta es **"(ver apartado 4.1 de la PD)"**, una
+autorreferencia al apartado que sigue inmediatamente.
+
+### 21.2 — Punto 4.2: justificación de las ponderaciones de los RA
+
+La preparadora pidió añadir, en algún punto del 4.2, el por qué de la
+ponderación asignada a cada RA (20/15/15/20/30%), ya que es algo que se
+le preguntará en la defensa oral.
+
+Se recuperó la justificación ya documentada y cerrada en su momento
+(§14, "Punto 6 — ponderación de los RA"): más peso a los RA cuyo verbo
+es *implementa*/*evalúa* (RA1, RA4, RA5) por conectar directamente con
+la competencia general del título (RD 289/2023: "programar, organizar
+y evaluar las intervenciones..."), frente a *dinamiza*/*conduce* (RA2,
+RA3); dentro de ese grupo, el RA5 recibe un extra (30% vs. 20%) por ser
+el RA evaluativo y transversal de cierre del módulo; decisión tomada
+**a propósito en contra** del criterio de nº de criterios de evaluación
+(RA2 tiene 10 CE, igual que RA1 y RA4, pero menos peso que RA5, que
+solo tiene 9).
+
+Pepe ya ha incorporado este párrafo, en azul (0070C0), a continuación
+de la tabla de ponderaciones del 4.2, antes del encabezado del 4.3, en
+su propio documento de trabajo. Se replicó igual en
+`materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx`.
+
+### 21.3 — Punto 4.3: acortar la tabla de interrelación objetivos-UT
+
+La preparadora pidió que, en las columnas "Objetivos Generales de Ciclo
+(OGC)" y "Competencias Profesionales y para la Empleabilidad (CPE)" de
+la tabla del 4.3, solo aparezca la letra (p. ej. "o)"), sin el texto
+completo del objetivo/competencia — para que la tabla se pueda ver de
+un solo vistazo. Se eliminaron los 13 párrafos de texto largo
+(incluida la competencia s), repetida en RA1 y RA3), dejando solo la
+letra en negrita en cada celda. Aplicado en
+`materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx` y
+enviado a Pepe como documento independiente (`Tabla_4_3_corregida.docx`,
+apaisado) para que lo copie y pegue directamente en su documento de
+trabajo.
+
+### Pendiente
+- Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
+  por si aportan algo nuevo (todavía no revisados a fondo).
+- Seguir recibiendo y aplicando el resto de correcciones de la
+  preparadora sobre la tercera entrega (puntos 4-5), incluyendo posible
+  resolución de las tres dudas planteadas en el punto 5.4 (ver §16).
