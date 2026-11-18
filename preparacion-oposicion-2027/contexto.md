@@ -2294,9 +2294,11 @@ departamento), con 0342 sí habría coincidencia de departamento.
 - Nuevo párrafo de concreción con 1710: propone situar la coordinación
   en la **Unidad de Trabajo 6** (última del bloque RA2, Dinamización
   del trabajo en grupo), mediante una dinámica de grupo de simulación
-  de un proceso de selección de personal (tipo *assessment center*),
-  con reparto de roles entre ambos módulos. Marcado como ajustable al
-  diseñar las UT en detalle.
+  de un proceso de selección de personal, con reparto de roles entre
+  ambos módulos. Marcado como ajustable al diseñar las UT en detalle.
+  **Corrección de Pepe (18/11/2026)**: se quitó "tipo assessment
+  center" del texto por ser un término en inglés innecesario, dejando
+  solo la formulación en castellano.
 - Nueva fila en la tabla "CONTENIDOS INTERMODULARES" para 0342 (1º
   curso).
 - Nuevo párrafo explicando la relación con 0342: RA1 citado
