@@ -2136,9 +2136,71 @@ enviado a Pepe como documento independiente (`Tabla_4_3_corregida.docx`,
 apaisado) para que lo copie y pegue directamente en su documento de
 trabajo.
 
+### 21.4 — Punto 5.1: frase confusa sobre el RA5/FCT y justificación de los "cinco bloques"
+
+Dos correcciones más de la preparadora dentro del 5.1:
+
+**a) "esto no lo entiendo (??)"** sobre la frase: "Esta determinación no
+afecta solo a los contenidos que se desarrollan en el centro educativo
+y en el aula, sino también a su proyección más práctica, en la medida
+en que el Resultado de Aprendizaje 5 de este módulo —vinculado a la
+fase de Formación en Centros de Trabajo, como se ha señalado en el
+apartado 4.3— exige que dichos contenidos resulten transferibles al
+desempeño profesional real del alumnado." Causa probable de la
+confusión: mezclaba dos ideas (determinación de contenidos por el
+equipo docente / exigencia de transferibilidad del RA5) con un "no
+afecta solo a... sino también a..." poco claro, y llamaba "fase de
+Formación en Centros de Trabajo" a algo que, como ya consta en §14,
+es una vinculación pedagógica propia de esta programación (el módulo
+tiene 0h de FCT oficiales; el RA5 se eligió por ser el único que
+menciona "desarrollo de funciones profesionales"). Reformulado, dejando
+explícito que es una decisión de la programación:
+
+> "Esta determinación no afecta solo a los contenidos que se desarrollan
+> en el centro educativo y en el aula, sino también a su aplicabilidad
+> práctica, ya que esta programación vincula al Resultado de Aprendizaje
+> 5 —el único que hace referencia explícita al desempeño de funciones
+> profesionales (ver apartado 4.3)— la proyección de los contenidos del
+> módulo hacia el ejercicio profesional real del alumnado."
+
+**b) "Explica por qué 5 bloques, ¿se relacionan con los RA??"** sobre la
+frase previa a la tabla de bloques de contenidos. Los 5 bloques ya
+correspondían 1 a 1 con los 5 RA (título de cada bloque, casi literal
+al verbo de su RA), pero solo se mencionaba de pasada y no se veía en
+la tabla. Se amplió la frase:
+
+> "A partir de este marco, los contenidos del módulo se organizan en
+> cinco bloques, en correspondencia directa con los cinco Resultados de
+> Aprendizaje establecidos en el apartado 4.2, de modo que cada bloque
+> desarrolla los contenidos necesarios para alcanzar un único RA,
+> manteniendo así la coherencia entre contenidos, resultados de
+> aprendizaje y criterios de evaluación. Dicha correspondencia se
+> recoge en la siguiente tabla:"
+
+Y se añadió el RA entre paréntesis en el título de cada bloque de la
+tabla: **Bloque 1 (RA1)**, **Bloque 2 (RA2)**, **Bloque 3 (RA3)**,
+**Bloque 4 (RA4)**, **Bloque 5 (RA5)** — correspondencia 1:1 por
+número. Pepe lo aplica a mano en su documento; replicado también en
+`materiales/Plantilla_Entrega3_0017_Habilidades_Sociales.docx`.
+
+**Hallazgo adicional (anonimización)**: en el mismo párrafo del 5.1
+("los contenidos de este módulo se adaptarán a la realidad del IES
+Villa de Abarán...") apareció el nombre real del centro, que solo se
+había anonimizado en el documento de la segunda entrega
+(`Plantilla_PD_Unificada.docx`), no en este de la tercera
+(`Plantilla_Entrega3...`). Corregido a "del centro educativo" (al ser
+una referencia hacia atrás al punto 2, ya anonimizado, no hace falta
+repetir la fórmula completa). **Pendiente**: revisar el resto de este
+documento de la tercera entrega por si quedan más menciones sin
+anonimizar (no se ha hecho un barrido completo todavía, solo se
+detectó esta al pasar por la zona).
+
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
   por si aportan algo nuevo (todavía no revisados a fondo).
+- **Barrido completo de anonimización pendiente en
+  `Plantilla_Entrega3_0017_Habilidades_Sociales.docx`** (puntos 4-5):
+  solo se ha revisado el entorno del 5.1 hasta ahora.
 - Seguir recibiendo y aplicando el resto de correcciones de la
   preparadora sobre la tercera entrega (puntos 4-5), incluyendo posible
   resolución de las tres dudas planteadas en el punto 5.4 (ver §16).
