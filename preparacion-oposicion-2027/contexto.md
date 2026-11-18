@@ -2325,12 +2325,17 @@ departamento), con 0342 sí habría coincidencia de departamento.
   resuelta verbalmente por la preparadora (mismo ciclo, no mismo
   departamento); Pepe decidió **no añadir ningún párrafo explicativo
   al documento**, solo quitar la pregunta.
-- **Se mantiene la duda 2** (si mencionar aquí el hilo conductor de la
-  "caja de herramientas" o dejarlo para las UT) — sigue sin respuesta
-  de la preparadora, pendiente.
+- **Duda 2 — RESUELTA (18/11/2026)**: Pepe le preguntó directamente a
+  la preparadora (fuera del circuito de correcciones formales) y ella
+  respondió: "Eso es para las UT porque es un trabajo modular dentro
+  de tu MP, ya se pone y se refleja en las UT". Es decir, el hilo
+  conductor de la "caja de herramientas" NO se menciona en el 5.3,
+  se refleja directamente al diseñar las UT. **Eliminada la duda 2
+  del documento.**
 
 Con esto queda resuelta toda la corrección de la preparadora sobre la
-tercera entrega recibida hasta ahora, salvo la duda 2 pendiente.
+tercera entrega recibida hasta ahora, y las tres dudas originales del
+5.3 (antiguo 5.4) están cerradas.
 
 ### Pendiente
 - Revisar `EVALUACION_CRITERIAL.pdf` y `BASES_REGULADORAS_CONVOCATORIA.pdf`
@@ -2342,11 +2347,11 @@ tercera entrega recibida hasta ahora, salvo la duda 2 pendiente.
   concretar también: el reparto de los 8 valores transversales del
   punto 5.2 por Unidad de Trabajo y su aplicación en actividades (nota
   roja del punto 21.6); la dinámica de selección de personal
-  coordinada con 1710 en la UT6 propuesta (punto 21.7, ajustable); la
-  coordinación efectiva con el profesorado de 0342 (punto 21.7).
-- **Duda 2 del antiguo 5.4 (ahora 5.3), sin resolver**: si mencionar ya
-  en el apartado de interdisciplinariedad el hilo conductor de la
-  "caja de herramientas", o dejarlo para el diseño de las UT.
+  coordinada con 1710 en la UT5 propuesta (punto 21.7, ajustable); la
+  coordinación efectiva con el profesorado de 0342 (punto 21.7); y
+  reflejar ahí mismo el hilo conductor de la "caja de herramientas"
+  (confirmado por la preparadora que va en las UT, no en el 5.3 — ver
+  arriba, duda 2 resuelta).
 - **Recuperar, al redactar las Unidades de Trabajo**, las dos notas de
   color aplazadas del antiguo 5.2: contenidos en azul = vinculados al
   RA5/FEM; contenidos en negrita = imprescindibles (refuerzo/
