@@ -187,3 +187,22 @@ nov, vs CD Ubarchena, fuera, 19:00) deja el domingo 22 libre — toca brick
 | Vie 20 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
 | Sáb 21 nov | Baloncesto: partido (jornada 6, CD Ubarchena, fuera, 19:00) | Día de partido, a cero | Sin entreno estructurado | — |
 | Dom 22 nov | **Semana C — brick** | Transición y piernas cansadas | Bici moderada-larga (Resistencia Aeróbica-Potencia Aeróbica) + transición rápida + carrera corta suave (Recuperación/Resistencia Aeróbica, 10-20 min) | ☐ |
+
+## Semana del 23 al 29 de noviembre de 2026 — cuarta semana de la fase Base
+
+**COROS sigue caído** (desde el 31 de octubre, 24º día hoy) — seguimos sin
+poder confirmar cumplimiento real ni recuperación/carga.
+
+**Vuelve a Semana A del ciclo**: la jornada 7 de baloncesto (sábado 28 nov,
+vs Ciky Oro C.D. Los Urrutias, 17:00) deja el domingo 29 libre — toca bici
+larga continua.
+
+| Fecha | Disciplina | Objetivo | Duración / estructura | Creada en COROS |
+|---|---|---|---|---|
+| Lun 23 nov | Gimnasio Rutina A (tren superior) + baloncesto | Rutina normal de lunes | Ver `rutinas/fuerza.md` — sin confirmar vía COROS (caído) | — |
+| Mar 24 nov | Gimnasio (pierna) + natación aeróbica | Rutina normal de martes | 3x400m a 2:33-2:36/100m — sin confirmar vía COROS (caído) | ☐ |
+| Mié 25 nov | Gimnasio (complementario) + baloncesto | Rutina normal de miércoles | Sin carrera estructurada — sin confirmar vía COROS (caído) | — |
+| Jue 26 nov | Series de calidad + baloncesto | Quinta semana de calidad en Base | 6x1000m progresivos (Potencia Aeróbica→Umbral→Resistencia Anaeróbica) | ☐ |
+| Vie 27 nov | Natación de calidad (3 rondas) | — | Ver `rutinas/sesiones-triatlon.md` | ☐ |
+| Sáb 28 nov | Baloncesto: partido (jornada 7, Ciky Oro C.D. Los Urrutias, 17:00) | Día de partido, a cero | Sin entreno estructurado | — |
+| Dom 29 nov | **Semana A — bici larga continua** | Volumen y resistencia específica de bici | Sin carrera después; progresión suave en distancia/desnivel | ☐ |
