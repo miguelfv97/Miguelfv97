@@ -28,6 +28,7 @@ Carpeta de trabajo para preparar la oposición. Aquí se guardan los documentos,
 | Documento principal: ficha, estructura, temario oficial, plan de repaso y desarrollo | [Claude Docs](https://claude.ai/artifact/5DnjXYKB5zo68MwRTGSdiz) |
 | Cuadernillo 01 · General I, temas 1–6 | [`01_General_I_Temas_1-6.pdf`](01_General_I_Temas_1-6.pdf) · fuente: [`fuentes/01_general_I_temas_1-6.md`](fuentes/01_general_I_temas_1-6.md) |
 | Notas: puestos, bolsa de interinos y condiciones (26/11/2026) | [`notas/2026-11-26_puestos_bolsa_condiciones.md`](notas/2026-11-26_puestos_bolsa_condiciones.md) |
+| Cuadernillo 02 · General II, temas 7–12 | [`02_General_II_Temas_7-12.pdf`](02_General_II_Temas_7-12.pdf) · fuente: [`fuentes/02_general_II_temas_7-12.md`](fuentes/02_general_II_temas_7-12.md) |
 | Propuesta de cambios en GitHub | [miguelfv97/Miguelfv97#4](https://github.com/miguelfv97/Miguelfv97/pull/4) |
 
 ### Plan de cuadernillos
@@ -35,7 +36,7 @@ Carpeta de trabajo para preparar la oposición. Aquí se guardan los documentos,
 | N.º | Cuadernillo | Temas | Estado |
 | --- | --- | --- | --- |
 | 01 | General I: Constitución, Derecho administrativo y local | G1–G6 | Hecho |
-| 02 | General II: presupuesto, UE, personal, transparencia, igualdad y PRL | G7–G12 | Pendiente |
+| 02 | General II: presupuesto, UE, personal, transparencia, igualdad y PRL | G7–G12 | Hecho |
 | 03 | Específico A: Sistema de Servicios Sociales | 1, 2, 14–20, 29 y 30 | Pendiente |
 | 04 | Específico B: Metodología de la intervención | 3, 4, 6, 21–24, 26 y 27 | Pendiente |
 | 05 | Específico C: Comunidad, participación y valores | 5, 10, 12, 25, 28, 35, 44 y 45 | Pendiente |
@@ -73,6 +74,9 @@ Carpeta de trabajo para preparar la oposición. Aquí se guardan los documentos,
 - [LO 3/2007, Igualdad](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115)
 - [LO 1/2004, Violencia de Género](https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760)
 - [Ley 31/1995, Prevención de Riesgos Laborales](https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292)
+- [Ley 12/2014, Transparencia de la Región de Murcia](https://www.boe.es/buscar/act.php?id=BOE-A-2015-184)
+- [Versiones consolidadas del TUE y TFUE, DOUE C 202/2016](https://www.boe.es/doue/2016/202/Z00001-00388.pdf)
+- [RDL 14/2025, retribuciones del sector público](https://www.boe.es/buscar/act.php?id=BOE-A-2025-24445)
 - [Código Civil](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763)
 - [LO 4/1982, Estatuto de Autonomía de la Región de Murcia](https://www.boe.es/buscar/act.php?id=BOE-A-1982-15031)
 
