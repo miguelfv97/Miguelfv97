@@ -27,6 +27,7 @@ Carpeta de trabajo para preparar la oposición. Aquí se guardan los documentos,
 | --- | --- |
 | Documento principal: ficha, estructura, temario oficial, plan de repaso y desarrollo | [Claude Docs](https://claude.ai/artifact/5DnjXYKB5zo68MwRTGSdiz) |
 | Cuadernillo 01 · General I, temas 1–6 | [`01_General_I_Temas_1-6.pdf`](01_General_I_Temas_1-6.pdf) · fuente: [`fuentes/01_general_I_temas_1-6.md`](fuentes/01_general_I_temas_1-6.md) |
+| Notas: puestos, bolsa de interinos y condiciones (26/11/2026) | [`notas/2026-11-26_puestos_bolsa_condiciones.md`](notas/2026-11-26_puestos_bolsa_condiciones.md) |
 | Propuesta de cambios en GitHub | [miguelfv97/Miguelfv97#4](https://github.com/miguelfv97/Miguelfv97/pull/4) |
 
 ### Plan de cuadernillos
