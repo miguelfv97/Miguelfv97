@@ -1,0 +1,16 @@
+{
+  "name": "biwenger-daily-analysis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Consulta la API de Biwenger y genera un analisis diario de la liga.",
+  "type": "module",
+  "scripts": {
+    "analyze": "node scripts/biwenger-analysis.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "undici": "^8.10.0"
+  }
+}

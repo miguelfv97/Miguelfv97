@@ -1,0 +1,26 @@
+@page { size: A4; }
+body { font-family: 'Charter','Bitstream Charter','DejaVu Serif',serif; font-size: 10.6pt; line-height: 1.45; color: #1a1a1a; }
+h1,h2,h3,h4,.boxt,th { font-family: Inter, sans-serif; }
+h1 { font-size: 22pt; margin: 0 0 4mm; color: #1f3a5f; letter-spacing: -0.3px; }
+h2 { font-size: 15pt; color: #1f3a5f; border-bottom: 2px solid #1f3a5f; padding-bottom: 2mm; margin: 0 0 4mm; page-break-before: always; }
+.cover { page-break-after: always; }
+h3 { font-size: 11.5pt; color: #2b4d78; margin: 5mm 0 2mm; page-break-after: avoid; }
+h4 { font-size: 10.5pt; margin: 3mm 0 1mm; page-break-after: avoid; }
+p { margin: 0 0 2.2mm; text-align: justify; hyphens: auto; }
+ul,ol { margin: 0 0 2.5mm; padding-left: 6mm; } li { margin-bottom: 0.8mm; }
+table { border-collapse: collapse; width: 100%; margin: 2mm 0 4mm; font-size: 9.4pt; page-break-inside: auto; }
+tr { page-break-inside: avoid; }
+th { background: #e8eef5; text-align: left; font-weight: 600; font-size: 8.8pt; }
+th,td { border: 1px solid #c5cfdb; padding: 1.4mm 2mm; vertical-align: top; }
+a { color: #1f4e8c; text-decoration: none; }
+strong { color: #000; }
+.box { border: 1px solid #c5cfdb; border-left: 4px solid #1f3a5f; background: #f5f8fb; padding: 2.5mm 4mm 1mm; margin: 2mm 0 4mm; page-break-inside: avoid; border-radius: 1.5mm; }
+.box.claves { border-left-color: #b5651d; background: #fdf6ee; }
+.box.aviso { border-left-color: #a33; background: #fbf0f0; }
+.boxt { font-weight: 700; font-size: 9pt; text-transform: uppercase; letter-spacing: 0.5px; color: #1f3a5f; margin-bottom: 1.5mm; }
+.box.claves .boxt { color: #8a4a12; } .box.aviso .boxt { color: #a33; }
+.box p, .box li { font-size: 9.8pt; }
+.enunciado { font-style: italic; color: #333; border-left: 2px solid #999; padding-left: 3mm; margin: 0 0 4mm; }
+.cover { padding-top: 30mm; }
+.cover .sub { font-family: Inter, sans-serif; font-size: 12pt; color: #555; margin-bottom: 12mm; }
+.small { font-size: 8.8pt; color: #555; }
